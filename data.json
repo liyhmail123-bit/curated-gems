@@ -81,19 +81,21 @@
 "best_quote_zh": "“在黑夜中得到的黑色的眼睛，也该在黑夜中继续寻找光明；在白日分辨哪一束光可能是不会熄灭的那一个，确实很难。”"
 
 },
-  {
+   {
     "id": 1,
-    "title": "Why We Should All Watch 'American Factory'",
-    "title_zh": "为什么我们都应该看《美国工厂》",
-    "source": "Planet Money : NPR",
-    "link": "https://www.npr.org/sections/money/2019/09/10/759152615/why-we-should-all-watch-american-factory",
-    "tags": ["Documentary", "Culture", "Economics"],
-    "tags_zh": ["纪录片", "文化", "经济学"],
-    "date": "2019-09-10",
-    "summary_en": "A compelling NPR review of the Netflix documentary 'American Factory', which explores the cultural and economic clashes when a Chinese company, Fuyao Glass, reopens a factory in Dayton, Ohio. The film offers a rare perspective by showing American workplace culture through the eyes of Chinese workers and managers.",
-    "summary_zh": "一篇引人入胜的NPR影评，介绍了Netflix纪录片《美国工厂》。该片讲述了中国福耀玻璃公司在美国俄亥俄州代顿市重新开办工厂时引发的文化和经济冲突。影片通过中国工人和管理者的视角观察美国职场文化，提供了一个罕见的视角。",
-    "best_quote_en": "\"America is a place to let your personality run free. As long as you're not doing anything illegal, you're free to follow your heart. You can even joke about the president. Nobody will do anything to you.\" - A Chinese manager explaining American culture to his staff.",
-    "best_quote_zh": "“美国是一个让你个性奔放的地方。只要你不做任何违法的事，你就可以随心所欲。你甚至可以开总统的玩笑，没有人会对你怎么样。”——一位中国经理向员工解释美国文化。"
+    "title": "《美国工厂》：全球化时代的冲突与反思",
+    "title_zh": "《美国工厂》：全球化时代的冲突与反思",
+    "source": "澎湃新闻",
+    "link": "https://www.thepaper.cn/newsDetail_forward_29093893",
+    "tags": ["影评", "纪录片", "全球化", "劳工关系", "文化冲突"],
+    "tags_zh": ["影评", "纪录片", "全球化", "劳工关系", "文化冲突"],
+    "date": "2025-09-14",
+    "summary_en": "This review delves into the documentary 'American Factory', which critically examines the cultural, economic, and labor-related challenges faced by workers in the context of globalization. The film offers a rare glimpse into the tensions between Chinese management and American workers, highlighting the broader themes of industrialization, job security, and social adaptation.",
+    "summary_zh": "这篇影评深入探讨了纪录片《美国工厂》，该片批判性地审视了全球化背景下，工人在文化、经济及劳工方面所面临的挑战。影片罕见地展示了中国管理层与美国工人之间的紧张关系，突出了工业化、就业保障及社会适应等更广泛的主题。",
+    "best_quote_en": "'American Factory' reveals the often overlooked struggles in the workforce as globalization reshapes traditional labor landscapes. The documentary doesn’t just show a clash between cultures but the larger, systemic issues of capitalism and automation.",
+    "best_quote_zh": "《美国工厂》揭示了在全球化重塑传统劳动格局的过程中，劳动者常被忽视的艰难处境。纪录片不仅展现了文化冲突，更揭示了资本主义与自动化背后更大的制度性问题。",
+    "additional_comments_en": "The documentary offers an insightful portrayal of the collision between different worldviews—Chinese entrepreneurial spirit versus American labor unions—while exploring the complex interplay of cultural identity and economic pressures. It's a powerful reflection on how industrialization in both the East and West leads to unexpected challenges for workers. The film is a poignant reminder of the human cost of modern capitalism and how it shapes the daily lives of ordinary people on both sides of the globe.",
+    "additional_comments_zh": "该纪录片生动地呈现了不同世界观的碰撞——中国的企业家精神与美国的工会文化，并探索了文化认同与经济压力之间的复杂互动。这部影片深刻反映了东西方工业化进程中，工人面临的意外挑战。它是对现代资本主义带来的人类成本的有力反思，展示了它如何塑造全球普通人日常生活的方方面面。",
 },
   {
   "id": 1,
@@ -221,6 +223,7 @@
   "best_quote_en": "Rural students navigating education are not mere recipients of cultural capital; their journey is shaped by moral obligations, personal agency, and social structures.",
   "best_quote_zh": "农家子弟在教育过程中并非文化资本的被动接受者；他们的成长历程由家庭道德义务、个体能动性和社会结构共同塑造。"
 }
+ 
 
 
 
