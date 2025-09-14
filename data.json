@@ -94,7 +94,22 @@
     "summary_zh": "一篇引人入胜的NPR影评，介绍了Netflix纪录片《美国工厂》。该片讲述了中国福耀玻璃公司在美国俄亥俄州代顿市重新开办工厂时引发的文化和经济冲突。影片通过中国工人和管理者的视角观察美国职场文化，提供了一个罕见的视角。",
     "best_quote_en": "\"America is a place to let your personality run free. As long as you're not doing anything illegal, you're free to follow your heart. You can even joke about the president. Nobody will do anything to you.\" - A Chinese manager explaining American culture to his staff.",
     "best_quote_zh": "“美国是一个让你个性奔放的地方。只要你不做任何违法的事，你就可以随心所欲。你甚至可以开总统的玩笑，没有人会对你怎么样。”——一位中国经理向员工解释美国文化。"
+},
+  {
+  "id": 1,
+  "title": "Michael Sandel's 'The Tyranny of Merit' reviewed by Spencer Lenfield",
+  "title_zh": "斯宾塞·李·伦菲尔德评《The Tyranny of Merit》",
+  "source": "Harvard Magazine",
+  "link": "https://www.harvardmagazine.com/2020/08/montage-michael-sandel-against-meritocracy",
+  "tags": ["政治哲学", "社会不平等", "教育公平", "哈佛大学"],
+  "tags_zh": ["政治哲学", "社会不平等", "教育公平", "哈佛大学"],
+  "date": "2020-08-01",
+  "summary_en": "Spencer Lenfield provides a detailed review of Michael Sandel's 'The Tyranny of Merit,' highlighting how meritocratic systems amplify social inequality, erode the sense of common good, and foster moral arrogance among the successful. Sandel argues that treating success solely as a product of personal effort neglects the role of luck, inheritance, and social circumstances, leading to societal resentment and political polarization.",
+  "summary_zh": "斯宾塞·李·伦菲尔德对迈克尔·桑德尔的《The Tyranny of Merit》进行了深入评审，强调精英主义体系如何加剧社会不平等，削弱公共利益意识，并导致成功者的道德傲慢。桑德尔指出，将成功完全归因于个人努力，会忽视运气、家庭背景和社会环境的影响，从而引发社会不满和政治极化。",
+  "best_quote_en": "Believing that your personal success is entirely due to your own efforts blinds you to the role of luck, family support, and social circumstances, setting a moral trap that diminishes empathy for those less fortunate.",
+  "best_quote_zh": "认为个人成功完全源于自身努力，会忽视运气、家庭支持和社会环境的作用，这种心态是一种道德陷阱，使人对处境不利者缺乏同情。"
 }
+
 
 
 
