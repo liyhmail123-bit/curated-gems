@@ -151,10 +151,10 @@ function applyAndRender() {
 
     // 渲染结果
     render(view);
-    const emptyTexts = {
-  zh: '😅 没有找到相关内容，换个关键词试试吧',
-  en: '😅 No relevant content found, try different keywords'
-};
+   // 彩蛋：输入 magic 试试看
+if (query === 'magic') {
+  alert('✨ 哇！你发现了隐藏功能！');
+}
 }
 
 /**
