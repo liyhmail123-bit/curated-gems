@@ -151,6 +151,10 @@ function applyAndRender() {
 
     // 渲染结果
     render(view);
+    const emptyTexts = {
+  zh: '😅 没有找到相关内容，换个关键词试试吧',
+  en: '😅 No relevant content found, try different keywords'
+};
 }
 
 /**
