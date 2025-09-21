@@ -83,7 +83,7 @@ function mountControls() {
 
     // 🔍 优化后的搜索框提示文字 - 更友好、更直观
     const placeholder = lang === 'zh'
-        ? '🔍 这一天天的...'
+        ? '🔍 你就搜吧...'
         : '🔍 Enter keywords to search amazing content...';
 
     controlsEl.innerHTML = `
