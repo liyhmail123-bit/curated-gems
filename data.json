@@ -902,4 +902,75 @@
     "summary_zh": "这篇文章探讨了AI驱动的“vibe编码”概念，让非专业人士通过描述想法即可创建应用原型。虽然降低了编程门槛，但复杂应用仍需传统编程。文中强调与AI对话优化想法的过程，以及Stitch等工具在可视化和Jules在生产级代码中的作用，展现了不同技能层级间的协作潜力。",
     "best_quote_en": "Vibe coding lets you build what you envisioned in your head even if you don't have traditional coding skills.",
     "best_quote_zh": "vibe编码让你即使没有传统编程技能，也能实现你脑海中的构想。"
+  },{
+    "id": 40,
+    "title": "直播预告 | 和孩子一起敲开世界的门",
+    "title_zh": "直播预告 | 和孩子一起敲开世界的门",
+    "source": "读库小报",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E8%AF%BB%E5%BA%93%E5%B0%8F%E6%8A%A5+%E7%9B%B4%E6%92%AD%E9%A2%84%E5%91%8A%20%7C%20%E5%92%8C%E5%AD%A9%E5%AD%90%E4%B8%80%E8%B5%B7%E6%95%B2%E5%BC%80%E4%B8%96%E7%95%8C%E7%9A%84%E9%97%A8",
+    "tags": [
+      "analyze",
+      "education",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2025-09-11",
+    "summary_en": "This livestream announcement highlights a unique educational initiative targeting 9-13 year olds, blending current events with child-driven curiosity. The 'Knock Knock World' podcast, a collaboration between Shengdong Huopao and Shifen Zhiyi, offers 10-minute episodes that decode global happenings through youth perspectives. What's particularly innovative is that half of their topics now come directly from children's submissions, addressing everything from AI ethics to technology trends. The upcoming livestream with editors Qian Wen and Dongdong Gun promises to share book and audio recommendations for the new school year, focusing on stimulating children's curiosity about the world. This initiative stands out for its democratic approach to content creation and its commitment to fostering critical thinking in young minds.",
+    "summary_zh": "这场直播预告介绍了一档面向9-13岁青少年的创新教育节目，将时事解读与儿童好奇心巧妙结合。由声动活泼和十分之一联合出品的「Knock Knock 世界」播客，通过短小精悍的10分钟内容，用青少年的视角解构全球热点。最令我印象深刻的是，如今半数选题来自孩子们的投稿，从AI伦理到科技趋势，展现了青少年独特的思考角度。主编骞文和东东枪将在直播中分享新学期适合的图书和音频节目，引导孩子们探索世界。这种让孩子参与内容创作的模式，值得更多教育工作者借鉴。",
+    "best_quote_en": "Why would AI prefer to lie rather than say 'I don't know'?",
+    "best_quote_zh": "为什么AI宁可说谎也不说‘我不知道’？"
+  },
+  {
+    "id": 41,
+    "title": "《讣告》文章试读",
+    "title_zh": "《讣告》文章试读",
+    "source": "读库小报",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E8%AF%BB%E5%BA%93%E5%B0%8F%E6%8A%A5+%E3%80%8A%E8%AE%A3%E5%91%8A%E3%80%8B%E6%96%87%E7%AB%A0%E8%AF%95%E8%AF%BB",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-09-09",
+    "summary_en": "This collection of obituaries offers profound insights into the lives of remarkable individuals whose contributions shaped history. From the inventor of instant ramen, Momofuku Ando, who revolutionized global cuisine with his simple yet impactful creation, to the enigmatic double agent Eddie Chapman, whose wartime exploits blurred the lines between loyalty and deception. The stories of Joseph Bonanno, the mafia boss who navigated the legal system with cunning, and Hedy Lamarr, the Hollywood star whose inventions laid the groundwork for modern communication technology, highlight the complexity of human achievement. The obituaries also delve into the moral ambiguities of figures like Maurice Papon, a French official complicit in wartime atrocities, and Kurt Waldheim, whose selective memory obscured his Nazi past. Through these narratives, the article explores themes of innovation, ethics, and the enduring legacy of historical figures, inviting readers to reflect on the multifaceted nature of human impact.",
+    "summary_zh": "这篇文章通过九个人物的讣告，展现了他们对历史的深远影响。从方便面之父安藤百福的简单发明改变了全球饮食习惯，到双面间谍埃迪·查普曼的战争故事模糊了忠诚与欺骗的界限，再到黑帮教父约瑟夫·博南诺巧妙利用法律系统，以及好莱坞明星海蒂·拉玛的科技发明奠定了现代通信技术的基础。这些故事揭示了人类成就的复杂性，以及历史人物留下的深远影响。",
+    "best_quote_en": "An individual should simply: tear off the lid, pour in boiling water, steep for three minutes, and stir evenly to eat.",
+    "best_quote_zh": "一个人应该简单地：撕掉盖子，倒入沸水，泡三分钟，搅拌均匀即可食用。"
+  },
+  {
+    "id": 42,
+    "title": "女性的尊严可以创造怎样的奇迹",
+    "title_zh": "女性的尊严可以创造怎样的奇迹",
+    "source": "读库小报",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E8%AF%BB%E5%BA%93%E5%B0%8F%E6%8A%A5+%E5%A5%B3%E6%80%A7%E7%9A%84%E5%B0%8A%E4%B8%A5%E5%8F%AF%E4%BB%A5%E5%88%9B%E9%80%A0%E6%80%8E%E6%A0%B7%E7%9A%84%E5%A5%87%E8%BF%B9",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-07-17",
+    "summary_en": "This article explores the unique perspective of female writers and readers in the context of 'Dukou' magazine, which intentionally avoids emphasizing author attributes like gender. Interestingly, the editorial process revealed an organic focus on 'female writing,' with women comprising the majority of both authors and readers. The content suggests that women may have a more nuanced perception of human nature and relationships, fearlessly exploring its depths and sharing their findings. The value lies not in gender identity but in the universal exploration of human nature, as encapsulated by Shen Congwen's quote about building a temple to 'humanity.' The reading experience is profound, evoking both powerlessness and strength, revealing the world's simultaneous cruelty and tenderness.",
+    "summary_zh": "这篇文章探讨了《读库》杂志中女性作者和读者的独特视角，尽管杂志不强调作者属性，但编辑过程中却自然而然形成了“女性书写”的主题。女性作者和读者占多数，她们对人性有更细腻的感知，敢于探索并分享发现。内容价值不在于性别本身，而在于对人性的普遍探索。沈从文先生的话“只想造希腊小庙，这庙里供奉的是‘人性’”道出了核心。阅读这些文字既沉重又充满力量，展现了世界的险恶与温柔。",
+    "best_quote_en": "I only want to build a Greek temple... this temple enshrines 'human nature'.",
+    "best_quote_zh": "我只想造希腊小庙……这庙里供奉的是“人性”。"
   }]
