@@ -807,4 +807,99 @@
     "summary_zh": "谷歌推出的Gemini 2.5计算机使用模型标志着AI智能体能力的重要突破，尤其是在用户界面交互方面。该模型基于Gemini 2.5 Pro的视觉理解能力，能够完成填写表格、数据迁移等复杂任务。其通过分析截图和执行UI操作的迭代过程在网页和移动控制基准测试中表现出色，延迟更低。谷歌实施了全面的安全措施应对潜在风险，包括推理时的安全服务和开发者可控的防护机制。该模型通过Google AI Studio和Vertex AI提供公测，为个人助手、工作流自动化和UI测试开辟了新可能。这一发展是通用AI智能体处理现实世界数字任务的重要一步。",
     "best_quote_en": "The ability to natively fill out forms, manipulate interactive elements like dropdowns and filters, and operate behind logins is a crucial next step in building powerful, general-purpose agents.",
     "best_quote_zh": "能够原生填写表单、操作下拉菜单和过滤器等交互元素，并在登录后操作，是构建强大的通用智能体的关键下一步。"
+  },{
+    "id": 36,
+    "title": "Google AI Plus is coming to 36 more countries.",
+    "title_zh": "Google AI Plus 将扩展至36个新国家",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/google-one/google-ai-plus-36-countries/",
+    "tags": [
+      "update",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "Google's expansion of AI Plus to 36 additional countries demonstrates their commitment to global AI democratization. The service, which offers enhanced features like improved image and video generation, integration with productivity tools, and increased storage, represents a strategic move to capture emerging markets. The limited-time discount may accelerate adoption, but concerns about data privacy and regional regulatory challenges remain. This expansion positions Google as a key player in the AI subscription market, potentially reshaping how users interact with AI tools worldwide.",
+    "summary_zh": "谷歌AI Plus扩展至36个新国家，展现其全球AI普及的决心。提供增强的图像和视频生成功能、与生产力工具的集成以及更大的存储空间。限时折扣可能促进采用，但数据隐私和监管挑战仍存。这一扩展巩固了谷歌在AI订阅市场的地位，或将改变用户与AI工具互动的方式。",
+    "best_quote_en": "Google AI Plus includes higher limits for our image generation and editing model, Nano Banana, and more access to video generation in the Gemini app",
+    "best_quote_zh": "谷歌AI Plus包括更高的图像生成和编辑模型Nano Banana限制，以及在Gemini应用中的更多视频生成访问权限"
+  },
+  {
+    "id": 37,
+    "title": "Googler Michel Devoret awarded the Nobel Prize in Physics",
+    "title_zh": "谷歌员工米歇尔·德沃雷特获得诺贝尔物理学奖",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/inside-google/company-announcements/googler-michel-devoret-awarded-the-nobel-prize-in-physics/",
+    "tags": [
+      "update",
+      "science",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "The 2025 Nobel Prize in Physics recognizes Michel Devoret's groundbreaking work on macroscopic quantum effects, laying the foundation for superconducting qubit-based quantum computing. This award highlights the profound impact of fundamental research and its continuing relevance to Google's Quantum AI team. The recognition of Devoret, along with John Martinis and John Clarke, underscores how early quantum experiments have enabled modern advancements like Google's Willow quantum chip and the 2019 quantum supremacy milestone. It serves as inspiration for future breakthroughs in quantum computing, demonstrating how theoretical physics can transform technology decades later.",
+    "summary_zh": "2025年诺贝尔物理学奖授予米歇尔·德沃雷特，表彰其在宏观量子效应方面的开创性工作，为超导量子比特量子计算奠定了基础。这一荣誉凸显了基础研究的深远影响及其对谷歌量子AI团队的持续意义。德沃雷特、约翰·马丁尼斯和约翰·克拉克的获奖，展示了早期量子实验如何推动现代突破，如谷歌的Willow量子芯片和2019年量子优越性里程碑。它激励着未来量子计算的进步，证明理论物理如何数十年后改变技术。",
+    "best_quote_en": "This prize is a profound testament to the recipients' work, and to the power of fundamental research.",
+    "best_quote_zh": "这一奖项是对获奖者工作的深刻见证，也是基础研究力量的体现。"
+  },
+  {
+    "id": 38,
+    "title": "5 features for taking perfect group photos with Pixel 10",
+    "title_zh": "用Pixel 10拍摄完美群像照的5个功能",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/pixel/pixel-group-photo-features-ai/",
+    "tags": [
+      "analyze",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "This article highlights five innovative AI-powered features in the Pixel 10 that address common challenges in group photography. The most compelling aspect is how these features collectively solve the perennial problem of capturing everyone in a group looking their best. Auto Best Take's ability to analyze multiple frames and create composites demonstrates impressive AI capabilities. The Add Me feature cleverly addresses the photographer's absence issue, while Camera Coach offers valuable educational value by teaching photography fundamentals. Palm Timer and conversational editing add practical convenience. The article serves as both a tutorial and a showcase of Google's technical advancements, making it valuable for both Pixel users and those interested in AI applications in photography.",
+    "summary_zh": "本文介绍了Pixel 10的五个AI功能，解决群像照常见难题。Auto Best Take智能合成最佳画面，Add Me让摄影师也能入镜，Camera Coach提供实时指导，Palm Timer手势触发方便，对话式编辑轻松修图。这些功能不仅实用，还展示了AI在摄影中的创新应用，值得Pixel用户和技术爱好者关注。",
+    "best_quote_en": "Auto Best Take uses AI to sense when you're capturing a group photo, then analyzes up to 150 frames to find when every person looks just right.",
+    "best_quote_zh": "Auto Best Take会用AI感知到你在拍群像照，然后分析多达150帧画面，找出每个人状态最好的瞬间。"
+  },
+  {
+    "id": 39,
+    "title": "Ask a Techspert: What is vibe coding?",
+    "title_zh": "问专家：什么是“vibe编码”？",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/techspert-what-is-vibe-coding/",
+    "tags": [
+      "solve",
+      "design",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-10-06",
+    "summary_en": "The article explores the emerging concept of 'vibe coding,' a democratizing approach to software development enabled by AI. It allows non-coders to create app prototypes by describing their vision to AI tools like Gemini, Canvas, Stitch, and Jules. While it lowers the barrier to entry, complex applications still require traditional coding skills for full functionality. The piece highlights the iterative process of refining ideas through AI conversation before implementation and the potential of tools like Stitch for visualization and Jules for production-ready code. It emphasizes the collaborative nature of vibe coding between different skill levels and its value in idea exploration and rapid prototyping.",
+    "summary_zh": "这篇文章探讨了AI驱动的“vibe编码”概念，让非专业人士通过描述想法即可创建应用原型。虽然降低了编程门槛，但复杂应用仍需传统编程。文中强调与AI对话优化想法的过程，以及Stitch等工具在可视化和Jules在生产级代码中的作用，展现了不同技能层级间的协作潜力。",
+    "best_quote_en": "Vibe coding lets you build what you envisioned in your head even if you don't have traditional coding skills.",
+    "best_quote_zh": "vibe编码让你即使没有传统编程技能，也能实现你脑海中的构想。"
   }]
