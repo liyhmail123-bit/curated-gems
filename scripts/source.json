@@ -2,26 +2,26 @@
 
 {
     "name": "机核",
-    "url": "www.gcores.com/rss"
+    "url": "http://feed.tangsuanradio.com/gadio.xml"
   },
   {
-    "name": "知乎每日精选",
-    "url": "www.zhihu.com/rss"
+    "name": "声东击西",
+    "url": "https://feeds.fireside.fm/shengdongjixi/rss"
   },
   {
-    "name": "少数派",
-    "url": "sspai.com/feed"
+    "name": "政见",
+    "url": "https://cnpolitics.github.io/radio/feed.xml"
   },
   {
-    "name": "IT之家",
-    "url": "www.ithome.com/rss/"
+    "name": "八分",
+    "url": "https://api.vistopia.com.cn/rss/program/11.xml"
   },
   {
     "name": "读库小报",
     "url": "https://plink.anyfeeder.com/weixin/dukuxiaobao"
   },
   {
-    "name": "影视资源联盟",
-    "url": "https://rsshub.app/telegram/channel/yszylm"
+    "name": "有待唱片店",
+    "url": "https://data.getpodcast.xyz/data/163/526995586.xml"
   }
 ]
