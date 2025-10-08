@@ -973,4 +973,123 @@
     "summary_zh": "这篇文章探讨了《读库》杂志中女性作者和读者的独特视角，尽管杂志不强调作者属性，但编辑过程中却自然而然形成了“女性书写”的主题。女性作者和读者占多数，她们对人性有更细腻的感知，敢于探索并分享发现。内容价值不在于性别本身，而在于对人性的普遍探索。沈从文先生的话“只想造希腊小庙，这庙里供奉的是‘人性’”道出了核心。阅读这些文字既沉重又充满力量，展现了世界的险恶与温柔。",
     "best_quote_en": "I only want to build a Greek temple... this temple enshrines 'human nature'.",
     "best_quote_zh": "我只想造希腊小庙……这庙里供奉的是“人性”。"
+  },{
+    "id": 43,
+    "title": "#362 当 AI 完美复制了我的声音（二）：一位伯克利法学学者的解读",
+    "title_zh": "#362 当 AI 完美复制了我的声音（二）：一位伯克利法学学者的解读",
+    "source": "声东击西",
+    "link": "http://etw.fm/2181",
+    "tags": [
+      "update",
+      "ai-research",
+      "legal",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "法律法规",
+      "数据驱动"
+    ],
+    "date": "2025-09-28",
+    "summary_en": "This episode delves into the legal implications of AI voice cloning, featuring a Berkeley law scholar's analysis. It examines cases in the U.S. and China where AI companies have used human voices without consent, raising critical questions about copyright, personality rights, and the balance between creative democratization and individual rights protection. The discussion explores the boundaries of 'fair use' in intellectual property law and whether copyright protections might be overly constraining AI development. The episode also highlights the broader societal question of how to respect human creativity in the AI era, making it a crucial listen for anyone interested in the intersection of technology, law, and ethics.",
+    "summary_zh": "本期节目深入探讨AI克隆声音的法律争议，伯克利法学学者郝元老师分析了美国和中国相关案件。讨论版权、人格权等法律问题，探讨AI时代如何平衡创作民主化与个人权益保护。内容引发对人类创造力尊重的深刻思考，是技术、法律与伦理交叉领域的重要探讨。",
+    "best_quote_en": "How do we balance creative democratization with the protection of individual creator rights in the AI era?",
+    "best_quote_zh": "AI时代，我们如何理解和尊重「人类创造力」？创作民主化和创作者的个人权益保护，二者之间的平衡应该如何把握？"
+  },
+  {
+    "id": 44,
+    "title": "针尖·多味听觉馆 #31：我是怎么当四个孩子的全职爸爸的",
+    "title_zh": "针尖·多味听觉馆 #31：我是怎么当四个孩子的全职爸爸的",
+    "source": "政见",
+    "link": "http://cnpolitics.github.io/radio/mig/ep31/",
+    "tags": [
+      "learn",
+      "politics",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "学习",
+      "政治时事",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2019-02-25",
+    "summary_en": "This podcast episode challenges traditional gender roles in parenting, particularly the notion that men should be the primary breadwinners while women handle childcare. Wu Yujian, a Japanese political science PhD student and father of four, shares his experiences as a stay-at-home dad in Sweden, contrasting it with societal expectations in China. The discussion explores how societal norms shape parenting roles and the psychological pressures men face when deviating from traditional masculine stereotypes. It also examines Nordic welfare policies that support gender equality in parenting and compares them with China's intergenerational child-rearing practices. The episode highlights the unique challenges of modern parenting, including the 'arms race' mentality among middle-class parents and the phenomenon of grandparent-involved childcare in China.",
+    "summary_zh": "这一期播客挑战了传统的性别角色分工，特别是男性作为家庭经济支柱、女性负责育儿的观念。武玉江作为日本政治学博士生和四个孩子的全职爸爸，分享了他在瑞典的育儿经历，与中国的社会期待形成对比。讨论探讨了社会规范如何塑造育儿角色，以及男性偏离传统男性形象时面临的心理压力。节目还分析了北欧福利政策如何支持性别平等育儿，并与中国的隔代育儿现象进行对比，揭示了现代育儿的独特挑战，包括中产阶级的育儿焦虑和竞争心态。",
+    "best_quote_en": "Raising children isn't divided into 'rational fathers' and 'emotional mothers'",
+    "best_quote_zh": "养育孩子没有「理性爸爸」和「感性妈妈」之分"
+  },
+  {
+    "id": 45,
+    "title": "时代的表情与奏鸣曲",
+    "title_zh": "时代的表情与奏鸣曲",
+    "source": "读库小报",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E8%AF%BB%E5%BA%93%E5%B0%8F%E6%8A%A5+%E6%97%B6%E4%BB%A3%E7%9A%84%E8%A1%A8%E6%83%85%E4%B8%8E%E5%A5%8F%E9%B8%A3%E6%9B%B2",
+    "tags": [
+      "solve",
+      "society",
+      "writing-content",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "写作内容",
+      "深度分析"
+    ],
+    "date": "2025-07-09",
+    "summary_en": "This reflective piece from 《读库》 explores the magazine's mission to document contemporary life with depth and honesty, bridging humanities and social sciences. The author distinguishes between the two fields - humanities focusing on the individual, social sciences on groups - and emphasizes the importance of preserving human specimens and historical records in our information-saturated age. The content highlights the magazine's evolution from pure non-fiction to including translation of human knowledge into accessible forms. The editor's personal journey and hope to continue this work for thirty years adds a touching dimension, revealing the challenges and rewards of maintaining such a publication in today's market.",
+    "summary_zh": "《读库》这篇文章探讨了杂志记录当下生活的使命，将人文和社科的区别阐释得非常清晰。在信息爆炸的时代，深刻系统的记录显得尤为珍贵。杂志从纪实写作扩展到知识转译，编辑三十年之约的坚持让人动容。这是一份关于人性、历史与出版的深刻思考。",
+    "best_quote_en": "Humanities study one person, social sciences study a group of people.",
+    "best_quote_zh": "人文是研究一个人的，社科是研究一群人的。"
+  },
+  {
+    "id": 46,
+    "title": "织梦人",
+    "title_zh": "织梦人",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=2058804333&radio=526995586",
+    "tags": [
+      "inspire",
+      "music-arts",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "音乐艺术",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2019-01-04",
+    "summary_en": "This music podcast curated by '有待' offers a captivating journey through soulful jazz and funk tracks. The eclectic mix features George Duke's soulful compositions and Daft Punk's electronic masterpiece 'Digital Love', creating a rich sonic tapestry. The podcast's thoughtful sequencing demonstrates the curator's deep musical knowledge and ability to create emotional resonance. This episode stands out for its sophisticated blending of genres and eras, offering listeners both nostalgic and fresh listening experiences. The inclusion of lesser-known George Duke tracks alongside iconic Daft Punk showcases the curator's ability to create unexpected yet harmonious musical pairings. This podcast episode serves as an excellent introduction to George Duke's work and demonstrates how jazz and electronic music can complement each other beautifully.",
+    "summary_zh": "由主播有待策划的播客，精选灵魂爵士与Funk乐风名曲。混合了乔治·杜克的经典作品与大力神的电子乐代表作，展现了主播深厚的音乐功底与编曲才华。这期节目通过跨越年代与风格的曲目搭配，为听众带来耳目一新的听觉体验，是感受乔治·杜克音乐魅力的绝佳入门选择。",
+    "best_quote_en": "\"Digital Love\" by Daft Punk - A perfect blend of electronic beats and emotional depth",
+    "best_quote_zh": "乔治·杜克的《梦织者》系列展现了他对爵士与Funk融合的独特理解"
+  },
+  {
+    "id": 47,
+    "title": "无法满足-滚石乐队传奇",
+    "title_zh": "无法满足-滚石乐队传奇",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=2058710181&radio=526995586",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "design",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "设计创意",
+      "数据驱动"
+    ],
+    "date": "2018-12-29",
+    "summary_en": "This podcast episode offers a fascinating deep dive into the history and legacy of The Rolling Stones, tracing their origins from three young white musicians passionate about blues to their iconic status in rock history. The program explores the significance of their name, 'The Rolling Stones,' and revisits their debut album's classics. What stands out is the exploration of the musical influences that have consistently shaped the band's sound, particularly the blues roots that remain evident in their work. The episode features various artists' renditions of 'I Can't Get No Satisfaction,' showcasing the song's enduring appeal and cultural impact. This is more than just a music history lesson; it's a celebration of how The Rolling Stones have continually reinvented themselves while staying true to their blues origins, making them a timeless force in music.",
+    "summary_zh": "本期节目深入讲述了滚石乐队的传奇故事，从三位热爱布鲁斯的音乐青年的相遇开始，揭秘乐队名称的由来，重温经典首张专辑。通过不同艺术家演绎的《I Can't Get No Satisfaction》，展现这首歌的持久魅力和文化影响力。不仅是音乐史课，更是滚石乐队如何在保持布鲁斯根基的同时不断创新，成为音乐史上不朽力量的见证。",
+    "best_quote_en": "The Rolling Stones' music has always been a bridge between their blues roots and their innovative rock sound, making them timeless icons.",
+    "best_quote_zh": "滚石乐队的音乐始终是布鲁斯根基与创新摇滚的桥梁，使他们成为不朽的音乐图腾。"
   }]
