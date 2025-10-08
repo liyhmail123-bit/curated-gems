@@ -688,4 +688,123 @@
     "summary_zh": "这篇文章深刻剖析了洛杉矶“港口和平巡逻队”的行动，他们通过追踪联邦移民执法局（ICE）的动向，巧妙地抵制其在当地的执法活动。文章不仅展现了这些草根行动者的策略和决心，更揭露了执法部门与民众之间日益紧张的对峙，尤其是一位志愿者被捕事件，令人深思。最令人不安的是，地方政客的反ICE言论与洛杉矶警察局在实际行动中对联邦执法的“协助”形成了鲜明对比，这种虚伪使得许多人对现有政治体系感到幻灭，转而投向直接行动。这不禁让人联想到历史的相似之处，即面对压迫时，社区自发的抵抗力量是如何涌现的。",
     "best_quote_en": "“No politician is going to save us,” she said. After years of canvassing for political candidates, signing petitions, and making phone calls for campaigns, “everything I do for the next four years is going to be direct action and mutual aid,” she said. “I am not pleading with politicians to save me or save the people I care about. There are masked men riding around my town trying to kidnap people.”",
     "best_quote_zh": "“没有政客会拯救我们，”她说。在为政治候选人拉票、签署请愿书、为竞选活动打电话多年后，她说：“我未来四年所做的一切都将是直接行动和互助。我不会恳求政客来拯救我或我关心的人。我的镇上有人戴着面具，试图绑架人们。”"
+  },{
+    "id": 31,
+    "title": "Google is powering Belgium's digital future with a two-year €5 billion investment in AI infrastructure.",
+    "title_zh": "Google 将通过两年50亿欧元的投资推动比利时的数字化未来",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/inside-google/infrastructure/google-ai-infrastructure-investment-belgium/",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Google's €5 billion investment in Belgium represents a strategic move to bolster Europe's AI infrastructure while addressing workforce transformation. The investment goes beyond physical infrastructure, focusing on upskilling the local population for an AI-driven economy. This initiative is particularly noteworthy for its commitment to providing free AI training for low-skilled workers through non-profits, demonstrating corporate social responsibility. The investment in renewable energy partnerships further aligns with global sustainability trends. This case study highlights how tech giants are increasingly playing a role in national economic development and digital transformation strategies.",
+    "summary_zh": "谷歌对比利时的50亿欧元投资不仅是基建扩张，更是对AI未来的战略布局。通过免费培训计划，公司展现了对社会转型的责任感。这种商业与社会价值的结合，正在重塑企业在数字化时代的角色。",
+    "best_quote_en": "This is an extraordinary time for European innovation and its digital and economic future.",
+    "best_quote_zh": "这是欧洲创新和数字经济未来的关键时刻。"
+  },
+  {
+    "id": 32,
+    "title": "The latest AI news we announced in September",
+    "title_zh": "9月我们公布的最新AI新闻",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/ai/google-ai-updates-september-2025/",
+    "tags": [
+      "update",
+      "education",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "教育学习",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-08",
+    "summary_en": "Google's September AI updates showcase impressive advancements across multiple fronts. The integration of Gemini into Chrome transforms it into an intelligent browsing assistant with enhanced security features and task automation capabilities. Search's AI Mode now offers visual inspiration through advanced image understanding, available in multiple languages. The Gemini app gained powerful features like Nano Banana for image generation, customizable Gems, and a no-code app builder. Google DeepMind's robotics advancements bring AI into the physical world with models capable of complex task execution. Educational tools like NotebookLM and Guided Learning demonstrate AI's potential in personalized learning. These updates reflect Google's commitment to making AI more useful in everyday applications while expanding its reach into education and physical robotics.",
+    "summary_zh": "谷歌9月发布的AI更新展示了多个领域的显著进步。Gemini整合到Chrome中，使其成为智能浏览助手，增强了安全功能和任务自动化能力。搜索的AI模式现在通过先进的图像理解技术提供视觉灵感，并支持多种语言。Gemini应用获得了强大功能，如Nano Banana图像生成、可定制的Gems和无代码应用构建器。Google DeepMind在机器人领域的进步将AI引入物理世界，模型能够执行复杂任务。教育工具如NotebookLM和Guided Learning展示了AI在个性化学习中的潜力。这些更新体现了谷歌将AI融入日常应用并拓展至教育和物理机器人的承诺。",
+    "best_quote_en": "Our overarching goal remains the same: to make AI as useful as possible, whether through the fun, visible features that help you with everyday tasks or in the essential, behind-the-scenes magic boosting your cybersecurity and learning.",
+    "best_quote_zh": "我们的核心目标始终不变：让AI尽可能实用，无论是通过帮助日常任务的有趣可见功能，还是增强网络安全和学习能力的幕后魔法。"
+  },
+  {
+    "id": 33,
+    "title": "AI Mode is now available in more languages and locations around the world.",
+    "title_zh": "AI 模式现已在全球更多语言和地区提供",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/products/search/ai-mode-expands-languages-locations/",
+    "tags": [
+      "update",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "Google's expansion of AI Mode to 35 new languages and 40 new countries signifies a major step in democratizing AI-powered search capabilities. The use of advanced Gemini models highlights Google's commitment to natural language understanding and multimodal capabilities, allowing users to interact with search in their most comfortable language. This expansion not only broadens accessibility but also demonstrates the potential for AI to bridge linguistic and cultural divides. The mention of users asking three times longer questions suggests a shift towards more complex, conversational search patterns. This development could reshape how we interact with information, making search more intuitive and deeply personal. The rollout strategy over a week indicates careful scaling, likely to monitor performance and user feedback.",
+    "summary_zh": "谷歌将AI模式扩展到35种新语言和40个新国家，标志着AI驱动搜索能力的民主化进程。Gemini模型的应用展现了谷歌在自然语言理解和多模态能力上的承诺，让用户能以最熟悉的语言进行交互。这一扩展不仅拓宽了可及性，也证明了AI在弥合语言和文化差异方面的潜力。用户提问长度增加三倍的现象，预示着搜索模式向更复杂、更对话化的方向转变。这一发展可能重塑我们获取信息的方式，使搜索更加直观和个性化。逐步推广的策略表明了对性能和用户反馈的谨慎考量。",
+    "best_quote_en": "Our latest Gemini models are powering dramatically more powerful capabilities in Search, allowing people to ask anything on their mind in the way that’s most natural to them, thanks to our natural language understanding and multimodal capabilities.",
+    "best_quote_zh": "我们最新的Gemini模型正在为搜索提供更强大的能力，让人们能以最自然的方式提出任何问题，得益于我们的自然语言理解和多模态能力。"
+  },
+  {
+    "id": 34,
+    "title": "Investing in America 2025",
+    "title_zh": "美国投资2025",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/inside-google/company-announcements/investing-in-america-2025/",
+    "tags": [
+      "update",
+      "education",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "教育学习",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "Google's comprehensive investment strategy in the U.S. reveals a forward-thinking approach to AI leadership through infrastructure, education, and workforce development. The company's $39 billion commitment across multiple states demonstrates a tangible effort to strengthen America's position in AI while addressing critical workforce needs. The focus on energy capacity expansion for an AI-driven economy and cybersecurity fortification reflects Google's recognition of both technological and geopolitical imperatives. Particularly noteworthy is the emphasis on practical applications, from training electrical workers to supporting small businesses through AI accelerators. This initiative bridges the gap between cutting-edge technology and real-world economic impact, positioning Google as both an industry leader and a responsible corporate citizen.",
+    "summary_zh": "谷歌在美国的全面投资计划展现了其在AI领域的前瞻性战略，通过基础设施、教育和人才培养多方面推动。390亿美元的投资跨越多个州，实实在在地强化了美国在AI领域的领先地位，同时解决了关键的就业需求。特别值得注意的是，谷歌通过培训电工和支持小企业AI加速器等实践性举措，将先进技术与实际经济效益紧密结合，既展现了行业领导力，也体现了企业社会责任。",
+    "best_quote_en": "These investments also unlock substantial economic opportunity for American businesses — advancing scientific breakthroughs, fortifying cybersecurity for the U.S., and creating new career opportunities for millions of Americans.",
+    "best_quote_zh": "这些投资不仅为美国企业带来巨大的经济机遇，还推动了科学突破，加强了美国的网络安全，并为数百万美国人创造了新的职业机会。"
+  },
+  {
+    "id": 35,
+    "title": "Introducing the Gemini 2.5 Computer Use model",
+    "title_zh": "介绍Gemini 2.5计算机使用模型",
+    "source": "Google AI (Gemini)",
+    "link": "https://blog.google/technology/google-deepmind/gemini-computer-use-model/",
+    "tags": [
+      "analyze",
+      "design",
+      "programming",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "设计创意",
+      "编程开发",
+      "数据驱动"
+    ],
+    "date": "2025-10-07",
+    "summary_en": "Google's introduction of the Gemini 2.5 Computer Use model represents a significant advancement in AI-agent capabilities, particularly in UI interaction. This specialized model, built on Gemini 2.5 Pro's visual understanding, enables agents to perform complex tasks like form filling and data transfer between applications. The model's iterative process of analyzing screenshots and executing UI actions demonstrates impressive performance in web and mobile control benchmarks, with lower latency than competitors. Google has implemented robust safety measures to address potential risks, including out-of-model safety services and developer-controlled guardrails. The public preview availability via Google AI Studio and Vertex AI opens up possibilities for personal assistants, workflow automation, and UI testing. This development marks an important step toward more capable, general-purpose AI agents that can handle real-world digital tasks.",
+    "summary_zh": "谷歌推出的Gemini 2.5计算机使用模型标志着AI智能体能力的重要突破，尤其是在用户界面交互方面。该模型基于Gemini 2.5 Pro的视觉理解能力，能够完成填写表格、数据迁移等复杂任务。其通过分析截图和执行UI操作的迭代过程在网页和移动控制基准测试中表现出色，延迟更低。谷歌实施了全面的安全措施应对潜在风险，包括推理时的安全服务和开发者可控的防护机制。该模型通过Google AI Studio和Vertex AI提供公测，为个人助手、工作流自动化和UI测试开辟了新可能。这一发展是通用AI智能体处理现实世界数字任务的重要一步。",
+    "best_quote_en": "The ability to natively fill out forms, manipulate interactive elements like dropdowns and filters, and operate behind logins is a crucial next step in building powerful, general-purpose agents.",
+    "best_quote_zh": "能够原生填写表单、操作下拉菜单和过滤器等交互元素，并在登录后操作，是构建强大的通用智能体的关键下一步。"
   }]
