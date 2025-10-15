@@ -1788,4 +1788,73 @@
     "summary_zh": "这期节目通过14位音乐人的不同版本演绎，展现了法国经典歌曲《玫瑰人生》的永恒魅力。从原唱艾迪特·皮雅芙到路易斯·阿姆斯特朗等传奇歌手的翻唱，每个版本都赋予了这首歌新的生命力。节目不仅是音乐的回顾，更是对爱与希望主题的深刻诠释，展示了经典作品如何跨越时代和文化，仍能触动听众的心灵。",
     "best_quote_en": "The song's simple yet profound lyrics and melody create a universal language of love that resonates across decades and cultures.",
     "best_quote_zh": "这首歌简单而深刻的歌词和旋律，创造了一种跨越时代和文化的爱的普世语言。"
+  },{
+    "id": 78,
+    "title": "针尖·多味听觉馆 #19：杨绛与钱钟书——这世上势均力敌的爱情",
+    "title_zh": "针尖·多味听觉馆 #19：杨绛与钱钟书——这世上势均力敌的爱情",
+    "source": "政见",
+    "link": "http://cnpolitics.github.io/radio/mig/ep19/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2018-05-25",
+    "summary_en": "This podcast episode explores the extraordinary love story of Yang Jiang and Qian Zhongshu, two intellectual giants of modern China. Their relationship challenges conventional notions of love and marriage, demonstrating how mutual respect and equality can sustain a lifelong partnership. The episode raises profound questions about the nature of love, the impact of external relationships, and the inevitability of loss. Yang Jiang's poignant reflection on impermanence adds a layer of philosophical depth. The content serves as both an inspiring love story and a thoughtful meditation on human relationships, offering listeners an opportunity to reflect on their own experiences.",
+    "summary_zh": "这个播客节目讲述了杨绛与钱钟书这对学术界的伉俪如何以平等与尊重构建终生伴侣关系。节目质疑爱情与婚姻的关系，探讨第三者出现时的情感维度。杨绛",
+    "best_quote_en": "世间好物不坚牢，彩云易散琉璃碎",
+    "best_quote_zh": "世间好物不坚牢，彩云易散琉璃碎"
+  },
+  {
+    "id": 79,
+    "title": "# 把乔布斯纹在腿上 | 重播",
+    "title_zh": "把乔布斯纹在腿上 | 重播",
+    "source": "声东击西",
+    "link": "http://etw.fm/2166",
+    "tags": [
+      "solve",
+      "science",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2025-07-03",
+    "summary_en": "This podcast episode commemorates the 20th anniversary of Apple Podcasts by revisiting a 2021 discussion about Steve Jobs, sparked by a podcast host's tattoo featuring the iconic Apple founder. The conversation explores Jobs' complex legacy, from his revolutionary products to his management style. The hosts analyze his impact on technology and leadership, discussing how his vision shaped Apple and influenced generations. The episode blends personal anecdotes with professional insights, offering a multifaceted portrait of Jobs that challenges both the myth and the criticism surrounding him. It serves as both a historical reflection and a source of inspiration for current and future innovators.",
+    "summary_zh": "这期播客纪念Apple播客20周年，重播2021年关于乔布斯的讨论，源于主播腿上的乔布斯纹身。节目探讨了这位科技天才的复杂遗产，从颠覆性产品到管理风格。嘉宾从产品经理视角解析乔布斯的影响力，既有个人故事也有专业分析，既有对神话的反思也有对批评的平衡。内容既是历史回顾，也是激励当代创新者的灵感源泉。",
+    "best_quote_en": "\"Those who are crazy enough to think they can change the world are the ones who do.\"",
+    "best_quote_zh": "\"那些疯狂到以为自己能够改变世界的人，才能真正改变世界。\""
+  },
+  {
+    "id": 80,
+    "title": "迪斯科历险记",
+    "title_zh": "迪斯科历险记",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=2057395441&radio=526995586",
+    "tags": [
+      "solve",
+      "cybersecurity",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "解决",
+      "网络安全",
+      "音乐艺术"
+    ],
+    "date": "2018-10-21",
+    "summary_en": "This appears to be a template or code snippet for a login interface, likely from a music streaming platform. The content outlines various login methods, account registration options, and password requirements, revealing the platform's security measures and user interaction design. It also includes comment sections and sharing features, suggesting a social music experience. The code's structure indicates attention to user authentication, profile management, and content engagement. The platform appears to prioritize user verification through multiple channels and maintains a comprehensive commenting system with hierarchical replies.",
+    "summary_zh": "这段内容看起来是音乐流媒体平台的登录界面模板或代码片段，包含多种登录方式、账号注册选项和密码要求，展示了平台的安全措施和用户交互设计。还包括评论区和分享功能，暗示这是一个社交化的音乐体验。代码结构表明平台注重用户认证、资料管理和内容互动。该平台似乎通过多种渠道优先确保用户验证，并维护了一个包含层级回复的全面评论系统。",
+    "best_quote_en": "通过短信验证身份",
+    "best_quote_zh": "通过短信验证身份"
   }]
