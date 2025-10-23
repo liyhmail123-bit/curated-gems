@@ -1,121 +1,5 @@
 [
   {
-    "id": 16,
-    "title": "Book of the month: Nauja Lynge",
-    "title_zh": "本月图书：瑙亚·林格",
-    "source": "A year of reading the world",
-    "link": "https://ayearofreadingtheworld.com/2025/08/29/book-of-the-month-nauja-lynge/",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "lifestyle",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "生活方式",
-      "争议观点"
-    ],
-    "date": "2025-08-29",
-    "summary_en": "This analysis delves into Nauja Lynge's \"Ivalu's Color,\" a Greenlandic crime novel that subverts genre expectations to explore themes of colonialism, independence, and Inuit identity. The reviewer highlights how Lynge uses the framework of a detective story not to focus on individual characters or a whodunnit, but to foreground political discourse and cultural forces. The narrative challenges Western literary conventions by presenting characters as faceless conduits for larger societal issues, and by portraying 'otherness' and femininity in ways that might be jarring to an Anglophone audience. The review thoughtfully connects Lynge's approach to traditional Inuit storytelling, suggesting a deliberate fusion of indigenous narrative ethos with European literary structures. Ultimately, it emphasizes the book's value as a challenging yet insightful read that pushes readers to confront their own cultural biases and embrace the complexities of global literature.",
-    "summary_zh": "这篇文章深入探讨了瑙亚·林格的《伊瓦卢的色彩》，一部颠覆传统类型、探索格陵兰殖民主义、独立和因纽特身份的犯罪小说。作者精辟地指出，林格借用侦探小说的框架，并非为了聚焦个人，而是为了凸显政治话语和文化力量。小说对“他者”和女性气质的描绘，以及人物的相对模糊性，都挑战了西方文学的惯例，并促使读者反思文化差异。这不仅是一次文学评论，更是一次文化对话，提醒我们阅读的广度在于拥抱未知和挑战，而非仅仅追求舒适。",
-    "best_quote_en": "It was fascinating to see Nauja Lynge testing the limits of a familiar genre and trying to reshape them to accommodate her aims. It was a reminder that truly reading widely (far beyond the offerings that the mainstream outlets curate for us) requires openness, and a readiness to embrace gaps and questions.",
-    "best_quote_zh": "看到瑙亚·林格如何测试熟悉类型的界限，并试图重塑它们以适应她的目标，这令人着迷。这提醒我们，真正的广泛阅读（远远超出主流媒体为我们策划的作品）需要开放的心态，以及接受空白和疑问的准备。"
-  },
-  {
-    "id": 17,
-    "title": "Solo trips abroad take off among women who seek break from work – and their families",
-    "title_zh": "女性独自海外旅行兴起：寻求工作与家庭之外的休憩",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/business/2025/oct/06/solo-trips-travel-women-break-work-family",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2025-10-06",
-    "summary_en": "This article highlights a burgeoning trend: older women increasingly opting for solo international travel, seeking a break not just from work but also from family responsibilities. It reveals that these women, often with partners and families, prioritize personal freedom and the desire to explore the world on their own terms. Travel operators report a significant rise in solo bookings, with women constituting a large majority. The piece effectively captures the motivations behind this shift, emphasizing a desire for self-discovery and cultural immersion after years dedicated to career or family. It also touches on the practicalities, such as destination choices and peak travel seasons, while acknowledging the generally higher cost of solo travel. This trend speaks volumes about evolving societal norms and women's increasing agency in defining their leisure and personal growth.",
-    "summary_zh": "这篇文章揭示了一个引人深思的社会现象：越来越多的中年女性选择独自海外旅行，这不仅仅是为了摆脱工作的压力，更是为了从家庭责任中抽离，寻求一份完全属于自己的自由与探索。它不只是一个旅游趋势的报道，更像是女性自我意识觉醒的侧写——在奉献多年后，她们渴望重新定义个人空间和体验世界的方式。这种“不单身但独自”的旅行模式，反映了现代女性对个体价值和精神富足的追求，令人深感共鸣。",
-    "best_quote_en": "“Many of our travellers have families, partners and full social lives, but they also value the freedom to explore on their own terms. Joining a small group tour gives them the best of both worlds: the joy of shared moments and the space to follow their own curiosity.”",
-    "best_quote_zh": "“我们的许多旅行者都有家庭、伴侣和丰富的社交生活，但她们也珍视以自己的方式探索世界的自由。参加小型团体旅行能让她们两全其美：既有分享时刻的乐趣，也有追随自己好奇心的空间。”"
-  },
-  {
-    "id": 18,
-    "title": "How to Think for Yourself",
-    "title_zh": "如何独立思考",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/think.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-10-06",
-    "summary_en": "This essay offers a profound exploration into the nature of independent-mindedness, distinguishing it from mere correctness and highlighting its critical role in fields like science, investment, and startups. It posits that independent thinking isn't just about being right, but about generating novel insights that defy conventional wisdom. The author delves into the components of independent-mindedness: fastidiousness about truth, resistance to being told what to think, and curiosity. What truly struck me was the nuanced discussion of how these components interrelate and can even compensate for each other, suggesting multiple pathways to cultivating originality. The piece also provides actionable advice on fostering this trait, such as choosing the right environment and cultivating skepticism, making it a valuable guide for anyone aspiring to genuine intellectual autonomy.",
-    "summary_zh": "这篇文章深入剖析了独立思考的本质，强调其在科学、投资和创业等领域超越正确性的关键作用。作者不仅区分了独立思考与墨守成规，更指出其核心在于产出新颖、颠覆传统认知的洞见。我特别欣赏作者对独立思考三大要素——追求真相的严谨、抵制被灌输思想以及好奇心——的精辟阐释，以及它们如何相互作用、甚至互补的见解，这为培养原创性提供了多维度的思考。文章提出的实践建议，如选择合适的环境和培养批判性精神，也极具启发性，对于渴望实现真正思想自由的人而言，是不可多得的指引。",
-    "best_quote_en": "The end goal is not to find flaws in the things you're told, but to find the new ideas that had been concealed by the broken ones. So this game should be an exciting quest for novelty, not a boring protocol for intellectual hygiene.",
-    "best_quote_zh": "最终目标不是在别人告诉你的事情中寻找缺陷，而是发现那些被陈旧观念所掩盖的新思想。所以这场游戏应该是一场激动人心的新奇探索，而非枯燥的智力卫生规程。"
-  },
-  {
-    "id": 19,
-    "title": "Donald Trump, Pete Hegseth, and the “War from Within”",
-    "title_zh": "唐纳德·特朗普、皮特·赫格塞思与“内部战争”",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/10/13/donald-trump-pete-hegseth-and-the-war-from-within",
-    "tags": [
-      "solve",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-10-05",
-    "summary_en": "This article critically examines Donald Trump's rhetoric and actions, particularly his redefinition of the Department of Defense as the 'Department of War' and his controversial proposal to use American cities as military 'training grounds.' It delves into the implications of this shift towards domestic militarization, highlighting the disconnect between the administration's dramatic pronouncements and the actual, often underwhelming, impact of these deployments. The author thoughtfully questions the motives behind this 'war from within' strategy, suggesting it's less about substantive change and more about consolidating presidential power and performing 'cosplay authoritarianism.' The piece raises concerns about the erosion of democratic norms and the potential for these theatrics to escalate into genuine conflict, offering a sharp critique of the administration's approach to military policy and civil liberties.",
-    "summary_zh": "这篇文章深刻剖析了特朗普政府将国防部更名为“战争部”并提议将美国城市作为军事“训练场”的举动。作者以批判的视角指出，这种“内部战争”的言论与实际行动之间存在巨大落差，其本质似乎在于巩固权力而非解决实际问题。我个人认为，这种将国内事务军事化的倾向令人担忧，它模糊了民事与军事的界限，可能侵蚀民主基石，并将政治表演推向危险的边缘。文章警示我们，这种“角色扮演式威权主义”的风险不容小觑。",
-    "best_quote_en": "It’s interesting that the long tail of the misguided wars in Iraq and Afghanistan should wind its way here, to a militaristic right-wing President who loudly denounced those foreign conflicts but means to treat American cities as war zones, and to a Defense Secretary who wants to do away with rules of engagement.",
-    "best_quote_zh": "有趣的是，伊拉克和阿富汗那些被误导的战争的漫长余波，竟然以这种方式蔓延到这里，蔓延到一个高调谴责外国冲突却意图将美国城市视为战区的军事化右翼总统，以及一个想要废除交战规则的国防部长身上。"
-  },
-  {
-    "id": 20,
-    "title": "Brief life advice/Codenames/The Scale of Life",
-    "title_zh": "生活建议/密码代号/生命尺度",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/brief-life-advice-codenames-the-scale-of-life/",
-    "tags": [
-      "learn",
-      "design",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "生活方式"
-    ],
-    "date": "2025-10-05",
-    "summary_en": "This collection of short recommendations offers a diverse range of practical advice and intriguing discoveries. From Dan Pink's concise life wisdom and party planning tips to a captivating real-time statistics website and a simple yet effective ring light solution for video calls, the content consistently delivers actionable insights. The inclusion of a fun party game and a series of profound 'Quotables' further enriches the compilation, providing both entertainment and intellectual stimulation. What strikes me is the curated blend of self-improvement, practical hacks, and mind-expanding resources, all presented with an emphasis on immediate applicability and genuine utility. It feels like a well-edited digest for anyone looking to optimize their daily life and broaden their horizons with minimal effort.",
-    "summary_zh": "这组精炼的推荐涵盖了生活智慧、实用工具和启发性资源。从丹·平克的精简建议到派对策划技巧，再到实时数据可视化网站和视频会议补光灯，内容都聚焦于即时可用性和价值。其中穿插的派对游戏和发人深省的语录，不仅带来乐趣，更触及心灵深处。我特别欣赏这种多元化但又高度聚焦于“有用”的策展方式，它巧妙地在日常实用性和精神滋养之间找到了平衡，是现代人高效获取价值信息的典范。",
-    "best_quote_en": "“it’s better to have mediocre pizza from a happy host than fabulous hors d’oeuvres from a frazzled one.”",
-    "best_quote_zh": "“比起一个手忙脚乱的主人提供的美味佳肴，一个快乐的主人提供的普通披萨反而更好。”"
-  },
-  {
     "id": 21,
     "title": "Book of the month: M.G. Sanchez",
     "title_zh": "本月好书：M.G. Sanchez",
@@ -2342,5 +2226,125 @@
     "summary_zh": "莎士比亚的《罗密欧与朱丽叶》通过音乐改编展现了其深远的文化影响。这期播客收录了Dire Straits等音乐家对这部经典爱情悲剧的各种诠释，展现了其在不同音乐流派中的持久影响力。这些改编作品不仅传承了原著的核心情感，还注入了现代元素，使故事对新一代听众仍然具有吸引力。播客以音乐为媒介，展示了文学与艺术之间的相互转化，凸显了艺术创作的永恒魅力。",
     "best_quote_en": "This classic tale of love and tragedy has inspired countless musicians to create timeless pieces that resonate across generations.",
     "best_quote_zh": "这部经典的爱情悲剧激发了无数音乐人的创作灵感，为世代相传的音乐作品注入了永恒的生命力。"
+  },
+  {
+    "id": 116,
+    "title": "#Bonus  一位中国制造商和他的 MAGA 帽子生意：由特朗普而起的一夜爆单与一夜下架",
+    "title_zh": "关税战下的 MAGA 帽子生意：从爆单到下架的中国制造商故事",
+    "source": "声东击西",
+    "link": "http://etw.fm/2154",
+    "tags": [
+      "analyze",
+      "science",
+      "business-model",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "商业模式",
+      "数据驱动"
+    ],
+    "date": "2025-04-29",
+    "summary_en": "This engaging podcast episode explores the unexpected journey of a Chinese manufacturer of MAGA hats, revealing how geopolitical factors like tariffs and political events can dramatically impact niche businesses. The story of Mr. Wang, an Amazon seller, highlights how Trump's political career created sudden demand, only for that same demand to vanish just as quickly. The narrative serves as a microcosm of global trade dynamics, showing how small businesses navigate political volatility. Particularly fascinating is the contrast between initial optimism and the abrupt business challenges caused by shifting political landscapes. This case study offers valuable insights into the fragility of politically-tied products and the importance of diversification for manufacturers in the global supply chain.",
+    "summary_zh": "这期播客讲述了一个中国制造商在关税战下销售MAGA帽子的故事，展现了地缘政治因素如何深刻影响细分市场。王先生的经历揭示了政治事件如何突然创造商机，又如何迅速消失。故事反映了全球贸易的复杂性，以及小企业如何应对政治风险。尤其值得深思的是政治事件对商业的双刃剑效应，提醒我们要警惕过度依赖政治相关产品的风险。",
+    "best_quote_en": "Special Guest: 王先生.",
+    "best_quote_zh": "特约嘉宾：王先生"
+  },
+  {
+    "id": 117,
+    "title": "针尖·多味听觉馆 #5：儿童性教育并非不可说，更不等于恐慑",
+    "title_zh": "针尖·多味听觉馆 #5：儿童性教育并非不可说，更不等于恐慑",
+    "source": "政见",
+    "link": "http://cnpolitics.github.io/radio/mig/ep5/",
+    "tags": [
+      "solve",
+      "society",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2017-11-29",
+    "summary_en": "This episode of '针尖·多味听觉馆' challenges common misconceptions about children's sexual education, arguing that silence and fear-based approaches are counterproductive. The discussion explores why adults often dismiss children's capacity for understanding sexuality and the unintended consequences of using scare tactics like 'the big bad wolf' to prevent abuse. Particularly insightful is the examination of how even seemingly innocuous childhood behaviors like chasing can be early signs requiring educational intervention. The episode also addresses the critical issue of preventing abuse by acquaintances, a topic often overlooked in traditional sex education. Dr. Ren Jun, founder of the sexual wellness platform '爱黛说', brings academic rigor and real-world perspective to these complex discussions, making the content both educational and actionable for parents and educators.",
+    "summary_zh": "本期《针尖·多味听觉馆》打破了关于儿童性教育的常见误区，指出沉默和恐吓式教育并不可取。节目探讨了成人往往忽视儿童对性的理解能力，以及使用“大灰狼”等恐吓手段的潜在危害。特别是指出，即使是追逐游戏也可能是需要教育干预的早期信号。节目还深入探讨了熟人性侵的预防问题，这一话题常被传统性教育忽略。两性关系学者任珏博士以专业视角和实践经验，为家长和教育工作者提供了既深刻又实用的见解。",
+    "best_quote_en": "Even seemingly innocent childhood behaviors like chasing games can be early indicators requiring educational intervention.",
+    "best_quote_zh": "即使是追逐游戏这样的儿童行为，也可能是需要教育干预的早期信号。"
+  },
+  {
+    "id": 118,
+    "title": "摇滚外衣下的一颗爵士心",
+    "title_zh": "摇滚外衣下的一颗爵士心",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=1370620726&radio=526995586",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2018-08-13",
+    "summary_en": "This podcast episode explores the fascinating musical journey of U2's frontman Bono, revealing his deep appreciation for jazz music, particularly his admiration for Frank Sinatra. The episode highlights Bono's unique ability to blend rock and jazz elements, showcasing his versatility as an artist. It features a curated playlist that includes collaborations between Bono and legendary jazz artists, demonstrating the cross-genre appeal and timeless quality of their music. The episode offers a fresh perspective on Bono's artistic identity, challenging the conventional perception of him solely as a rock icon. It's a compelling listen for music enthusiasts interested in the intersection of different musical genres and the creative processes of renowned artists.",
+    "summary_zh": "本期播客揭示了U2主唱Bono摇滚外衣下藏着一颗爵士心，他不仅是爵士歌王Frank Sinatra的狂热粉丝，还专门为偶像创作了歌曲。节目通过精选的爵士名曲和Bono的合作作品，展现了他跨越摇滚与爵士的音乐魅力，让人重新审视这位传奇乐队的领袖人物。",
+    "best_quote_en": "Bono in 1994 spent ten minutes introducing Frank Sinatra's lifetime achievement award at the Grammys",
+    "best_quote_zh": "Bono在1994年格莱美颁奖典礼上用长达十分钟的时间介绍Frank Sinatra获得格莱美终身成就奖"
+  },
+  {
+    "id": 119,
+    "title": "#343  做不被风吹走的那一粒沙：在 AI 的时代找回文科教育的核心价值",
+    "title_zh": "做不被风吹走的那一粒沙：在 AI 的时代找回文科教育的核心价值",
+    "source": "声东击西",
+    "link": "http://etw.fm/2153",
+    "tags": [
+      "analyze",
+      "education",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "教育学习",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2025-04-24",
+    "summary_en": "This podcast episode tackles a critical question in the age of AI: what is the core value of liberal arts education when AI can summarize texts and even write novels? The discussion, featuring a veteran high school Chinese teacher and a renowned journalist, explores how to define 'liberal arts' and what humanities education should aim for in the future. It delves into how language classes can cultivate human agency and emotional intelligence that AI lacks, and how to develop the resilience to remain 'a grain of sand that won't be blown away' in the face of AI's impact on various professions. The conversation is both timely and profound, offering valuable insights for educators, students, and anyone concerned about the future of human-centric education.",
+    "summary_zh": "在AI时代，当AI能够快速总结文章、写作时，文科教育的核心价值是什么？这期节目通过资深语文教师与知名记者的对话，探讨了如何定义文科，以及未来语文教育的方向。特别是如何通过语文课唤起人的主体性，培养AI无法替代的能力。对教育者、学生以及关注人文发展的听众来说，这场讨论既及时又深刻。",
+    "best_quote_en": "How do we become 'a grain of sand that won't be blown away' in the age of AI?",
+    "best_quote_zh": "我们如何在AI时代做到不被风吹走的那一粒沙？"
+  },
+  {
+    "id": 120,
+    "title": "针尖·多味听觉馆 #4：西北偏北——跟着民国历史大家重游故地",
+    "title_zh": "针尖·多味听觉馆 #4：西北偏北——跟着民国历史大家重游故地",
+    "source": "政见",
+    "link": "http://cnpolitics.github.io/radio/mig/ep4/",
+    "tags": [
+      "solve",
+      "society",
+      "education",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "教育学习",
+      "深度分析"
+    ],
+    "date": "2017-10-23",
+    "summary_en": "This podcast episode takes listeners on a historical journey through northwest China, following the footsteps of renowned historian Gu Jiegang during his 1939 expedition. The episode explores two fascinating locations—Min County and Linxia—through the lens of Gu's field notes. It offers a unique blend of historical perspective, cultural exploration, and contemporary observations, connecting past and present through meticulous research and vivid storytelling. The discussion covers everything from traditional medicine markets to local cuisine, literary references, and ongoing urban transformation, creating a rich tapestry of northwest China's cultural heritage and modern development.",
+    "summary_zh": "这期播客带我们跟随民国历史学家顾颉刚的考察日记，重游大西北的岷县和临夏。通过历史视角与当代观察的交织，揭示了西北地区丰富的文化遗产与现代变迁。从国际药材中心到地方小吃，从文学作品中的河州到外国学者的田野笔记，再到正在改造的八坊，节目以细腻的叙事和深厚的研究，呈现了一个立体的西北故事。",
+    "best_quote_en": "The intersection of history and contemporary life in northwest China reveals both the enduring spirit of the region and the dynamic forces shaping its future.",
+    "best_quote_zh": "历史与当代生活的交织，展现了西北地区既有的文化韧性与正在塑造未来的动态力量。"
   }
 ]
