@@ -1,125 +1,5 @@
 [
   {
-    "id": 31,
-    "title": "Google is powering Belgium's digital future with a two-year €5 billion investment in AI infrastructure.",
-    "title_zh": "Google 将通过两年50亿欧元的投资推动比利时的数字化未来",
-    "source": "Google AI (Gemini)",
-    "link": "https://blog.google/inside-google/infrastructure/google-ai-infrastructure-investment-belgium/",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-08",
-    "summary_en": "Google's €5 billion investment in Belgium represents a strategic move to bolster Europe's AI infrastructure while addressing workforce transformation. The investment goes beyond physical infrastructure, focusing on upskilling the local population for an AI-driven economy. This initiative is particularly noteworthy for its commitment to providing free AI training for low-skilled workers through non-profits, demonstrating corporate social responsibility. The investment in renewable energy partnerships further aligns with global sustainability trends. This case study highlights how tech giants are increasingly playing a role in national economic development and digital transformation strategies.",
-    "summary_zh": "谷歌对比利时的50亿欧元投资不仅是基建扩张，更是对AI未来的战略布局。通过免费培训计划，公司展现了对社会转型的责任感。这种商业与社会价值的结合，正在重塑企业在数字化时代的角色。",
-    "best_quote_en": "This is an extraordinary time for European innovation and its digital and economic future.",
-    "best_quote_zh": "这是欧洲创新和数字经济未来的关键时刻。"
-  },
-  {
-    "id": 32,
-    "title": "The latest AI news we announced in September",
-    "title_zh": "9月我们公布的最新AI新闻",
-    "source": "Google AI (Gemini)",
-    "link": "https://blog.google/technology/ai/google-ai-updates-september-2025/",
-    "tags": [
-      "update",
-      "education",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "教育学习",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-08",
-    "summary_en": "Google's September AI updates showcase impressive advancements across multiple fronts. The integration of Gemini into Chrome transforms it into an intelligent browsing assistant with enhanced security features and task automation capabilities. Search's AI Mode now offers visual inspiration through advanced image understanding, available in multiple languages. The Gemini app gained powerful features like Nano Banana for image generation, customizable Gems, and a no-code app builder. Google DeepMind's robotics advancements bring AI into the physical world with models capable of complex task execution. Educational tools like NotebookLM and Guided Learning demonstrate AI's potential in personalized learning. These updates reflect Google's commitment to making AI more useful in everyday applications while expanding its reach into education and physical robotics.",
-    "summary_zh": "谷歌9月发布的AI更新展示了多个领域的显著进步。Gemini整合到Chrome中，使其成为智能浏览助手，增强了安全功能和任务自动化能力。搜索的AI模式现在通过先进的图像理解技术提供视觉灵感，并支持多种语言。Gemini应用获得了强大功能，如Nano Banana图像生成、可定制的Gems和无代码应用构建器。Google DeepMind在机器人领域的进步将AI引入物理世界，模型能够执行复杂任务。教育工具如NotebookLM和Guided Learning展示了AI在个性化学习中的潜力。这些更新体现了谷歌将AI融入日常应用并拓展至教育和物理机器人的承诺。",
-    "best_quote_en": "Our overarching goal remains the same: to make AI as useful as possible, whether through the fun, visible features that help you with everyday tasks or in the essential, behind-the-scenes magic boosting your cybersecurity and learning.",
-    "best_quote_zh": "我们的核心目标始终不变：让AI尽可能实用，无论是通过帮助日常任务的有趣可见功能，还是增强网络安全和学习能力的幕后魔法。"
-  },
-  {
-    "id": 33,
-    "title": "AI Mode is now available in more languages and locations around the world.",
-    "title_zh": "AI 模式现已在全球更多语言和地区提供",
-    "source": "Google AI (Gemini)",
-    "link": "https://blog.google/products/search/ai-mode-expands-languages-locations/",
-    "tags": [
-      "update",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-10-07",
-    "summary_en": "Google's expansion of AI Mode to 35 new languages and 40 new countries signifies a major step in democratizing AI-powered search capabilities. The use of advanced Gemini models highlights Google's commitment to natural language understanding and multimodal capabilities, allowing users to interact with search in their most comfortable language. This expansion not only broadens accessibility but also demonstrates the potential for AI to bridge linguistic and cultural divides. The mention of users asking three times longer questions suggests a shift towards more complex, conversational search patterns. This development could reshape how we interact with information, making search more intuitive and deeply personal. The rollout strategy over a week indicates careful scaling, likely to monitor performance and user feedback.",
-    "summary_zh": "谷歌将AI模式扩展到35种新语言和40个新国家，标志着AI驱动搜索能力的民主化进程。Gemini模型的应用展现了谷歌在自然语言理解和多模态能力上的承诺，让用户能以最熟悉的语言进行交互。这一扩展不仅拓宽了可及性，也证明了AI在弥合语言和文化差异方面的潜力。用户提问长度增加三倍的现象，预示着搜索模式向更复杂、更对话化的方向转变。这一发展可能重塑我们获取信息的方式，使搜索更加直观和个性化。逐步推广的策略表明了对性能和用户反馈的谨慎考量。",
-    "best_quote_en": "Our latest Gemini models are powering dramatically more powerful capabilities in Search, allowing people to ask anything on their mind in the way that’s most natural to them, thanks to our natural language understanding and multimodal capabilities.",
-    "best_quote_zh": "我们最新的Gemini模型正在为搜索提供更强大的能力，让人们能以最自然的方式提出任何问题，得益于我们的自然语言理解和多模态能力。"
-  },
-  {
-    "id": 34,
-    "title": "Investing in America 2025",
-    "title_zh": "美国投资2025",
-    "source": "Google AI (Gemini)",
-    "link": "https://blog.google/inside-google/company-announcements/investing-in-america-2025/",
-    "tags": [
-      "update",
-      "education",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "教育学习",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-07",
-    "summary_en": "Google's comprehensive investment strategy in the U.S. reveals a forward-thinking approach to AI leadership through infrastructure, education, and workforce development. The company's $39 billion commitment across multiple states demonstrates a tangible effort to strengthen America's position in AI while addressing critical workforce needs. The focus on energy capacity expansion for an AI-driven economy and cybersecurity fortification reflects Google's recognition of both technological and geopolitical imperatives. Particularly noteworthy is the emphasis on practical applications, from training electrical workers to supporting small businesses through AI accelerators. This initiative bridges the gap between cutting-edge technology and real-world economic impact, positioning Google as both an industry leader and a responsible corporate citizen.",
-    "summary_zh": "谷歌在美国的全面投资计划展现了其在AI领域的前瞻性战略，通过基础设施、教育和人才培养多方面推动。390亿美元的投资跨越多个州，实实在在地强化了美国在AI领域的领先地位，同时解决了关键的就业需求。特别值得注意的是，谷歌通过培训电工和支持小企业AI加速器等实践性举措，将先进技术与实际经济效益紧密结合，既展现了行业领导力，也体现了企业社会责任。",
-    "best_quote_en": "These investments also unlock substantial economic opportunity for American businesses — advancing scientific breakthroughs, fortifying cybersecurity for the U.S., and creating new career opportunities for millions of Americans.",
-    "best_quote_zh": "这些投资不仅为美国企业带来巨大的经济机遇，还推动了科学突破，加强了美国的网络安全，并为数百万美国人创造了新的职业机会。"
-  },
-  {
-    "id": 35,
-    "title": "Introducing the Gemini 2.5 Computer Use model",
-    "title_zh": "介绍Gemini 2.5计算机使用模型",
-    "source": "Google AI (Gemini)",
-    "link": "https://blog.google/technology/google-deepmind/gemini-computer-use-model/",
-    "tags": [
-      "analyze",
-      "design",
-      "programming",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "设计创意",
-      "编程开发",
-      "数据驱动"
-    ],
-    "date": "2025-10-07",
-    "summary_en": "Google's introduction of the Gemini 2.5 Computer Use model represents a significant advancement in AI-agent capabilities, particularly in UI interaction. This specialized model, built on Gemini 2.5 Pro's visual understanding, enables agents to perform complex tasks like form filling and data transfer between applications. The model's iterative process of analyzing screenshots and executing UI actions demonstrates impressive performance in web and mobile control benchmarks, with lower latency than competitors. Google has implemented robust safety measures to address potential risks, including out-of-model safety services and developer-controlled guardrails. The public preview availability via Google AI Studio and Vertex AI opens up possibilities for personal assistants, workflow automation, and UI testing. This development marks an important step toward more capable, general-purpose AI agents that can handle real-world digital tasks.",
-    "summary_zh": "谷歌推出的Gemini 2.5计算机使用模型标志着AI智能体能力的重要突破，尤其是在用户界面交互方面。该模型基于Gemini 2.5 Pro的视觉理解能力，能够完成填写表格、数据迁移等复杂任务。其通过分析截图和执行UI操作的迭代过程在网页和移动控制基准测试中表现出色，延迟更低。谷歌实施了全面的安全措施应对潜在风险，包括推理时的安全服务和开发者可控的防护机制。该模型通过Google AI Studio和Vertex AI提供公测，为个人助手、工作流自动化和UI测试开辟了新可能。这一发展是通用AI智能体处理现实世界数字任务的重要一步。",
-    "best_quote_en": "The ability to natively fill out forms, manipulate interactive elements like dropdowns and filters, and operate behind logins is a crucial next step in building powerful, general-purpose agents.",
-    "best_quote_zh": "能够原生填写表单、操作下拉菜单和过滤器等交互元素，并在登录后操作，是构建强大的通用智能体的关键下一步。"
-  },
-  {
     "id": 36,
     "title": "Google AI Plus is coming to 36 more countries.",
     "title_zh": "Google AI Plus 将扩展至36个新国家",
@@ -2358,5 +2238,121 @@
     "summary_zh": "这期节目探讨了AI快速发展对教育尤其是青少年成长带来的挑战与机遇。创作者们分享了制作「Knock Knock 世界」新节目的初衷，旨在培养青少年批判性思维和好奇心。他们指出当代青少年深度阅读的匮乏，以及在快速变化的世界中保持核心素养的重要性。节目特别强调通过让孩子们参与内容制作来激发思考，为教育工作者和家长提供了宝贵的启示。",
     "best_quote_en": "We need to help young people develop an open mindset and active critical thinking to face the future.",
     "best_quote_zh": "我们需要帮助青少年培养开放的心态和积极的思辨能力，以面对未来。"
+  },
+  {
+    "id": 131,
+    "title": "#339 中国短剧登陆好莱坞：一位驻美记者在好莱坞短剧剧组的观察",
+    "title_zh": "中国短剧登陆好莱坞：一位驻美记者在好莱坞短剧剧组的观察",
+    "source": "声东击西",
+    "link": "http://etw.fm/2148",
+    "tags": [
+      "solve",
+      "science",
+      "cybersecurity",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "网络安全",
+      "未来预测"
+    ],
+    "date": "2025-03-20",
+    "summary_en": "This insightful piece explores the fascinating phenomenon of Chinese short dramas making their way to Hollywood, offering a unique perspective from a seasoned foreign correspondent. The article reveals the surprising statistic that 100 Chinese short dramas are filmed in Los Angeles each month, showcasing the cultural exchange happening in the entertainment industry. The author examines how Chinese drama scripts are adapted for American audiences and how local directors and actors perceive their involvement in these productions. The piece also discusses the rigorous selection process for American actors based on data, appearance, and other criteria, and how a Mexican director became a sought-after creator in this space. Notably, it highlights how Hollywood's union strikes have paradoxically improved the quality of short drama productions. Beyond the industry insights, the article underscores the value of stories surrounding short dramas, which often go unnoticed but deserve attention. This content serves as an excellent case study of cross-cultural collaboration in entertainment and offers a glimpse into the future of short-form content creation.",
+    "summary_zh": "这篇文章深入探讨了中国短剧如何登陆好莱坞的现象，通过一位资深驻美记者的独特视角展现文化交流的魅力。每月100部中国短剧在洛杉矶开拍的数据令人惊讶，揭示了娱乐产业中跨文化合作的新趋势。作者分析了中国剧本如何被改编给美国观众，以及本地导演和演员如何看待参与这些短剧的创作。文章还探讨了中国资方如何通过数据筛选美国演员，以及一位墨西哥导演如何成为短剧领域的流量制造者。尤其值得关注的是好莱坞工会罢工如何意外提升了短剧的拍摄质量。超越产业洞察，这篇文章强调了短剧背后人物故事的价值，尽管常被忽视却值得被倾听。这既是跨文化娱乐合作的案例研究，也是短剧创作未来走向的窗口。",
+    "best_quote_en": "In many people's eyes, short dramas may still be seen as something 'not worthy of attention', but the stories surrounding them still have value that deserves to be seen and heard.",
+    "best_quote_zh": "在许多人眼里，短剧或许依旧是「上不了台面」的存在，但那些围绕它发生的人物故事依然有被看见和倾听的价值。"
+  },
+  {
+    "id": 132,
+    "title": "#338  AI 快速演进下的教育应该教什么？一个创新学校校长的思考",
+    "title_zh": "AI 快速演进下的教育应该教什么？一个创新学校校长的思考",
+    "source": "声东击西",
+    "link": "http://etw.fm/2147",
+    "tags": [
+      "inspire",
+      "education",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "未来预测"
+    ],
+    "date": "2025-03-13",
+    "summary_en": "This podcast episode delves into the transformative impact of AI on education, featuring insights from innovative school leaders. As AI surpasses human teachers in course design and delivery, the discussion explores what schools should offer students in this new landscape. The episode emphasizes the need for 'entrepreneurial' teachers and highlights the importance of stable personal core competencies. Through a series of reflections on education, teaching methods, and personal development, the conversation offers valuable perspectives on navigating AI's disruption in education. The content is particularly relevant for educators, parents, and anyone interested in future learning environments.",
+    "summary_zh": "本期节目探讨了AI对教育的深刻影响，创新学校校长分享了关于未来教育的独特见解。在AI超越人类教师的时代，我们需要重新思考教育的本质。讨论强调了「创业型」教师的重要性，以及个人核心竞争力的培养。通过教育者的深刻反思，我们得以理解AI时代的教育变革与个人成长。内容对教育工作者、家长及未来教育探索者具有深远启发。",
+    "best_quote_en": "Schools should provide a place that simulates future society, helping students develop core competencies that AI cannot replicate.",
+    "best_quote_zh": "学校最重要的是提供一个模拟未来社会的场所，培养AI无法替代的核心竞争力。"
+  },
+  {
+    "id": 133,
+    "title": "#337 从《初步举证》到日本修法：当法律听不见「我不同意」",
+    "title_zh": "#337 从《初步举证》到日本修法：当法律听不见「我不同意」",
+    "source": "声东击西",
+    "link": "http://etw.fm/2146",
+    "tags": [
+      "update",
+      "society",
+      "legal",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "法律法规",
+      "未来预测"
+    ],
+    "date": "2025-03-06",
+    "summary_en": "This episode explores the complex intersection of sexual violence, legal systems, and societal attitudes through the lens of the film 'Initial Evidence' and Japan's recent legal reforms. It critically examines how legal definitions of consent and coercion have evolved, particularly in Japan's century-overdue criminal law revisions. The discussion challenges traditional notions of 'irresistible force' in sexual crimes and questions whether Japan's recent shift from 'rape' to 'non-consensual sexual intercourse' adequately addresses victim experiences. The episode also invites listeners to consider what legal and social systems might better protect sexual rights, making it valuable for those seeking to understand international legal developments and gender justice.",
+    "summary_zh": "本期节目通过电影《初步举证》和日本刑法修订，深入探讨性暴力、法律体系与社会观念的复杂交织。批判性地反思了性犯罪中「不可抗拒」与「同意」的法律定义演变，尤其聚焦日本百年修法的局限性。讨论挑战传统强奸罪认定，思考如何构建更完善的性权利保护体系，对关注国际法治进展与性别正义的听众尤为有价值。",
+    "best_quote_en": "The evolution from 'rape' to 'non-consensual sexual intercourse' represents a fundamental shift in how society conceptualizes sexual violence and victim agency.",
+    "best_quote_zh": "从「强奸罪」到「不同意性交罪」的转变，反映了社会对性暴力与受害者主体性认知的深刻变革。"
+  },
+  {
+    "id": 134,
+    "title": "政常说话 #12：高考改革，将会何去何从？",
+    "title_zh": "政常说话 #12：高考改革，将会何去何从？",
+    "source": "政见",
+    "link": "http://cnpolitics.github.io/radio/talk/ep12/",
+    "tags": [
+      "solve",
+      "education",
+      "society",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "教育学习",
+      "社会议题",
+      "数据驱动"
+    ],
+    "date": "2017-04-29",
+    "summary_en": "This episode of '政常说话' delves into the critical phase of China's high school graduation examination (高考) reform, now in its fourth year. With 2017 being a pivotal year for pilot programs, the discussion explores the challenges faced by educators, students, and parents alike. The panel of experts—including scholars from Rice University, Ecole Normale Supérieure, and Syracuse University—examines the reform's trajectory, its societal implications, and the complex interplay between educational policy and social change. The conversation goes beyond surface-level analysis, questioning whether the reforms truly address systemic issues or merely tinker at the margins. It's a thought-provoking exploration of how education policy shapes—and is shaped by—China's evolving social landscape.",
+    "summary_zh": "本期《政常说话》聚焦高考改革的关键节点。改革进入第四年，2017年成为试点的决胜之年，教育者、考生与家长面临诸多挑战。来自莱斯大学、巴黎高师与雪城大学的专家深度剖析改革走向，探讨政策背后的社会动力学。讨论超越技术层面，直指教育改革与社会变迁的深层关联，引发对中国教育体系未来的深刻思考。",
+    "best_quote_en": "Are we seeing transformative change or just incremental adjustments to a deeply entrenched system?",
+    "best_quote_zh": "我们看到的是体制的根本性变革，还是既有体系的渐进调整？"
+  },
+  {
+    "id": 135,
+    "title": "操蛋的艳阳天",
+    "title_zh": "操蛋的艳阳天",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=1370151274&radio=526995586",
+    "tags": [
+      "learn",
+      "music-arts",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "学习",
+      "音乐艺术",
+      "新手友好"
+    ],
+    "date": "2018-07-13",
+    "summary_en": "This music podcast episode titled 'Fucking Sunny Day' offers an insightful exploration of Lambchop's unique sound, blending country, soul, and folk elements with post-rock influences. The Nashville-based band's music is described as serene yet tinged with melancholy, evoking the atmosphere of a countryside stroll with sunlight filtering through trees. The episode highlights how Lambchop maintains the essence of country music - expressing life's subtle nuances - while presenting a distinctly unconventional style. The tracklist features songs from various albums, showcasing the band's evolution and depth. This podcast serves as both an introduction to new listeners and a thoughtful curation for existing fans, emphasizing the band's ability to capture complex emotions through their music.",
+    "summary_zh": "本期播客聚焦美国另类乡摇乐团Lambchop，他们将乡村、灵魂、民谣融为一体，创造出独特的音乐风格。音乐静谧中带着淡淡哀愁，像在乡间小路上漫步。节目深入解析了Lambchop如何保持乡村音乐的核心精神，又自称“纳什维尔最扭曲的乡村乐队”。歌单涵盖不同专辑的经典作品，展现乐队的艺术深度。这期内容既是新听众的入门指南，也是老粉丝的精心精选，充分体现了音乐表达生活细微起伏的力量。",
+    "best_quote_en": "Lambchop's music with other conventional country bands is different, but the core spirit of country music - 'expressing the subtle ups and downs of life through music' - still remains in their work.",
+    "best_quote_zh": "Lambchop的音乐与其他常规的乡村乐队并不相同，但乡村音乐的核心精神——用音乐表达生活中细微的起伏仍然存留在他们的音乐之中。"
   }
 ]
