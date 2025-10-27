@@ -1,125 +1,5 @@
 [
   {
-    "id": 36,
-    "title": "Google AI Plus is coming to 36 more countries.",
-    "title_zh": "Google AI Plus 将扩展至36个新国家",
-    "source": "Google AI (Gemini)",
-    "link": "https://blog.google/products/google-one/google-ai-plus-36-countries/",
-    "tags": [
-      "update",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-10-07",
-    "summary_en": "Google's expansion of AI Plus to 36 additional countries demonstrates their commitment to global AI democratization. The service, which offers enhanced features like improved image and video generation, integration with productivity tools, and increased storage, represents a strategic move to capture emerging markets. The limited-time discount may accelerate adoption, but concerns about data privacy and regional regulatory challenges remain. This expansion positions Google as a key player in the AI subscription market, potentially reshaping how users interact with AI tools worldwide.",
-    "summary_zh": "谷歌AI Plus扩展至36个新国家，展现其全球AI普及的决心。提供增强的图像和视频生成功能、与生产力工具的集成以及更大的存储空间。限时折扣可能促进采用，但数据隐私和监管挑战仍存。这一扩展巩固了谷歌在AI订阅市场的地位，或将改变用户与AI工具互动的方式。",
-    "best_quote_en": "Google AI Plus includes higher limits for our image generation and editing model, Nano Banana, and more access to video generation in the Gemini app",
-    "best_quote_zh": "谷歌AI Plus包括更高的图像生成和编辑模型Nano Banana限制，以及在Gemini应用中的更多视频生成访问权限"
-  },
-  {
-    "id": 37,
-    "title": "Googler Michel Devoret awarded the Nobel Prize in Physics",
-    "title_zh": "谷歌员工米歇尔·德沃雷特获得诺贝尔物理学奖",
-    "source": "Google AI (Gemini)",
-    "link": "https://blog.google/inside-google/company-announcements/googler-michel-devoret-awarded-the-nobel-prize-in-physics/",
-    "tags": [
-      "update",
-      "science",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-10-07",
-    "summary_en": "The 2025 Nobel Prize in Physics recognizes Michel Devoret's groundbreaking work on macroscopic quantum effects, laying the foundation for superconducting qubit-based quantum computing. This award highlights the profound impact of fundamental research and its continuing relevance to Google's Quantum AI team. The recognition of Devoret, along with John Martinis and John Clarke, underscores how early quantum experiments have enabled modern advancements like Google's Willow quantum chip and the 2019 quantum supremacy milestone. It serves as inspiration for future breakthroughs in quantum computing, demonstrating how theoretical physics can transform technology decades later.",
-    "summary_zh": "2025年诺贝尔物理学奖授予米歇尔·德沃雷特，表彰其在宏观量子效应方面的开创性工作，为超导量子比特量子计算奠定了基础。这一荣誉凸显了基础研究的深远影响及其对谷歌量子AI团队的持续意义。德沃雷特、约翰·马丁尼斯和约翰·克拉克的获奖，展示了早期量子实验如何推动现代突破，如谷歌的Willow量子芯片和2019年量子优越性里程碑。它激励着未来量子计算的进步，证明理论物理如何数十年后改变技术。",
-    "best_quote_en": "This prize is a profound testament to the recipients' work, and to the power of fundamental research.",
-    "best_quote_zh": "这一奖项是对获奖者工作的深刻见证，也是基础研究力量的体现。"
-  },
-  {
-    "id": 38,
-    "title": "5 features for taking perfect group photos with Pixel 10",
-    "title_zh": "用Pixel 10拍摄完美群像照的5个功能",
-    "source": "Google AI (Gemini)",
-    "link": "https://blog.google/products/pixel/pixel-group-photo-features-ai/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-10-06",
-    "summary_en": "This article highlights five innovative AI-powered features in the Pixel 10 that address common challenges in group photography. The most compelling aspect is how these features collectively solve the perennial problem of capturing everyone in a group looking their best. Auto Best Take's ability to analyze multiple frames and create composites demonstrates impressive AI capabilities. The Add Me feature cleverly addresses the photographer's absence issue, while Camera Coach offers valuable educational value by teaching photography fundamentals. Palm Timer and conversational editing add practical convenience. The article serves as both a tutorial and a showcase of Google's technical advancements, making it valuable for both Pixel users and those interested in AI applications in photography.",
-    "summary_zh": "本文介绍了Pixel 10的五个AI功能，解决群像照常见难题。Auto Best Take智能合成最佳画面，Add Me让摄影师也能入镜，Camera Coach提供实时指导，Palm Timer手势触发方便，对话式编辑轻松修图。这些功能不仅实用，还展示了AI在摄影中的创新应用，值得Pixel用户和技术爱好者关注。",
-    "best_quote_en": "Auto Best Take uses AI to sense when you're capturing a group photo, then analyzes up to 150 frames to find when every person looks just right.",
-    "best_quote_zh": "Auto Best Take会用AI感知到你在拍群像照，然后分析多达150帧画面，找出每个人状态最好的瞬间。"
-  },
-  {
-    "id": 39,
-    "title": "Ask a Techspert: What is vibe coding?",
-    "title_zh": "问专家：什么是“vibe编码”？",
-    "source": "Google AI (Gemini)",
-    "link": "https://blog.google/technology/ai/techspert-what-is-vibe-coding/",
-    "tags": [
-      "solve",
-      "design",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-10-06",
-    "summary_en": "The article explores the emerging concept of 'vibe coding,' a democratizing approach to software development enabled by AI. It allows non-coders to create app prototypes by describing their vision to AI tools like Gemini, Canvas, Stitch, and Jules. While it lowers the barrier to entry, complex applications still require traditional coding skills for full functionality. The piece highlights the iterative process of refining ideas through AI conversation before implementation and the potential of tools like Stitch for visualization and Jules for production-ready code. It emphasizes the collaborative nature of vibe coding between different skill levels and its value in idea exploration and rapid prototyping.",
-    "summary_zh": "这篇文章探讨了AI驱动的“vibe编码”概念，让非专业人士通过描述想法即可创建应用原型。虽然降低了编程门槛，但复杂应用仍需传统编程。文中强调与AI对话优化想法的过程，以及Stitch等工具在可视化和Jules在生产级代码中的作用，展现了不同技能层级间的协作潜力。",
-    "best_quote_en": "Vibe coding lets you build what you envisioned in your head even if you don't have traditional coding skills.",
-    "best_quote_zh": "vibe编码让你即使没有传统编程技能，也能实现你脑海中的构想。"
-  },
-  {
-    "id": 40,
-    "title": "直播预告 | 和孩子一起敲开世界的门",
-    "title_zh": "直播预告 | 和孩子一起敲开世界的门",
-    "source": "读库小报",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E8%AF%BB%E5%BA%93%E5%B0%8F%E6%8A%A5+%E7%9B%B4%E6%92%AD%E9%A2%84%E5%91%8A%20%7C%20%E5%92%8C%E5%AD%A9%E5%AD%90%E4%B8%80%E8%B5%B7%E6%95%B2%E5%BC%80%E4%B8%96%E7%95%8C%E7%9A%84%E9%97%A8",
-    "tags": [
-      "analyze",
-      "education",
-      "ai-research",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "AI研究",
-      "新手友好"
-    ],
-    "date": "2025-09-11",
-    "summary_en": "This livestream announcement highlights a unique educational initiative targeting 9-13 year olds, blending current events with child-driven curiosity. The 'Knock Knock World' podcast, a collaboration between Shengdong Huopao and Shifen Zhiyi, offers 10-minute episodes that decode global happenings through youth perspectives. What's particularly innovative is that half of their topics now come directly from children's submissions, addressing everything from AI ethics to technology trends. The upcoming livestream with editors Qian Wen and Dongdong Gun promises to share book and audio recommendations for the new school year, focusing on stimulating children's curiosity about the world. This initiative stands out for its democratic approach to content creation and its commitment to fostering critical thinking in young minds.",
-    "summary_zh": "这场直播预告介绍了一档面向9-13岁青少年的创新教育节目，将时事解读与儿童好奇心巧妙结合。由声动活泼和十分之一联合出品的「Knock Knock 世界」播客，通过短小精悍的10分钟内容，用青少年的视角解构全球热点。最令我印象深刻的是，如今半数选题来自孩子们的投稿，从AI伦理到科技趋势，展现了青少年独特的思考角度。主编骞文和东东枪将在直播中分享新学期适合的图书和音频节目，引导孩子们探索世界。这种让孩子参与内容创作的模式，值得更多教育工作者借鉴。",
-    "best_quote_en": "Why would AI prefer to lie rather than say 'I don't know'?",
-    "best_quote_zh": "为什么AI宁可说谎也不说‘我不知道’？"
-  },
-  {
     "id": 41,
     "title": "《讣告》文章试读",
     "title_zh": "《讣告》文章试读",
@@ -2354,5 +2234,121 @@
     "summary_zh": "本期播客聚焦美国另类乡摇乐团Lambchop，他们将乡村、灵魂、民谣融为一体，创造出独特的音乐风格。音乐静谧中带着淡淡哀愁，像在乡间小路上漫步。节目深入解析了Lambchop如何保持乡村音乐的核心精神，又自称“纳什维尔最扭曲的乡村乐队”。歌单涵盖不同专辑的经典作品，展现乐队的艺术深度。这期内容既是新听众的入门指南，也是老粉丝的精心精选，充分体现了音乐表达生活细微起伏的力量。",
     "best_quote_en": "Lambchop's music with other conventional country bands is different, but the core spirit of country music - 'expressing the subtle ups and downs of life through music' - still remains in their work.",
     "best_quote_zh": "Lambchop的音乐与其他常规的乡村乐队并不相同，但乡村音乐的核心精神——用音乐表达生活中细微的起伏仍然存留在他们的音乐之中。"
+  },
+  {
+    "id": 136,
+    "title": "#336  特朗普关税风暴，和可能被改写的全球贸易规则",
+    "title_zh": "特朗普关税风暴，和可能被改写的全球贸易规则",
+    "source": "声东击西",
+    "link": "http://etw.fm/2144",
+    "tags": [
+      "analyze",
+      "politics",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-02-20",
+    "summary_en": "This podcast episode delves into the recent wave of tariff policies implemented by President Trump in his first month of office in 2025, exploring the deeper motivations behind these measures and their potential global impact. Through an interview with veteran investor Zhou Jiuzhou, the discussion spans historical trade wars, including post-WWI conflicts and the 30-year Japan-US trade tensions, to draw parallels and lessons. The episode critically examines whether tariffs will inevitably lead to price increases in the US and how these policies might affect allies like Mexico, Canada, the UK, and Australia. With a focus on historical context and contemporary implications, this analysis offers valuable insights into the complex dynamics of international trade relations and the geopolitical strategies at play.",
+    "summary_zh": "这期节目深入探讨了特朗普2025年上任首月出台的关税政策及其全球影响。通过与资深投资人周玖洲的对话，从一战后的贸易战到日美30年贸易摩擦，梳理历史教训。批判性分析关税对美国物价的影响，以及对盟友墨加英澳的冲击。兼具历史纵深与现实针对性，为理解复杂贸易格局提供了有价值的视角。",
+    "best_quote_en": "New policies will continue to emerge, with tariffs as the game pieces in a high-stakes game played out between the U.S. and other nations.",
+    "best_quote_zh": "新的政策还会继续涌现，以关税为棋子的博弈也会继续在美国国内和诸国间上演"
+  },
+  {
+    "id": 137,
+    "title": "烟枪牛仔传奇",
+    "title_zh": "烟枪牛仔传奇",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=1370249258&radio=526995586",
+    "tags": [
+      "analyze",
+      "music-arts"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术"
+    ],
+    "date": "2018-07-19",
+    "summary_en": "This episode of 'Music Podcast' explores the unique sound and family origins of Canadian band Cowboy Junkies. Formed in 1985 in Toronto, the band consists of siblings Margo, Michael, and Peter Timmins along with childhood friend Alan Anton. Their music is deeply influenced by 1960s legends like The Beatles and The Velvet Underground, blending these influences with blues traditions from artists like Muddy Waters and John Lee Hooker. The playlist features tracks that showcase their signature style, including covers and original compositions. The band's ability to fuse different musical eras creates a distinctive, timeless sound that appeals to both music historians and contemporary listeners.",
+    "summary_zh": "本期节目带我们探索加拿大迷幻另类民谣摇滚乐队Cowboy Junkies的独特音乐风格及家庭背景。1985年成立于多伦多的这支乐队由Timmins三兄妹和儿时好友组成，他们融合了六十年代The Beatles等乐队的风格与黑人布鲁斯音乐，创造出独特的Cowboy Junkies式风格。播放列表中的歌曲展现了他们对不同音乐时代的融合，是音乐爱好者不可错过的经典之作。",
+    "best_quote_en": "Their music is deeply influenced by 1960s legends like The Beatles and The Velvet Underground, blending these influences with blues traditions from artists like Muddy Waters and John Lee Hooker.",
+    "best_quote_zh": "他们最大的影响来自于The Velvet Underground和布鲁斯音乐，将这些伟大的黑人布鲁斯音乐家Muddy Waters、John Lee Hooker的音乐和属于他们那个时代的地下丝绒的声音结合在一起。"
+  },
+  {
+    "id": 138,
+    "title": "#335 马斯克的「政府改造梦」：DOGE 的激进之路能走多远？",
+    "title_zh": "马斯克的「政府改造梦」：DOGE 的激进之路能走多远？",
+    "source": "声东击西",
+    "link": "http://etw.fm/2143",
+    "tags": [
+      "inspire",
+      "politics",
+      "leadership",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "领导管理",
+      "未来预测"
+    ],
+    "date": "2025-02-13",
+    "summary_en": "This analysis delves into Elon Musk's radical transformation of the US government's efficiency department (DOGE), which has sparked intense debate. The piece examines the department's role, its controversial operations, and the constitutional crisis it may be triggering. With young engineers gaining unprecedented access to financial systems and massive public sector layoffs, the article raises critical questions about governance, efficiency, and democratic principles in the digital age. The discussion extends to the broader implications of such aggressive reform attempts on government structure and public trust.",
+    "summary_zh": "马斯克领导的DOGE部门以闪电战式改革引发宪法危机争议，年轻工程师获财政系统权限，数十万公务员面临失业。本文深入分析政府效率改革的代价与争议，探讨数字时代治理的新挑战。",
+    "best_quote_en": "Someone called it 'lightning war', others 'Musk's reform', while some lamented that America is facing its most serious constitutional crisis.",
+    "best_quote_zh": "有人将这一系列举措称为「闪电战」，也有人称之为「马斯克变法」，还有人痛心疾首高呼美国正在面临最严重的宪法危机。"
+  },
+  {
+    "id": 139,
+    "title": "政常说话 #11：你想要什么样的城市？：网约自行车、Airbnb和共享经济",
+    "title_zh": "政常说话 #11：你想要什么样的城市？：网约自行车、Airbnb和共享经济",
+    "source": "政见",
+    "link": "http://cnpolitics.github.io/radio/talk/ep11/",
+    "tags": [
+      "inspire",
+      "ai-research",
+      "business-model",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "AI研究",
+      "商业模式",
+      "未来预测"
+    ],
+    "date": "2017-04-29",
+    "summary_en": "This episode of 'Zheng Chang Speaks' explores the evolving landscape of urban shared economies, focusing on bike-sharing and Airbnb. The discussion delves into how these services are reshaping city life, examining both their benefits and challenges. Featuring academics from Rice, Harvard, and City University of Hong Kong, the podcast offers interdisciplinary perspectives on urban policy and technology's impact on communities. The conversation goes beyond mere technological innovation to question what kind of cities we truly want to live in, making it a thought-provoking exploration of modern urban development.",
+    "summary_zh": "这一期《政常说话》深入探讨共享单车和Airbnb等共享经济如何重塑城市生活，从多学科视角审视其利弊。来自莱斯、哈佛和香港城市大学的学者共同探讨，超越技术本身，引发我们思考：我们究竟想要什么样的城市？",
+    "best_quote_en": "How do we balance technological innovation with the preservation of community character?",
+    "best_quote_zh": "我们如何在技术创新与社区特色保护之间找到平衡？"
+  },
+  {
+    "id": 140,
+    "title": "温柔的小羊排",
+    "title_zh": "温柔的小羊排",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=1369978857&radio=526995586",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "science",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "科学研究",
+      "新手友好"
+    ],
+    "date": "2018-07-04",
+    "summary_en": "This playlist offers a deep dive into the music of Lambchop, an alternative country band from Nashville known for their unique blend of country, soul, and folk influences. Their music is characterized by quiet, melancholic melodies that evoke the feeling of strolling down a country road with sunlight filtering through the trees. Lambchop describes themselves as 'Nashville's most twisted country band,' and while their sound differs from traditional country music, they retain the genre's core spirit of expressing life's subtle nuances through music. The playlist includes tracks from their albums 'No, You C'mon' and 'Aw C'mon & No, you C'mon,' showcasing their distinctive style and emotional depth.",
+    "summary_zh": "这份歌单深入探索了Lambchop的音乐，这支来自纳什维尔的另类乡村乐队以其独特的乡村、灵魂和民谣融合风格闻名。他们的音乐以宁静的旋律和淡淡的忧郁色彩著称，如同在乡间小路上漫步，阳光透过树梢洒在黄土路上。Lambchop自称是'纳什维亚最扭曲的乡村乐队'，尽管他们的风格与传统乡村音乐不同，但仍然保留了用音乐表达生活细微起伏的核心精神。歌单包含他们专辑'No, You C'mon'和'Aw C'mon & No, you C'mon'中的经典作品，展现了他们的独特风格和情感深度。",
+    "best_quote_en": "They describe themselves as 'Nashville's most twisted country band.'",
+    "best_quote_zh": "他们自称是'纳什维亚最扭曲的乡村乐队'。"
   }
 ]
