@@ -1,125 +1,5 @@
 [
   {
-    "id": 41,
-    "title": "《讣告》文章试读",
-    "title_zh": "《讣告》文章试读",
-    "source": "读库小报",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E8%AF%BB%E5%BA%93%E5%B0%8F%E6%8A%A5+%E3%80%8A%E8%AE%A3%E5%91%8A%E3%80%8B%E6%96%87%E7%AB%A0%E8%AF%95%E8%AF%BB",
-    "tags": [
-      "analyze",
-      "science",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-09",
-    "summary_en": "This collection of obituaries offers profound insights into the lives of remarkable individuals whose contributions shaped history. From the inventor of instant ramen, Momofuku Ando, who revolutionized global cuisine with his simple yet impactful creation, to the enigmatic double agent Eddie Chapman, whose wartime exploits blurred the lines between loyalty and deception. The stories of Joseph Bonanno, the mafia boss who navigated the legal system with cunning, and Hedy Lamarr, the Hollywood star whose inventions laid the groundwork for modern communication technology, highlight the complexity of human achievement. The obituaries also delve into the moral ambiguities of figures like Maurice Papon, a French official complicit in wartime atrocities, and Kurt Waldheim, whose selective memory obscured his Nazi past. Through these narratives, the article explores themes of innovation, ethics, and the enduring legacy of historical figures, inviting readers to reflect on the multifaceted nature of human impact.",
-    "summary_zh": "这篇文章通过九个人物的讣告，展现了他们对历史的深远影响。从方便面之父安藤百福的简单发明改变了全球饮食习惯，到双面间谍埃迪·查普曼的战争故事模糊了忠诚与欺骗的界限，再到黑帮教父约瑟夫·博南诺巧妙利用法律系统，以及好莱坞明星海蒂·拉玛的科技发明奠定了现代通信技术的基础。这些故事揭示了人类成就的复杂性，以及历史人物留下的深远影响。",
-    "best_quote_en": "An individual should simply: tear off the lid, pour in boiling water, steep for three minutes, and stir evenly to eat.",
-    "best_quote_zh": "一个人应该简单地：撕掉盖子，倒入沸水，泡三分钟，搅拌均匀即可食用。"
-  },
-  {
-    "id": 42,
-    "title": "女性的尊严可以创造怎样的奇迹",
-    "title_zh": "女性的尊严可以创造怎样的奇迹",
-    "source": "读库小报",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E8%AF%BB%E5%BA%93%E5%B0%8F%E6%8A%A5+%E5%A5%B3%E6%80%A7%E7%9A%84%E5%B0%8A%E4%B8%A5%E5%8F%AF%E4%BB%A5%E5%88%9B%E9%80%A0%E6%80%8E%E6%A0%B7%E7%9A%84%E5%A5%87%E8%BF%B9",
-    "tags": [
-      "analyze",
-      "writing-content",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "写作内容",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-07-17",
-    "summary_en": "This article explores the unique perspective of female writers and readers in the context of 'Dukou' magazine, which intentionally avoids emphasizing author attributes like gender. Interestingly, the editorial process revealed an organic focus on 'female writing,' with women comprising the majority of both authors and readers. The content suggests that women may have a more nuanced perception of human nature and relationships, fearlessly exploring its depths and sharing their findings. The value lies not in gender identity but in the universal exploration of human nature, as encapsulated by Shen Congwen's quote about building a temple to 'humanity.' The reading experience is profound, evoking both powerlessness and strength, revealing the world's simultaneous cruelty and tenderness.",
-    "summary_zh": "这篇文章探讨了《读库》杂志中女性作者和读者的独特视角，尽管杂志不强调作者属性，但编辑过程中却自然而然形成了“女性书写”的主题。女性作者和读者占多数，她们对人性有更细腻的感知，敢于探索并分享发现。内容价值不在于性别本身，而在于对人性的普遍探索。沈从文先生的话“只想造希腊小庙，这庙里供奉的是‘人性’”道出了核心。阅读这些文字既沉重又充满力量，展现了世界的险恶与温柔。",
-    "best_quote_en": "I only want to build a Greek temple... this temple enshrines 'human nature'.",
-    "best_quote_zh": "我只想造希腊小庙……这庙里供奉的是“人性”。"
-  },
-  {
-    "id": 43,
-    "title": "#362 当 AI 完美复制了我的声音（二）：一位伯克利法学学者的解读",
-    "title_zh": "#362 当 AI 完美复制了我的声音（二）：一位伯克利法学学者的解读",
-    "source": "声东击西",
-    "link": "http://etw.fm/2181",
-    "tags": [
-      "update",
-      "ai-research",
-      "legal",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "法律法规",
-      "数据驱动"
-    ],
-    "date": "2025-09-28",
-    "summary_en": "This episode delves into the legal implications of AI voice cloning, featuring a Berkeley law scholar's analysis. It examines cases in the U.S. and China where AI companies have used human voices without consent, raising critical questions about copyright, personality rights, and the balance between creative democratization and individual rights protection. The discussion explores the boundaries of 'fair use' in intellectual property law and whether copyright protections might be overly constraining AI development. The episode also highlights the broader societal question of how to respect human creativity in the AI era, making it a crucial listen for anyone interested in the intersection of technology, law, and ethics.",
-    "summary_zh": "本期节目深入探讨AI克隆声音的法律争议，伯克利法学学者郝元老师分析了美国和中国相关案件。讨论版权、人格权等法律问题，探讨AI时代如何平衡创作民主化与个人权益保护。内容引发对人类创造力尊重的深刻思考，是技术、法律与伦理交叉领域的重要探讨。",
-    "best_quote_en": "How do we balance creative democratization with the protection of individual creator rights in the AI era?",
-    "best_quote_zh": "AI时代，我们如何理解和尊重「人类创造力」？创作民主化和创作者的个人权益保护，二者之间的平衡应该如何把握？"
-  },
-  {
-    "id": 44,
-    "title": "针尖·多味听觉馆 #31：我是怎么当四个孩子的全职爸爸的",
-    "title_zh": "针尖·多味听觉馆 #31：我是怎么当四个孩子的全职爸爸的",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep31/",
-    "tags": [
-      "learn",
-      "politics",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "政治时事",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2019-02-25",
-    "summary_en": "This podcast episode challenges traditional gender roles in parenting, particularly the notion that men should be the primary breadwinners while women handle childcare. Wu Yujian, a Japanese political science PhD student and father of four, shares his experiences as a stay-at-home dad in Sweden, contrasting it with societal expectations in China. The discussion explores how societal norms shape parenting roles and the psychological pressures men face when deviating from traditional masculine stereotypes. It also examines Nordic welfare policies that support gender equality in parenting and compares them with China's intergenerational child-rearing practices. The episode highlights the unique challenges of modern parenting, including the 'arms race' mentality among middle-class parents and the phenomenon of grandparent-involved childcare in China.",
-    "summary_zh": "这一期播客挑战了传统的性别角色分工，特别是男性作为家庭经济支柱、女性负责育儿的观念。武玉江作为日本政治学博士生和四个孩子的全职爸爸，分享了他在瑞典的育儿经历，与中国的社会期待形成对比。讨论探讨了社会规范如何塑造育儿角色，以及男性偏离传统男性形象时面临的心理压力。节目还分析了北欧福利政策如何支持性别平等育儿，并与中国的隔代育儿现象进行对比，揭示了现代育儿的独特挑战，包括中产阶级的育儿焦虑和竞争心态。",
-    "best_quote_en": "Raising children isn't divided into 'rational fathers' and 'emotional mothers'",
-    "best_quote_zh": "养育孩子没有「理性爸爸」和「感性妈妈」之分"
-  },
-  {
-    "id": 45,
-    "title": "时代的表情与奏鸣曲",
-    "title_zh": "时代的表情与奏鸣曲",
-    "source": "读库小报",
-    "link": "http://weixin.sogou.com/weixin?type=2&query=%E8%AF%BB%E5%BA%93%E5%B0%8F%E6%8A%A5+%E6%97%B6%E4%BB%A3%E7%9A%84%E8%A1%A8%E6%83%85%E4%B8%8E%E5%A5%8F%E9%B8%A3%E6%9B%B2",
-    "tags": [
-      "solve",
-      "society",
-      "writing-content",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "写作内容",
-      "深度分析"
-    ],
-    "date": "2025-07-09",
-    "summary_en": "This reflective piece from 《读库》 explores the magazine's mission to document contemporary life with depth and honesty, bridging humanities and social sciences. The author distinguishes between the two fields - humanities focusing on the individual, social sciences on groups - and emphasizes the importance of preserving human specimens and historical records in our information-saturated age. The content highlights the magazine's evolution from pure non-fiction to including translation of human knowledge into accessible forms. The editor's personal journey and hope to continue this work for thirty years adds a touching dimension, revealing the challenges and rewards of maintaining such a publication in today's market.",
-    "summary_zh": "《读库》这篇文章探讨了杂志记录当下生活的使命，将人文和社科的区别阐释得非常清晰。在信息爆炸的时代，深刻系统的记录显得尤为珍贵。杂志从纪实写作扩展到知识转译，编辑三十年之约的坚持让人动容。这是一份关于人性、历史与出版的深刻思考。",
-    "best_quote_en": "Humanities study one person, social sciences study a group of people.",
-    "best_quote_zh": "人文是研究一个人的，社科是研究一群人的。"
-  },
-  {
     "id": 46,
     "title": "织梦人",
     "title_zh": "织梦人",
@@ -2350,5 +2230,125 @@
     "summary_zh": "这份歌单深入探索了Lambchop的音乐，这支来自纳什维尔的另类乡村乐队以其独特的乡村、灵魂和民谣融合风格闻名。他们的音乐以宁静的旋律和淡淡的忧郁色彩著称，如同在乡间小路上漫步，阳光透过树梢洒在黄土路上。Lambchop自称是'纳什维亚最扭曲的乡村乐队'，尽管他们的风格与传统乡村音乐不同，但仍然保留了用音乐表达生活细微起伏的核心精神。歌单包含他们专辑'No, You C'mon'和'Aw C'mon & No, you C'mon'中的经典作品，展现了他们的独特风格和情感深度。",
     "best_quote_en": "They describe themselves as 'Nashville's most twisted country band.'",
     "best_quote_zh": "他们自称是'纳什维亚最扭曲的乡村乐队'。"
+  },
+  {
+    "id": 141,
+    "title": "#Bonus 裁员风暴下的美国疾控中心：一位华人科研人员亲历的马斯克变法",
+    "title_zh": "裁员风暴下的美国疾控中心：一位华人科研人员亲历的马斯克变法",
+    "source": "声东击西",
+    "link": "http://etw.fm/2145",
+    "tags": [
+      "analyze",
+      "politics",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2025-02-26",
+    "summary_en": "This episode provides a firsthand account of the human impact of Musk's DOGE department's efficiency reforms at the CDC, offering a unique perspective on the ongoing federal workforce restructuring. The story of 'Xiao Yang,' a Chinese-American epidemiologist, reveals the personal and professional challenges faced by researchers caught in political and administrative upheavals. Her experience with the 'Fork in the Road' notifications and probation lists highlights the anxiety and uncertainty that accompanies such sweeping changes. The discussion also touches on the impracticality of immediate return-to-work mandates and the broader implications of these reforms on public health research. This narrative serves as both a case study of organizational change and a cautionary tale about the human cost of policy decisions.",
+    "summary_zh": "本期节目通过一位华裔科研人员的亲身经历，揭示了马斯克DOGE部门效率改革对美国疾控中心带来的冲击。从收到'Fork in the Road'通知到被列入预备名单，这位流行病数学建模博士的经历反映了科研人员在政策变革中的焦虑与挣扎。节目不仅揭示了联邦工作人员回归现场工作的现实困难，更揭示了裁员风暴背后的人性化影响，为我们思考政策变革与人性化管理提供了新的视角。",
+    "best_quote_en": "The email 'Fork in the Road' marked the beginning of a professional rollercoaster that revealed both the brutality and the unpredictability of organizational change.",
+    "best_quote_zh": "那封“Fork in the Road”邮件标志着职业生涯的转折点，揭示了组织变革中既残酷又难以预测的现实。"
+  },
+  {
+    "id": 142,
+    "title": "重返人民公园",
+    "title_zh": "重返人民公园",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=1370321378&radio=526995586",
+    "tags": [
+      "analyze",
+      "music-arts",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "音乐艺术",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2018-07-25",
+    "summary_en": "This podcast episode offers a deep dive into the music of Cowboy Junkies, focusing particularly on their unique approach to reinterpreting other artists' works. The show features a diverse selection of tracks, including their iconic version of 'Sweet Jane' originally by The Velvet Underground, and their own composition 'Renmin Park'. The podcast highlights the band's signature style of blending alternative folk and rock elements, creating a distinctive sound that transforms familiar songs into something uniquely their own. The inclusion of multiple versions of certain tracks, like 'Blue Moon', demonstrates the band's versatility and their ability to breathe new life into classic material. This episode is a must-listen for fans of alternative music and those interested in the art of musical reinterpretation.",
+    "summary_zh": "本期节目聚焦加拿大另类民谣摇滚乐队Cowboy Junkies的作品，展现了他们将他人作品通过改编演绎变成自己风格的独特能力。节目中精选了多首作品，包括他们对The Velvet Underground经典曲目'Sweet Jane'的改编，以及原创歌曲'Renmin Park'。乐队以融合另类民谣与摇滚元素的特色风格，将熟悉的歌曲转化为独具特色的作品。节目中多个歌曲的不同版本展示了乐队的多样性和复兴经典之作的能力，是另类音乐爱好者和关注音乐改编艺术的听众的必听内容。",
+    "best_quote_en": "'Sweet Jane' - Cowboy Junkies' hauntingly beautiful rendition transforms the original into a timeless piece that transcends its origins",
+    "best_quote_zh": "《甜蜜的简》——Cowboy Junkies以其幽灵般的演绎，将这首歌曲转化为超越原版的永恒之作"
+  },
+  {
+    "id": 143,
+    "title": "爵士复活计划",
+    "title_zh": "爵士复活计划",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=1369908520&radio=526995586",
+    "tags": [
+      "inspire",
+      "music-arts",
+      "ai-research",
+      "beginner-friendly"
+    ],
+    "tags_zh": [
+      "启发",
+      "音乐艺术",
+      "AI研究",
+      "新手友好"
+    ],
+    "date": "2018-06-27",
+    "summary_en": "This jazz revival playlist offers a fascinating journey through the evolution of jazz music, blending classic styles with modern influences. The curated selection highlights the work of influential artists like US3, who pioneered the Acid Jazz movement by combining elements of hard bop, funk, soul, and hip-hop. The playlist serves as both an educational tool for those looking to understand jazz's progression and a source of inspiration for music enthusiasts seeking fresh perspectives on timeless sounds. Tracks like 'Straight, No Chaser' and 'Watermelon Man' showcase the genre's enduring appeal, while US3's 'I Go To Work' demonstrates how jazz can be reimagined for contemporary audiences. The mix of remastered classics and lesser-known gems makes this playlist valuable for both casual listeners and serious jazz aficionados.",
+    "summary_zh": "这份爵士复活计划歌单精心编排，展现爵士乐从经典到现代的演变历程。US3等先锋乐队将硬波普、灵魂乐与嘻哈元素融合，创造出全新的酸爵士风格，为传统爵士注入新生命力。歌单包含《Straight, No Chaser》等经典之作，以及《I Go To Work》这类创新改编，既是爵士乐爱好者的学习资源，也是音乐迷们探索新音色的灵感来源。复刻版与冷门佳作并存，让每个听众都能发现属于自己的爵士乐珍宝。",
+    "best_quote_en": "US3 in 1993 published their debut album 'Hand To The Torch', metaphorically representing themselves as the torchbearers passing on the jazz tradition.",
+    "best_quote_zh": "US3在1993年发行的首张专辑《Hand To The Torch》，形象地比喻他们正是将爵士乐传统火炬传承下去的人。"
+  },
+  {
+    "id": 144,
+    "title": "#333 许愿浓人 vs. 许愿淡人: 主打（不）科学的许愿成功",
+    "title_zh": "#333 许愿浓人 vs. 许愿淡人: 主打（不）科学的许愿成功",
+    "source": "声东击西",
+    "link": "http://etw.fm/2141",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-01-09",
+    "summary_en": "This podcast episode explores the fascinating psychology behind making wishes, categorizing people into 'wish-intense' and 'wish-light' individuals. The discussion reveals that wish-making is more than a superficial practice—it's a journey of self-discovery and personal growth aligned with the psychological concept of 'self-fulfilling prophecies.' The show features diverse perspectives from team members with varying attitudes toward wish-making, offering practical advice on cultivating a healthy wish-making mindset. The episode also includes creative elements like an original 'wish song' and team members' New Year wishes, culminating in a promotion for a traditional Chinese 'Jia Ma' (甲马) DIY kit that encourages proactive wish manifestation. The content bridges cultural tradition with modern self-improvement practices, making it both entertaining and insightful.",
+    "summary_zh": "这期播客探讨了许愿背后的心理学原理，将人分为“许愿浓人”和“许愿淡人”。讨论揭示许愿不仅是表面行为，更是自我探索与成长的过程，符合“自我实现的预言”理论。节目汇集了不同态度的团队成员观点，分享养成健康许愿心态的实用建议。包含原创许愿之歌和团队新年愿望环节，最后推广白族非遗甲马DIY礼盒，将传统文化与现代自我提升结合，既有趣味性又富有洞察力。",
+    "best_quote_en": "Wishing is more than just a practice—it's a journey of self-discovery and personal growth aligned with the psychological concept of 'self-fulfilling prophecies.'",
+    "best_quote_zh": "愿还是要许的，这背后是一场发现自己 passion 和热爱的过程，是不断认识自己和让自己成长的过程，也符合心理学上的「自我实现的预言」。"
+  },
+  {
+    "id": 145,
+    "title": "政常说话 #10：滴滴与优步，那一段相爱相杀的中国情史",
+    "title_zh": "政常说话 #10：滴滴与优步，那一段相爱相杀的中国情史",
+    "source": "政见",
+    "link": "http://cnpolitics.github.io/radio/talk/ep10/",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2017-04-29",
+    "summary_en": "This episode of '政常说话' delves into the complex relationship between Didi and Uber in China, offering a fascinating case study of corporate competition, cultural adaptation, and market dynamics. The discussion, led by host Wang Jing and guests Lu Shuang and Tan Hongze, explores how these ride-hailing giants both clashed and learned from each other, ultimately reshaping China's tech landscape. The conversation provides valuable insights into the intersection of global business strategies and local market realities, serving as an excellent example of how international companies navigate emerging markets. The episode also touches on broader themes of technological disruption and its impact on everyday life, making it relevant to entrepreneurs, policymakers, and tech enthusiasts alike.",
+    "summary_zh": "本期《政常说话》深入解析滴滴与优步在中国的恩怨情仇，展现了一场跨国公司在本土化进程中的博弈与融合。王菁主持，卢霜、谭宏泽两位学者共同探讨了这场行业大战背后的文化差异与商业策略，为我们呈现了技术变革如何重塑传统行业的生动案例。这段商业史不仅是互联网经济的缩影，更折射出全球化时代本土化适应的普遍规律。",
+    "best_quote_en": "The most insightful quote from the episode would be: 'This wasn't just a battle between two companies, but a clash and eventual convergence of two different business philosophies adapting to the Chinese market.'",
+    "best_quote_zh": "最具洞察力的句子是：'这不仅是两家公司的商战，更是两种商业哲学在中 国市场的碰撞与最终融合。'"
   }
 ]
