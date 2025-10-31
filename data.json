@@ -1,101 +1,5 @@
 [
   {
-    "id": 51,
-    "title": "#360  一座云南小山，幻术仍在发生：古建里的幻梦与历史残影丨云南另一面",
-    "title_zh": "#360  一座云南小山，幻术仍在发生：古建里的幻梦与历史残影丨云南另一面",
-    "source": "声东击西",
-    "link": "http://etw.fm/2178",
-    "tags": [
-      "update",
-      "society",
-      "ai-research",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题",
-      "AI研究",
-      "案例研究"
-    ],
-    "date": "2025-09-18",
-    "summary_en": "This episode explores the fascinating architectural illusions of an ancient building complex in a small mountain in Yunnan. Hosted by Liu Yan, an architecture historian, the program delves into how centuries-old craftsmen created immersive visual experiences through precise calculations and craftsmanship. The focus is on the city of Tonghai, once a political and religious center of the Dali Kingdom, and its remaining architectural wonders that still captivate visitors today. The discussion covers how these structures tell stories, create illusions, and preserve historical narratives, offering a unique blend of history, architecture, and cultural insight. The episode features experts like Xu Tao and Ke Xuan, providing a multifaceted exploration of these architectural marvels.",
-    "summary_zh": "刘妍老师带我们探索云南通海秀山上的古建筑群，这些建筑通过精密计算和工匠技艺制造出令人沉浸其中的幻觉。从大理国的龙兴之地到如今的休闲小城，这座山上的建筑见证了历史的变迁。玉皇阁、古柏阁等建筑不仅展示了古人超凡的建筑智慧，也让我们得以窥见历史的残影。这期节目不仅是对古建筑的考察，更是对文化传承与创新的思考。",
-    "best_quote_en": "How did anonymous craftsmen a century ago create such immersive architectural illusions with such precision?",
-    "best_quote_zh": "百年前的匿名工匠们如何用精密的计算和手艺制造出至今仍能让人沉浸其中的幻术？"
-  },
-  {
-    "id": 52,
-    "title": "针尖·多味听觉馆 #29：你所不知的迪士尼：童话的暗黑与乐园的虚幻一面",
-    "title_zh": "针尖·多味听觉馆 #29：你所不知的迪士尼：童话的暗黑与乐园的虚幻一面",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep29/",
-    "tags": [
-      "inspire",
-      "society",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2019-01-23",
-    "summary_en": "This episode of 'Needle' podcast explores the lesser-known, darker aspects of Disney's history and its cultural impact. It reveals how early Disney animations contained racial stereotypes, reflecting the societal biases of their time. The discussion also delves into the concept of 'Disneyfication'—how Disney's business model and consumer experience have influenced urban development and sparked academic scrutiny. The hosts compare Disney parks across Hong Kong, Shanghai, and the US, analyzing cultural differences in the visitor experience. Recent Disney animations like 'Frozen' and 'Zootopia' are examined for their evolving social messages. The podcast offers a critical yet engaging perspective on Disney's complex legacy, blending historical analysis with contemporary cultural commentary.",
-    "summary_zh": "本期针尖多味听觉馆揭示了迪士尼鲜为人知的黑暗面：早期动画中的种族歧视，以及",
-    "best_quote_en": "These early Disney animations contained racial stereotypes that reflected the societal biases of their time",
-    "best_quote_zh": "迪士尼的造梦故事也曾有暗黑的一面"
-  },
-  {
-    "id": 53,
-    "title": "#359  戛然而止的歌声与梦想，和我们每个人与这个时代的复杂切片",
-    "title_zh": "#359 戛然而止的歌声与梦想，和我们每个人与这个时代的复杂切片",
-    "source": "声东击西",
-    "link": "http://etw.fm/2177",
-    "tags": [
-      "inspire",
-      "society",
-      "education",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "教育学习",
-      "案例研究"
-    ],
-    "date": "2025-09-11",
-    "summary_en": "This episode explores the delicate balance between nurturing dreams and facing their inevitable disruptions through the lens of the documentary 'Dandelions Before the Wind.' The narrative focuses on intimate details of youth—tears on a train, guitar playing in dorm rooms, and children singing 'Welcome to Beijing'—rather than grand storytelling. The directors consciously avoid stereotypical labels, emphasizing the universality of these stories. The documentary captures the bittersweet transition from childhood to adulthood, symbolized by dandelion seeds scattering in the wind. It prompts reflection on what we seek in coming-of-age stories and the significance of documenting unfulfilled aspirations. The episode also highlights the broader mission of 'Knock Knock World' and invites audience participation in sharing their unique experiences.",
-    "summary_zh": "这期节目通过纪录片《风起前的蒲公英》探讨梦想的孕育与打碎，聚焦青春细节而非宏大叙事。导演刻意避免贴标签，强调这些故事的普世性。蒲公英飘散的意象隐喻我们在哭与笑中长大的复杂性。节目还延伸思考青春片的共性与纪录无法留京孩子的意义，呼应听众分享独特经历。",
-    "best_quote_en": "Wind will scatter the dandelions, but remember, we can all sing loudly no matter how old we are.",
-    "best_quote_zh": "风会让蒲公英飘散，但要记住无论多大，我们都可以放声歌唱。"
-  },
-  {
-    "id": 54,
-    "title": "针尖·多味听觉馆 #30：她山石｜育儿，只有焦虑",
-    "title_zh": "针尖·多味听觉馆 #30：她山石｜育儿，只有焦虑",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep30/",
-    "tags": [
-      "solve",
-      "science",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2019-02-01",
-    "summary_en": "This podcast episode delves into the universal experience of parenting anxiety, challenging the myth of work-life balance for mothers. Through the story of Dr. Xu Jing, who conducted anthropological research on early childhood development while raising her own child, the discussion explores the inherent conflicts mothers face. The conversation extends to cross-cultural examples from New York's Upper East Side to Korean elite families, revealing how parenting anxiety transcends socio-economic boundaries. The episode examines the commodification of marriage, traditional gender roles, and the impact of policy changes like the two-child policy. With expert insights from humanities scholars, it offers a nuanced perspective on motherhood, challenging societal expectations and highlighting the emotional struggles behind the facade of perfect parenting.",
-    "summary_zh": "本期节目深入探讨了育儿焦虑这一普世现象，打破了母亲能够平衡事业与家庭的神话。通过人类学家许晶的亲身经历和田野调查，揭示了各阶层母亲面临的共同挣扎。从纽约上东区到韩国上流社会，育儿焦虑的本质在不同文化中惊人相似。节目还探讨了婚姻商品化、传统性别角色的异化以及二胎政策的影响，用跨学科视角重新审视母职的本质，揭示了社会期待背后的真实情感困境。",
-    "best_quote_en": "There's no balance, there's only conflict.",
-    "best_quote_zh": "没有平衡，只有冲突。"
-  },
-  {
     "id": 55,
     "title": "音乐皆有可能",
     "title_zh": "音乐皆有可能",
@@ -2350,5 +2254,99 @@
     "summary_zh": "声动活泼的年终汇报揭示了2024年内容创新的实验与突破，展现了三档节目高效更新的背后逻辑和商业探索的勇气。创始人与主播的对话不仅是行业观察，更是对内容创作本质的思考。声动胡同计划不仅是众筹模式，更是建立创作者与听众深度连接的尝试。",
     "best_quote_en": "If you've been inspired by our work or believe in what we're doing, we invite you to support our continued content creation!",
     "best_quote_zh": "如果你在节目中有所启发，或是认可我们正在做的事情，我们想邀请你来付费支持我们！"
+  },
+  {
+    "id": 151,
+    "title": "#366  大选一年后，特朗普的经济承诺兑现了吗？",
+    "title_zh": "#366 大选一年后，特朗普的经济承诺兑现了吗？",
+    "source": "声东击西",
+    "link": "http://etw.fm/2185",
+    "tags": [
+      "solve",
+      "politics",
+      "business-model",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "商业模式",
+      "未来预测"
+    ],
+    "date": "2025-10-30",
+    "summary_en": "This episode critically examines Trump's economic promises one year after his election, focusing on key policies like tariffs and the 'Big and Beautiful' bill. It explores whether manufacturing has returned to the US, the impact on different economic sectors, and the shift towards what's termed 'American-style state capitalism'. The discussion with experienced investor Aaron Zhou provides valuable insights into the unintended consequences of these policies and the potential reshaping of the US economic order. The analysis is particularly relevant for understanding contemporary US economic policy and its global implications.",
+    "summary_zh": "本期节目深入分析特朗普竞选胜利一周年后的经济政策兑现情况，聚焦关税政策和“大而美法案”等核心议题。通过与资深投资人周玖洲的对话，探讨了美国制造业回流的真实情况、各经济主体的利益变化，以及美国经济政策向“国家资本主义”转向的深层意义。内容既有政策分析，也有对美国经济秩序重塑的前瞻性思考。",
+    "best_quote_en": "Why does the Wall Street Journal call this 'American-style state capitalism'?",
+    "best_quote_zh": "华尔街日报为什么说这是‘美国特色的国家资本主义’？"
+  },
+  {
+    "id": 152,
+    "title": "椰子先生的发电站",
+    "title_zh": "椰子先生的发电站",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=1369647739&radio=526995586",
+    "tags": [
+      "solve",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2018-06-10",
+    "summary_en": "The content appears to be HTML code from a Chinese music streaming platform, specifically NetEase Cloud Music. It details a DJ radio station called '椰子先生的发电站' (Mr. Coconut's Power Station) that creatively combines Latin cha-cha music with classic German electronic tracks from Kraftwerk. The station offers a unique listening experience by juxtaposing Señor Coconut's humorous Latin arrangements with Kraftwerk's cold, mechanical electronic sounds. The playlist includes iconic tracks like 'Showroom Dummies', 'Autobahn', and 'The Robots', demonstrating an innovative approach to music curation. This mix appeals to listeners interested in experimental music fusions and retro electronic sounds. The interface elements suggest user engagement features like subscription, likes, and comments, indicating a community-driven platform.",
+    "summary_zh": "网易云音乐中的电台节目，创意混合了拉丁查查舞曲和德国电子乐先驱乐队Kraftwerk的经典作品，通过对比产生独特的听觉效果。节目由椰子先生（Señor Coconut）演绎，用风趣幽默的南美传统舞曲重新诠释了Kraftwerk冰冷机械的经典之作。",
+    "best_quote_en": "Señor Coconut uses humorous, quirky, and yet deeply human South American traditional dance music CHA CHA CH to perform Germany's 70s electronic music pioneers Kraftwerk's cold, mechanical and futuristic classic works, the huge contrast produces a unique listening effect.",
+    "best_quote_zh": "椰子先生用风趣幽默低俗而又充满人情味的南美独特的传统舞曲CHA CHA CH来演绎德国70年代电子音乐先驱Kraftwerk冰冷机械充满未来感的经典作品，巨大的反差产生了奇特的聆听效果。"
+  },
+  {
+    "id": 153,
+    "title": "#「局外人」总统吉米·卡特：「失意」政治家何以启示当下的世界 | 重播",
+    "title_zh": "「局外人」总统吉米·卡特：「失意」政治家何以启示当下的世界 | 重播",
+    "source": "声东击西",
+    "link": "http://etw.fm/2138",
+    "tags": [
+      "update",
+      "science",
+      "education",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "教育学习",
+      "数据驱动"
+    ],
+    "date": "2024-12-30",
+    "summary_en": "This episode revisits the political career of Jimmy Carter, the 39th U.S. president who died at 100. Known for facilitating U.S.-China relations but often overlooked in American public memory, Carter's presidency offers striking parallels to contemporary challenges. The discussion explores his unique path from peanut farmer to president, his idealistic leadership during turbulent times, and the pressures he faced in international diplomacy, particularly with China. The episode also examines why his single-term presidency ended in failure and what lessons his political outsider status holds for today's world. Through expert insights from Carter Center's Liu Yawen and Xutao, it's a thoughtful reflection on leadership, idealism, and the complexities of global politics.",
+    "summary_zh": "吉米·卡特这位与中国有着深厚渊源的美国前总统，其政治生涯充满了与当下世界的奇妙共鸣。从花生农民到总统，再到失意的局外人，他的选择和挣扎值得我们深思。本期节目通过专家访谈，探讨了卡特如何在内忧外患中开辟外交新路径，又为何在连任中失败。他的理想主义与现实政治的碰撞，或许能为今天的领导者提供宝贵启示。",
+    "best_quote_en": "The discussion about how Carter's idealism clashed with political realities offers profound insights into the challenges of leadership in turbulent times.",
+    "best_quote_zh": "卡特如何在内忧外患中开辟外交新路径，又为何在连任中失败"
+  },
+  {
+    "id": 154,
+    "title": "摩登天空二十周年爵士特辑《摩登时代》（上）",
+    "title_zh": "摩登天空二十周年爵士特辑《摩登时代》（上）",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=1369372159&radio=526995586",
+    "tags": [
+      "solve",
+      "cybersecurity",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "网络安全",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2018-05-23",
+    "summary_en": "This content represents a special jazz edition celebrating Modern Sky's 20th anniversary, titled 'Modern Times (Part 1)'. It showcases a curated selection of jazz tracks that reflect the evolution of the genre over two decades. The playlist includes both classic jazz standards and contemporary interpretations, highlighting Modern Sky's commitment to preserving and innovating jazz music. This special edition offers listeners a unique opportunity to explore the rich history and diverse styles within jazz, making it an invaluable resource for both jazz enthusiasts and newcomers alike. The content underscores the cultural significance of jazz and its enduring appeal across generations.",
+    "summary_zh": "摩登天空二十周年爵士特辑《摩登时代》（上）呈现了精心挑选的爵士乐曲，展现爵士乐二十年的发展历程。播放列表包含经典爵士标准曲目和现代诠释，体现摩登天空对爵士乐的保护与创新。这份特辑为听众提供了探索爵士乐丰富历史和多样风格的独特机会，是爵士乐爱好者和新人的宝贵资源。内容强调了爵士乐的文化意义及其跨越世代的持久魅力。",
+    "best_quote_en": "Explore the rich history and diverse styles within jazz",
+    "best_quote_zh": "探索爵士乐丰富的历史和多样的风格"
   }
 ]
