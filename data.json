@@ -1,123 +1,5 @@
 [
   {
-    "id": 55,
-    "title": "音乐皆有可能",
-    "title_zh": "音乐皆有可能",
-    "source": "有待唱片店",
-    "link": "https://music.163.com/m/program?id=2058493955&radio=526995586",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "science"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "科学研究"
-    ],
-    "date": "2018-12-19",
-    "summary_en": "This podcast episode showcases Herbie Hancock's 'Possibilities' album, a remarkable collaboration with legendary artists like John Mayer, Sting, and Christina Aguilera. The host curates a thoughtfully selected playlist that demonstrates Hancock's genre-blending genius and the power of musical collaboration. The episode goes beyond mere music curation, offering listeners an opportunity to explore the creative possibilities that emerge when diverse artistic voices come together. The careful selection of tracks reveals Hancock's ability to create cohesive works while maintaining each artist's unique identity, making this a fascinating study in musical synergy. The host's insightful commentary elevates the listening experience, turning it into a journey of musical discovery and appreciation.",
-    "summary_zh": "本期节目精选赫比·汉科克《Possibilities》专辑，展现其与众多音乐巨匠的跨界合作。主播通过精心编排的曲目，让听众感受到音乐创作的无限可能。这张专辑不仅是流行、爵士、灵魂等风格的融合，更是不同音乐人灵感碰撞的结果。汉科克的音乐天赋在于能保持每位合作艺术家的独特风格，同时创造出统一的作品。节目让我们思考音乐创作的本质，以及跨界合作如何激发创新。",
-    "best_quote_en": "The album represents a series of inspirational encounters between Herbie Hancock and world-renowned musicians.",
-    "best_quote_zh": "这张专辑是赫比·汉科克与世界知名音乐家之间的一系列灵感邂逅。"
-  },
-  {
-    "id": 56,
-    "title": "#358  跨越半个世纪的新旧「设计实验」，特朗普为什么要和尼克松比高下？",
-    "title_zh": "#358 跨越半个世纪的新旧「设计实验」，特朗普为什么要和尼克松比高下？",
-    "source": "声东击西",
-    "link": "http://etw.fm/2176",
-    "tags": [
-      "update",
-      "science",
-      "politics",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "政治时事",
-      "案例研究"
-    ],
-    "date": "2025-09-04",
-    "summary_en": "This episode explores the intriguing connection between Trump's new 'America by Design' initiative and Nixon's 1970s federal design improvement project. The podcast delves into how Trump aims to modernize government digital systems through better design, comparing it to Nixon's efforts that produced enduring symbols like NASA's iconic 'Meatball' logo. The discussion questions whether this is just political posturing or if design thinking can truly transform federal digital infrastructure. The episode also examines the historical context of government design initiatives and their lasting impacts.",
-    "summary_zh": "本期节目探讨了特朗普新推出的“America by Design”倡议与尼克松时代的联邦设计改进项目之间的有趣联系。通过回顾NASA标志的演变历史，我们思考特朗普的数字系统现代化计划是否会像尼克松的设计改革那样留下长久影响。节目质疑这一举措是政治表演还是真能通过设计思维改变联邦数字系统的运作方式。",
-    "best_quote_en": "Will Trump's NDS be the next DOGE, or can design thinking truly transform federal digital systems?",
-    "best_quote_zh": "特朗普这次的NDS会是下一个DOGE吗？还是设计思维的确能为联邦数字系统带来实质性变化？"
-  },
-  {
-    "id": 57,
-    "title": "针尖·多味听觉馆 #28：她山石｜当妈的吃了那么多苦，这是理所应当的吗？",
-    "title_zh": "针尖·多味听觉馆 #28：她山石｜当妈的吃了那么多苦，这是理所应当的吗？",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep28/",
-    "tags": [
-      "update",
-      "ai-research",
-      "leadership",
-      "controversial"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "领导管理",
-      "争议观点"
-    ],
-    "date": "2019-01-07",
-    "summary_en": "This podcast episode delves into the often overlooked struggles of motherhood, challenging the cultural narrative that presents motherhood as purely joyful and without complaint. Rachel Cusk's book 'Becoming a Mother' serves as the starting point, exposing the physical, emotional, and social transformations women undergo. The discussion questions whether motherhood should be considered a natural duty, highlighting the invisible labor involved. The Chinese reception of these ideas has been particularly contentious, as it confronts deeply ingrained cultural expectations. The episode features journalist Fu Shiyu who explores these themes with nuance, making it a valuable resource for those interested in gender studies, sociology, and modern family dynamics.",
-    "summary_zh": "这期节目揭示了母职中被忽视的苦难，挑战了将母职浪漫化的文化叙事。蕾切尔·卡斯克的《成为母亲》记录了女性在生理、心理和社会角色上的巨变。讨论质疑母职是否天职，揭示其隐形劳动。这些观点在中国引发争议，触及深层文化观念。傅适野的深度分析让我们反思现代女性角色的转变，是研究性别与家庭的宝贵材料。",
-    "best_quote_en": "At the time of my second pregnancy, I felt like a fugitive being recaptured, having to glumly accept reality.",
-    "best_quote_zh": "此时我重回围城，就像某个逃犯被捕，只能闷闷不乐地接受现实。"
-  },
-  {
-    "id": 58,
-    "title": "#363  终于迎来停火，但加沙能获得真正和平吗？",
-    "title_zh": "#363 终于迎来停火，但加沙能获得真正和平吗？",
-    "source": "声东击西",
-    "link": "http://etw.fm/2182",
-    "tags": [
-      "inspire",
-      "politics",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "政治时事",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2025-10-10",
-    "summary_en": "This episode of ShengFM's \"ShengDongJiXi\" examines the recent ceasefire agreement between Israel and Hamas, brokered by Donald Trump. The analysis delves into the factors that led to this breakthrough after two years of stalemate, exploring the motivations of all parties involved. Beyond the immediate prisoner exchange, the discussion probes deeper questions about the future of Gaza: the return of refugees, the establishment of clear borders, and the prospect of true statehood for Palestinians. The episode features insights from experts like Zhu Zhaoyi from Peking University's Middle East Research Institute, offering nuanced perspectives on the complex geopolitical dynamics at play. It serves as both an update on current events and a thought-provoking exploration of what lasting peace might look like in the region.",
-    "summary_zh": "本期节目深入分析了特朗普斡旋下以色列与哈马斯达成的停火协议，探讨了两年僵局被打破的深层原因及各方利益考量。超越人质交换的表面现象，节目聚焦加沙未来面临的根本问题：难民回归、边界划分、国家主权与重建家园的可能性。朱兆一等专家的分析为听众呈现了这一地缘政治难题的多维视角，既是时事更新，更是对和平本质的深刻思考。",
-    "best_quote_en": "Stopfire isn't the end, but the beginning of solving a series of unresolved issues",
-    "best_quote_zh": "停火并不是终点，而是一系列待解决问题的开始"
-  },
-  {
-    "id": 59,
-    "title": "针尖·多味听觉馆 #27：她山石｜「我是女生，也曾想要去吸引女生」",
-    "title_zh": "针尖·多味听觉馆 #27：她山石｜「我是女生，也曾想要去吸引女生」",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep27/",
-    "tags": [
-      "solve",
-      "society",
-      "psychology",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "心理学",
-      "争议观点"
-    ],
-    "date": "2018-12-10",
-    "summary_en": "This podcast episode explores nuanced perspectives on sexual attraction through cross-cultural dialogue between a Franco-Chinese host and a French social science PhD student. The conversation challenges gender stereotypes about sexual attraction, examining them through personal experiences and sociological lenses. Particularly insightful is the discussion on whether early romantic experiences represent early forms of sexual attraction, and how French educational systems view the relationship between love and academics. The episode stands out for its fearless exploration of topics often considered taboo, offering both personal narratives and broader social commentary.",
-    "summary_zh": "本期节目通过中法混血主持人与法国社会学博士的对话，剖析性吸引的文化差异与性别刻板印象。两人以个人经历和学术视角，探讨早恋与性吸引的关系，以及法国教育体系对恋爱与学业的看法。节目大胆挑战性话题，兼具个人叙事与社会批判，展现了跨文化对话的深度。",
-    "best_quote_en": "\"Sexual attraction\" - what does that even mean?",
-    "best_quote_zh": "\"性吸引\"是什么意思？"
-  },
-  {
     "id": 60,
     "title": "#357  AI 杀死和有待重塑的那部分互联网",
     "title_zh": "#357 AI 杀死和有待重塑的那部分互联网",
@@ -2348,5 +2230,121 @@
     "summary_zh": "摩登天空二十周年爵士特辑《摩登时代》（上）呈现了精心挑选的爵士乐曲，展现爵士乐二十年的发展历程。播放列表包含经典爵士标准曲目和现代诠释，体现摩登天空对爵士乐的保护与创新。这份特辑为听众提供了探索爵士乐丰富历史和多样风格的独特机会，是爵士乐爱好者和新人的宝贵资源。内容强调了爵士乐的文化意义及其跨越世代的持久魅力。",
     "best_quote_en": "Explore the rich history and diverse styles within jazz",
     "best_quote_zh": "探索爵士乐丰富的历史和多样的风格"
+  },
+  {
+    "id": 155,
+    "title": "#329 特朗普 2.0 时代，一场美国精英年轻人理性政治讨论的切片",
+    "title_zh": "#329 特朗普 2.0 时代，一场美国精英年轻人理性政治讨论的切片",
+    "source": "声东击西",
+    "link": "http://etw.fm/2136",
+    "tags": [
+      "inspire",
+      "science",
+      "politics",
+      "controversial"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "政治时事",
+      "争议观点"
+    ],
+    "date": "2024-12-19",
+    "summary_en": "This episode of the podcast offers a nuanced look at how American university students across different political spectrums are reacting to the 'Trump 2.0' era and the challenges of having rational political dialogues. Hosted by Kimi.ai, the discussion features Zhong Shu, a political philosophy PhD candidate teaching at a Boston university, who provides valuable insights from her observations. The conversation explores how campus reactions differ from Trump's first election win, the nature of political dialogues between different factions, and why constitutional amendments might not be the solution to America's societal problems. The episode encourages open-minded participation in shaping an uncertain future, reflecting on the broader implications of these political shifts.",
+    "summary_zh": "这一期播客深入探讨了特朗普2.0时代不同政治光谱的美国大学生对政治的看法和参与方式，以及理性政治对话的困难。主持人邀请到在波士顿高校任教的政治哲学博士候选人仲树老师，分享她对当下美国年轻人政治参与的观察与思考。节目分析了校园反应与特朗普首次当选时的差异，不同流派间政治对话的展开方式，以及为何修宪可能并非解决社会问题的好办法。在变数重重的未来中，节目倡导以开放心态参与讨论，并反思这些政治变动的深层意义。",
+    "best_quote_en": "We're indeed standing at the threshold of a slowly unfolding new world, not to be doubted. Let's engage with open minds in our discussion and participate in this future filled with variables.",
+    "best_quote_zh": "当下的我们的确正站在一个缓缓展开的新世界的门口，不妨带着开放的心态参与我们的讨论，也参与到写满变数的未来中去吧。"
+  },
+  {
+    "id": 156,
+    "title": "80年代摇滚时尚的变迁",
+    "title_zh": "80年代摇滚时尚的变迁",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=1369211145&radio=526995586",
+    "tags": [
+      "solve",
+      "cybersecurity",
+      "music-arts",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "网络安全",
+      "音乐艺术",
+      "数据驱动"
+    ],
+    "date": "2018-05-09",
+    "summary_en": "This program explores the evolution of rock fashion in the 1980s, a decade marked by vibrant musical diversity. It highlights how new romanticism, electronic synthesizers, post-punk new wave, and new metal movements shaped the era's aesthetic. The program features iconic tracks from artists like Visage, Culture Club, David Bowie, and Iron Maiden, illustrating how music and fashion intertwined. The detailed tracklist and insightful commentary make this an engaging listen for music historians and fashion enthusiasts alike.",
+    "summary_zh": "该节目探讨了80年代摇滚时尚的演变，展现了新浪潮主义、电子合成器、后朋克新浪潮和新金属等音乐潮流如何塑造这一时代的风格。节目精选了Visage、Culture Club、David Bowie等艺术家的经典作品，展现了音乐与时尚的交融。详细的曲目和深刻的评论使其成为音乐爱好者和时尚爱好者的佳作。",
+    "best_quote_en": "Five-colorful eighties, new romanticism, electronic synthesizers dominated popular music, post-punk new wave and new metal emerged one after another.",
+    "best_quote_zh": "五光十色的八十年代，新浪漫主义、电子合成器主宰流行音乐，后朋克新浪潮还有新金属纷纷涌现。"
+  },
+  {
+    "id": 157,
+    "title": "#327 硅谷与白宫：科技巨头的躬身入局和置身事内",
+    "title_zh": "#327 硅谷与白宫：科技巨头的躬身入局和置身事内",
+    "source": "声东击西",
+    "link": "http://etw.fm/2134",
+    "tags": [
+      "update",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2024-12-05",
+    "summary_en": "This episode delves into the unprecedented political engagement of Silicon Valley tech titans, particularly Elon Musk's surprising alliance with Donald Trump. The discussion explores the historical context of tech industry political involvement, the shifting allegiances from Democratic to Republican support, and the potential implications for governance if tech leaders continue to wield significant political influence. The analysis touches on Musk's role in the Ukraine conflict, the establishment of DOGE (Department of Government Efficiency), and how tech executives' political donations and public endorsements could reshape American policy. The episode also considers whether this trend represents a broader shift in tech industry priorities or is merely opportunistic alignment with political power.",
+    "summary_zh": "本期探讨硅谷科技巨头如何深度介入美国政治，尤其是马斯克与特朗普的意外联盟。分析从科技行业参政的历史背景切入，探讨其从民主党支持者向共和党转变的原因，以及科技大佬入局可能对国家治理带来的变革。节目还涉及马斯克在俄乌战争中的角色、DOGE部门的设立，以及科技企业家的政治捐款和公开背书如何影响美国政策走向。这一现象是否代表科技行业价值观的转向，抑或只是权力寻租？",
+    "best_quote_en": "The most intriguing aspect is how tech billionaires, once Democratic strongholds, are now openly aligning with Republican policies that seemingly contradict their industry's long-term interests.",
+    "best_quote_zh": "最引人深思的是，曾经民主党的坚定支持者如何转而公开支持与科技行业长期利益似乎背道而驰的共和党政策。"
+  },
+  {
+    "id": 158,
+    "title": "政记干货大排档 #38：当孩子面对校园霸凌的时候……",
+    "title_zh": "政记干货大排档 #38：当孩子面对校园霸凌的时候……",
+    "source": "政见",
+    "link": "http://cnpolitics.github.io/radio/pub/ep38/",
+    "tags": [
+      "solve",
+      "society",
+      "education",
+      "controversial"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "教育学习",
+      "争议观点"
+    ],
+    "date": "2017-04-18",
+    "summary_en": "This article delves into the complex issue of school bullying, highlighting its often-hidden nature and significant negative impact on children's development. It explores the definition of bullying, various forms it can take, and its psychological effects on victims. The piece also examines the prevalence of bullying in Chinese schools and draws comparative lessons from international experiences in bullying prevention. The author's thoughtful analysis provides valuable insights for parents, educators, and policymakers seeking to understand and address this critical issue.",
+    "summary_zh": "校园霸凌虽难被察觉，却对孩子成长影响深远。本文探讨霸凌的定义、识别方法及其心理影响，并对比中国与其他国家的霸凌治理经验。对教育工作者和家长而言，这是一次关于如何保护孩子的深刻思考。",
+    "best_quote_en": "School bullying is often hidden but can have profound negative effects on children's development.",
+    "best_quote_zh": "校园霸凌虽难被察觉，却对孩子成长影响深远。"
+  },
+  {
+    "id": 159,
+    "title": "#326 从美国的高监禁率、犯罪率，看选民情绪与大选背后的迷思",
+    "title_zh": "#326 从美国的高监禁率、犯罪率，看选民情绪与大选背后的迷思",
+    "source": "声东击西",
+    "link": "http://etw.fm/2133",
+    "tags": [
+      "learn",
+      "politics",
+      "case-study"
+    ],
+    "tags_zh": [
+      "学习",
+      "政治时事",
+      "案例研究"
+    ],
+    "date": "2024-11-28",
+    "summary_en": "This episode of 'Shengdong' delves into the complex interplay between America's exceptionally high incarceration rates, criminal justice policies, and political dynamics, particularly focusing on Kamala Harris's unpopularity in California. The discussion explores why California, despite its liberal reputation, has some of the highest incarceration rates in the country, and how historical policies like 'three strikes' laws and the 'zero bail' initiative have shaped this reality. The episode also draws parallels between Trump's 'law and order' rhetoric and historical Republican strategies, while examining why Black communities often support tough-on-crime policies. With expert insights from legal scholar Liao Jiaqi and Shengdong co-founder Xu Tao, the analysis provides a nuanced perspective on the tensions between idealism and political pragmatism in the American criminal justice system.",
+    "summary_zh": "本期节目深入探讨了美国监禁率居高不下与选民情绪的复杂关系，尤其聚焦哈里斯在加州的民意危机。通过分析加州作为自由派大州却拥有最拥挤监狱的悖论，节目揭示了历史政策如“三振出局”和“零元保释”对当前司法体系的深远影响。特朗普的“法治与秩序”口号与历史共和党策略的相似之处，以及黑人社区对严刑峻法的支持现象，都引发了对政治理想与现实妥协的深刻反思。法学专家劳佳琦与声动活泼创始人徐涛的对谈，为理解美国司法政策的未来走向提供了宝贵视角。",
+    "best_quote_en": "Why does California, a deeply blue state, have some of the highest incarceration rates in the country?",
+    "best_quote_zh": "深蓝的加州为何成为美国监禁率最高的州之一？"
   }
 ]
