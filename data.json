@@ -1,77 +1,5 @@
 [
   {
-    "id": 60,
-    "title": "#357  AI 杀死和有待重塑的那部分互联网",
-    "title_zh": "#357 AI 杀死和有待重塑的那部分互联网",
-    "source": "声东击西",
-    "link": "http://etw.fm/2175",
-    "tags": [
-      "update",
-      "ai-research",
-      "marketing",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "市场营销",
-      "未来预测"
-    ],
-    "date": "2025-08-28",
-    "summary_en": "This episode explores the disruptive impact of AI on traditional internet models, particularly how AI-generated summaries are transforming search behavior and content consumption patterns. The discussion delves into the erosion of the 'ads+free content' business model and its implications for content creators. With insights from media experts, the podcast examines whether new, healthier business models can emerge in this AI-dominated landscape. It also highlights the potential 'content desert' scenario where AI might dominate content creation, leaving human creators struggling. The analysis is both critical and forward-looking, offering valuable perspectives on the future of digital content and commerce.",
-    "summary_zh": "本期节目探讨AI如何颠覆传统互联网模式，特别是AI摘要如何改变搜索行为和内容消费方式。讨论了广告+免费内容商业模式的崩塌及其对内容创作者的影响。通过专家视角，分析在AI主导的环境下是否能创造更健康的商业模式。同时揭示了AI可能导致的内容荒漠化问题，为我们思考数字内容未来提供了深刻反思。",
-    "best_quote_en": "AI is transforming not just how we consume content, but the very foundations of the internet's economic models.",
-    "best_quote_zh": "AI不仅在改变我们消费内容的方式，更在重塑互联网的经济基础。"
-  },
-  {
-    "id": 61,
-    "title": "针尖·多味听觉馆 #26：在宾大博物馆地下室，我与头盖骨「四目相对」",
-    "title_zh": "针尖·多味听觉馆 #26：在宾大博物馆地下室，我与头盖骨「四目相对」",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep26/",
-    "tags": [
-      "analyze",
-      "education",
-      "society",
-      "case-study"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "社会议题",
-      "案例研究"
-    ],
-    "date": "2018-12-01",
-    "summary_en": "This podcast episode offers a fascinating exploration of the University of Pennsylvania's Museum of Archaeology and Anthropology, guided by a PhD student specializing in archaeology. The discussion goes beyond mere museum visits, delving into the complex histories behind key exhibits like the Zhaoling Six Steeds and the legendary Empress Dowager Cixi's crystal ball. What makes this content particularly valuable is its examination of the museum's colonial history and racial narratives, which are often overlooked in typical tourist experiences. The episode also addresses contemporary challenges facing museums today, making it both historically enriching and relevant to current cultural discourse. The personal narrative approach, combined with expert insights, creates an engaging learning experience that transcends traditional museum documentation.",
-    "summary_zh": "这期播客通过考古学博士生的视角深度解析宾夕法尼亚大学人类学博物馆，超越了常规的参观体验，揭示昭陵六骏、慈禧水晶球等文物背后的复杂历史。尤其对博物馆的殖民史和种族叙事的探讨，让内容既有历史厚度又具现实意义。结合个人讲述与专业视角，将枯燥的博物馆介绍转化为生动的学习体验，堪称文化传播的创新尝试。",
-    "best_quote_en": "The episode reveals how these artifacts carry not just historical value but also tell stories of colonialism and racial history that are often overlooked in mainstream narratives.",
-    "best_quote_zh": "这些文物不仅承载历史价值，更隐藏着主流叙事中常被忽略的殖民史与种族史。"
-  },
-  {
-    "id": 62,
-    "title": "找到Funk你的人生才算完整",
-    "title_zh": "找到Funk你的人生才算完整",
-    "source": "有待唱片店",
-    "link": "https://music.163.com/m/program?id=2057941933&radio=526995586",
-    "tags": [
-      "guide",
-      "science",
-      "music-arts",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "科学研究",
-      "音乐艺术",
-      "数据驱动"
-    ],
-    "date": "2018-11-21",
-    "summary_en": "This podcast episode takes listeners on a deep dive into the world of Funk music, curating a playlist that spans iconic tracks from legends like Led Zeppelin, Prince, James Brown, and Michael Jackson. The host, '有待', serves as a guide through the genre's evolution and cultural impact, highlighting how Funk's infectious rhythms and grooves have influenced generations of musicians. The selection includes timeless classics such as 'Kiss' by Prince and 'I Feel Good' by James Brown, showcasing the genre's ability to transcend time and maintain its relevance. The episode is a celebration of Funk's legacy, offering both nostalgic and introductory value for listeners.",
-    "summary_zh": "这期播客带领听众深入Funk音乐世界，精选了Led Zeppelin、Prince、James Brown等巨星的经典曲目。主播“有待”通过节目展现了Funk音乐的发展历程和文化影响力，展示了Funk感染力十足的节奏如何影响了几代音乐人。节目中收录的经典作品如Prince的《Kiss》和James Brown的《I Feel Good》展现了Funk音乐跨越时代的魅力。这期节目既是对Funk传统的致敬，也是对音乐爱好者的发现之旅。",
-    "best_quote_en": "\"Funky King\" brings you into the world of Funk!",
-    "best_quote_zh": "“Funky King”带你进入Funk的世界!"
-  },
-  {
     "id": 63,
     "title": "#356  看似遥远的债务危机和赤字，对普通人意味着什么",
     "title_zh": "看似遥远的债务危机和赤字，对普通人意味着什么",
@@ -2346,5 +2274,77 @@
     "summary_zh": "本期节目深入探讨了美国监禁率居高不下与选民情绪的复杂关系，尤其聚焦哈里斯在加州的民意危机。通过分析加州作为自由派大州却拥有最拥挤监狱的悖论，节目揭示了历史政策如“三振出局”和“零元保释”对当前司法体系的深远影响。特朗普的“法治与秩序”口号与历史共和党策略的相似之处，以及黑人社区对严刑峻法的支持现象，都引发了对政治理想与现实妥协的深刻反思。法学专家劳佳琦与声动活泼创始人徐涛的对谈，为理解美国司法政策的未来走向提供了宝贵视角。",
     "best_quote_en": "Why does California, a deeply blue state, have some of the highest incarceration rates in the country?",
     "best_quote_zh": "深蓝的加州为何成为美国监禁率最高的州之一？"
+  },
+  {
+    "id": 160,
+    "title": "#328 人类在追求不老神话的路上发现了什么？",
+    "title_zh": "人类在追求不老神话的路上发现了什么？",
+    "source": "声东击西",
+    "link": "http://etw.fm/2135",
+    "tags": [
+      "analyze",
+      "science",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2024-12-11",
+    "summary_en": "This episode of 'Sheng Dong Ji Xi' explores the fascinating intersection of aging science and societal perceptions. The discussion moves from macro-level issues like aging populations and Silicon Valley's quest for immortality to micro-level cellular biology. Experts delve into the cellular mechanisms of aging, the current state of anti-aging pharmaceuticals, and practical lifestyle approaches to longevity. The program thoughtfully bridges scientific research with everyday applications, offering listeners both cutting-edge knowledge and actionable insights. The inclusion of a skincare product sponsorship adds an interesting commercial dimension to the scientific content.",
+    "summary_zh": "这期「声东击西」从宏观视角探讨老龄化社会与硅谷长生不老的追求，再聚焦到微观的细胞衰老机制。专家解析当前抗衰药物的发展，并结合饮食、心态、运动等生活方式，探讨个人长寿方案。节目将前沿科学与实际生活智慧结合，既有深度知识，也有实用建议。赞助商的美容产品广告为科学内容增添了商业视角。",
+    "best_quote_en": "We're entering an era where the meaning of aging is fundamentally different from before",
+    "best_quote_zh": "我们正在进入一个「衰老」的意义和过去全然不同的时代"
+  },
+  {
+    "id": 161,
+    "title": "从迷幻到朋克的时尚兴衰史",
+    "title_zh": "从迷幻到朋克的时尚兴衰史",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=1369179217&radio=526995586",
+    "tags": [
+      "solve",
+      "music-arts",
+      "cybersecurity",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "音乐艺术",
+      "网络安全",
+      "数据驱动"
+    ],
+    "date": "2018-05-08",
+    "summary_en": "This analysis explores the fascinating evolution of fashion from psychedelic to punk movements, tracing their cultural significance and impact on music and youth culture. The content provides a historical perspective on how these styles emerged as expressions of rebellion and individuality, particularly in the 1960s and 1970s. It highlights the Mod and Rocker subcultures in London, the influence of icons like The Who and The Beatles, and the transition to punk with bands like The Clash. The discussion offers valuable insights into how fashion and music intertwine to shape societal movements, making it particularly relevant for those interested in cultural studies, music history, or the psychology of youth subcultures. The detailed track listing further enriches the analysis by grounding the discussion in specific musical examples.",
+    "summary_zh": "本文深入分析了从迷幻摇滚到朋克运动的时尚演变，揭示了这两种文化现象对音乐和青年亚文化的深远影响。内容从60年代伦敦街头的时尚革命开始，追溯了Mod文化和Rocker文化的兴起，以及它们如何通过服装和音乐表达反叛精神。文章还探讨了朋克运动的崛起，强调了时尚与音乐如何共同塑造社会运动。这对于研究文化历史、音乐发展或青年亚文化心理学的读者尤为有价值。详细的歌曲列表为分析提供了具体的音乐案例支持。",
+    "best_quote_en": "Different styles of dressing represented different fashion trends, which in turn represented different types of music. At that time in London's streets, there were two distinct styles: Mod and Rocker.",
+    "best_quote_zh": "不同的穿着打扮，代表着不同的时尚，不同的时尚代表着不同的音乐类型。当时在伦敦街头，有着两派不同的风格：Mod和Rocker。"
+  },
+  {
+    "id": 162,
+    "title": "永远的王子",
+    "title_zh": "永远的王子",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=1368925106&radio=526995586",
+    "tags": [
+      "solve",
+      "music-arts",
+      "cybersecurity",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "音乐艺术",
+      "网络安全",
+      "数据驱动"
+    ],
+    "date": "2018-04-20",
+    "summary_en": "This content commemorates the late musical icon Prince, focusing on his lasting impact two years after his passing. It highlights his influence on global music fans and the annual tribute of playing his music, particularly 'Purple Rain', on the anniversary of his death. The analysis includes details about Prince's untimely death at age 57 and the enduring legacy he left behind. The discussion extends to the emotional resonance of his music, with references to specific tracks and albums, and the cultural significance of his work. The content also touches on the mechanics of music streaming and user interaction, such as play counts and subscription features, within the context of honoring Prince's memory.",
+    "summary_zh": "内容纪念音乐传奇人物Prince，聚焦他在离世两年后的持久影响。强调他对全球乐迷的深远影响及每年播放其音乐的致敬仪式。分析包括Prince英年早逝的细节和留下的音乐遗产。讨论了他的音乐的情感共鸣，参考了特定曲目和专辑，以及其作品的文化意义。内容还涉及音乐流媒体机制和用户互动，如播放量和订阅功能，在纪念Prince的背景下。",
+    "best_quote_en": "Two years ago today, on April 21, 2016, it was a heavy day for music fans around the world. The pop legend Prince suddenly passed away at his home in Minneapolis at the age of 57.",
+    "best_quote_zh": "两年前的今天，2016年，4月21日。对于全世界的乐迷而言，是沉重的一天。流行乐坛传奇Prince（王子）在明尼阿波利斯的家中突然离世，终年57岁。"
   }
 ]
