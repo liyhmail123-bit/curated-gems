@@ -1,121 +1,5 @@
 [
   {
-    "id": 63,
-    "title": "#356  看似遥远的债务危机和赤字，对普通人意味着什么",
-    "title_zh": "看似遥远的债务危机和赤字，对普通人意味着什么",
-    "source": "声东击西",
-    "link": "http://etw.fm/2174",
-    "tags": [
-      "update",
-      "economics",
-      "personal-finance",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "经济金融",
-      "个人理财",
-      "未来预测"
-    ],
-    "date": "2025-08-21",
-    "summary_en": "This podcast episode delves into the intricate web of national debt and its far-reaching implications, both politically and economically. By examining the US debt crisis, which has surpassed $37 trillion, the discussion extends to global parallels and historical precedents. The analysis draws from Ray Dalio's 'Why Nations Fail' to explore the roots and consequences of sovereign debt, questioning whether unchecked debt growth is sustainable. The conversation shifts to practical advice for individuals navigating economic uncertainty, emphasizing long-term financial planning through diversified strategies. The episode's unique value lies in its ability to connect macroeconomic trends with personal financial strategies, offering both analytical depth and actionable insights.",
-    "summary_zh": "这期节目深入剖析国家债务危机及其对个人的影响，从美国37万亿国债切入，结合全球债务案例，探讨债务扩张的可持续性。通过达里奥的理论分析系统性债务问题，最终给出个人长期财务规划建议，将宏观经济趋势与个人金融策略巧妙结合，兼具深度分析与实用价值。",
-    "best_quote_en": "In an era of high uncertainty, we can prepare ourselves through long-term financial planning that balances immediate needs with future security.",
-    "best_quote_zh": "在高度不确定的年代，我们可以通过长期的财务规划为自己做准备。"
-  },
-  {
-    "id": 64,
-    "title": "针尖·多味听觉馆 #25：中国 PLUS｜那一天，我成为了华裔",
-    "title_zh": "针尖·多味听觉馆 #25：中国 PLUS｜那一天，我成为了华裔",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep25/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "leadership",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "领导管理",
-      "深度分析"
-    ],
-    "date": "2018-11-27",
-    "summary_en": "This podcast episode explores the complex identity and cultural experiences of 90s-generation Chinese immigrants in the US, particularly those who have become American citizens. Through the story of Merissa, a 90s-born Chinese-American, the show examines the citizenship process, cultural assimilation, and maintaining emotional connections to China. The discussion is particularly timely given the current US-China trade tensions and their impact on Chinese-Americans. The episode offers valuable insights into generational differences between first-generation immigrants and those born in the US, and how language plays a role in cultural identity. It's a compelling exploration of what it means to straddle two cultures in an era of heightened geopolitical tensions.",
-    "summary_zh": "这期播客聚焦90后华裔移民的身份认同与文化体验，通过Merissa的个人故事，探讨移民归化过程、文化融入及对中国情感的维系。在中美贸易战背景下，节目深入剖析不同世代华裔的文化差异与语言对身份认同的影响，为理解跨文化身份提供了生动案例。",
-    "best_quote_en": "How do you maintain emotional ties to China while becoming an American citizen?",
-    "best_quote_zh": "作为美国公民后，如何维持对中国的感情？"
-  },
-  {
-    "id": 65,
-    "title": "#Bonus  加拿大人为何开始抵制美国？一个加拿大人的观察|英文版",
-    "title_zh": "#Bonus  加拿大人为何开始抵制美国？一个加拿大人的观察|英文版",
-    "source": "声东击西",
-    "link": "http://etw.fm/2173",
-    "tags": [
-      "solve",
-      "politics",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2025-08-14",
-    "summary_en": "This insightful podcast episode explores the complex relationship between Canada and the U.S., particularly in the context of Trump's presidency. Through the perspective of a Vancouver resident, Mark, we gain a nuanced understanding of Canada's shifting attitudes towards its southern neighbor. The discussion covers historical tensions, the rise of Canadian nationalism, and the practical implications of boycotting American products. The episode also touches on the unique cultural and economic dynamics at play, offering a microcosm of how geopolitical events can reshape national identities and consumer behaviors. The inclusion of historical context and personal anecdotes makes this a compelling study of contemporary international relations.",
-    "summary_zh": "这期节目通过加拿大温哥华居民Mark的视角，深入剖析了特朗普上台后美加关系的变化及加拿大社会的复杂情绪。从1812年战争的历史恩怨到当前的贸易摩擦，从民族主义情绪的高涨到消费行为的转变，节目展现了一个国家如何在国际政治变局中重新审视自身定位。尤其值得关注的是，特朗普的政策不仅影响了官方关系，也改变了普通民众的生活选择。",
-    "best_quote_en": "The discussion offers a fascinating look at how geopolitical events can reshape national identities and consumer behaviors.",
-    "best_quote_zh": "节目展现了一个国家如何在国际政治变局中重新审视自身定位。"
-  },
-  {
-    "id": 66,
-    "title": "针尖·多味听觉馆 #24：逃离故乡的奈保尔，与寻找乡愁的三毛",
-    "title_zh": "针尖·多味听觉馆 #24：逃离故乡的奈保尔，与寻找乡愁的三毛",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep24/",
-    "tags": [
-      "solve",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2018-09-03",
-    "summary_en": "This podcast episode explores the complex emotions of homesickness and nostalgia through the lives of two notable figures, Naipaul and Sanmao. It introduces the concept of 'solastalgia'—a sense of alienation from one's homeland due to cultural or environmental changes. Naipaul, who fled his homeland, and Sanmao, who sought her ancestral nostalgia in the Sahara, represent different facets of this emotional landscape. The episode invites listeners to reflect on their own connections to home and the evolving nature of belonging. The thoughtful commentary and personal narratives make this a poignant exploration of identity and displacement.",
-    "summary_zh": "本期节目通过奈保尔和三毛的故事，探讨了思乡与乡愁的复杂情感。引入“乡痛”这一概念，揭示文化断裂或环境变迁带来的疏离感。奈保尔逃离故乡，三毛在撒哈拉寻找前世乡愁，展现了不同的乡愁体验。节目引发听众对归属感的思考，通过个人叙事和深刻分析，成为身份与流离的深刻探讨。",
-    "best_quote_en": "The concept of 'solastalgia'—feeling alienated from one's homeland while still in it—reveals how deeply our sense of belonging can be disrupted.",
-    "best_quote_zh": "“乡痛”这一概念揭示了文化断裂或环境变迁如何深刻改变我们的归属感。"
-  },
-  {
-    "id": 67,
-    "title": "巴比伦河",
-    "title_zh": "巴比伦河",
-    "source": "有待唱片店",
-    "link": "https://music.163.com/m/program?id=2057843260&radio=526995586",
-    "tags": [
-      "analyze",
-      "music-arts",
-      "science"
-    ],
-    "tags_zh": [
-      "分析",
-      "音乐艺术",
-      "科学研究"
-    ],
-    "date": "2018-11-16",
-    "summary_en": "This music podcast episode, titled 'Babylon River,' curated by host '有待,' offers a deep dive into the musical legacy of 'Take Me to the River,' a soulful classic originally performed by Al Green and co-written with Mabon 'Teenie' Hodges in 1974. The episode features various renditions of the song by artists like Talking Heads, The Commitments, and Bryan Ferry, alongside other river-themed tracks such as 'Many Rivers to Cross' and 'Rivers of Babylon.' The playlist spans genres and decades, showcasing the song's enduring influence and adaptability. Notably, Al Green's version was ranked 117th in Rolling Stone's '500 Greatest Songs of All Time.' This episode is a testament to the power of music to transcend time and cultural boundaries, offering listeners a journey through soul, rock, and reggae interpretations of these timeless themes.",
-    "summary_zh": "由主播“有待”策划的音乐播客第三十三期，以《带我去河边》为核心，展现了这首灵魂乐经典从1974年Al Green原唱到Talking Heads、The Commitments等多种版本的演绎，同时包含《许多河要渡》《巴比伦河》等河流主题的经典歌曲。播放量超万的节目展现了音乐跨越时空与文化的传递力，值得深度聆听。",
-    "best_quote_en": "\"Take Me to the River\" was ranked 117th in Rolling Stone's '500 Greatest Songs of All Time'",
-    "best_quote_zh": "阿尔·格林的《带我去河边》入选《滚石》杂志“史上500首最伟大歌曲”第117位"
-  },
-  {
     "id": 68,
     "title": "#Bonus  加拿大人为何开始抵制美国？一个加拿大人的观察|中文版",
     "title_zh": "加拿大人为何开始抵制美国？一个加拿大人的观察|中文版",
@@ -2346,5 +2230,123 @@
     "summary_zh": "内容纪念音乐传奇人物Prince，聚焦他在离世两年后的持久影响。强调他对全球乐迷的深远影响及每年播放其音乐的致敬仪式。分析包括Prince英年早逝的细节和留下的音乐遗产。讨论了他的音乐的情感共鸣，参考了特定曲目和专辑，以及其作品的文化意义。内容还涉及音乐流媒体机制和用户互动，如播放量和订阅功能，在纪念Prince的背景下。",
     "best_quote_en": "Two years ago today, on April 21, 2016, it was a heavy day for music fans around the world. The pop legend Prince suddenly passed away at his home in Minneapolis at the age of 57.",
     "best_quote_zh": "两年前的今天，2016年，4月21日。对于全世界的乐迷而言，是沉重的一天。流行乐坛传奇Prince（王子）在明尼阿波利斯的家中突然离世，终年57岁。"
+  },
+  {
+    "id": 163,
+    "title": "#325  跨越红蓝：七位在美华人的政治选择和选择背后的理由｜2024 Election",
+    "title_zh": "跨越红蓝：七位在美华人的政治选择和选择背后的理由｜2024 Election",
+    "source": "声东击西",
+    "link": "http://etw.fm/2132",
+    "tags": [
+      "analyze",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2024-11-19",
+    "summary_en": "This episode of '声东击西' offers a unique perspective on the 2024 US elections by focusing on seven Chinese individuals living across different states. Through their personal stories, we see how diverse experiences shape political views. The program explores contrasting campaign strategies, the rise of non-mainstream media, and the complex factors influencing voter decisions, including education and immigrant perspectives. Particularly compelling is the inclusion of voices from both Republican and Democrat supporters, revealing the nuanced reasoning behind their choices. This human-centered approach provides valuable insights into how different communities engage with the political process.",
+    "summary_zh": "这期节目通过七位生活在不同美国州的华人的故事，展现了政治观点多样性。从教育选择到移民经历，从传统媒体到网络算法，内容揭示了政治选择背后的复杂因素。特别是拉美移民支持特朗普的理由和深红州母亲的教育顾虑，为我们提供了更立体的视角。",
+    "best_quote_en": "These different voices open up new perspectives for us.",
+    "best_quote_zh": "这些不同的声音，能为你打开一些不同的观察角度"
+  },
+  {
+    "id": 164,
+    "title": "英国伦敦国王路上的摇滚时尚兴衰史",
+    "title_zh": "英国伦敦国王路上的摇滚时尚兴衰史",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=1369032894&radio=526995586",
+    "tags": [
+      "solve",
+      "cybersecurity",
+      "music-arts",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "网络安全",
+      "音乐艺术",
+      "数据驱动"
+    ],
+    "date": "2018-04-27",
+    "summary_en": "This insightful program explores the intertwined history of rock music and fashion along London's King's Road. Beginning in the 1960s-70s, the street became a cultural epicenter where music and style collided. The episode features King James, who grew up in the UK, sharing firsthand accounts of this vibrant scene. The content offers a unique perspective on how musical movements influenced fashion trends and vice versa, creating a cultural legacy that continues to resonate today. Particularly fascinating is the discussion of how specific bands and artists became style icons, shaping not just sound but also the visual aesthetic of entire generations. The program serves as both a historical overview and a celebration of cultural cross-pollination, revealing how King's Road became a laboratory for creative expression that transcended both music and fashion.",
+    "summary_zh": "从上世纪六七十年代开始，英国伦敦的King's Road就是时尚和摇滚乐的发源地。本期节目，有待请来了从小在英国长大的King James，为大家讲述了摇滚乐和时尚的故事。这段历史不仅仅是音乐史，更是文化融合的见证，展现了如何通过音乐与时尚的碰撞创造出持久的影响力。",
+    "best_quote_en": "From the 1960s-70s, King's Road became a cultural epicenter where music and style collided.",
+    "best_quote_zh": "从上世纪六七十年代开始，英国伦敦的King's Road就是时尚和摇滚乐的发源地。"
+  },
+  {
+    "id": 165,
+    "title": "#324  大选夜加更：特朗普迎来他的 2.0 时代｜2024 Election",
+    "title_zh": "#324  大选夜加更：特朗普迎来他的 2.0 时代｜2024 Election",
+    "source": "声东击西",
+    "link": "http://etw.fm/2131",
+    "tags": [
+      "inspire",
+      "politics",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2024-11-06",
+    "summary_en": "This episode of '声东击西' provides a real-time analysis of the 2024 US election results, focusing on Trump's decisive victory and its implications. The show examines Trump's commanding leads in swing states and the Republican takeover of the Senate, suggesting this victory reflects broader political trends. The hosts discuss unexpected Trump supporter demographics and the impact of the late Democratic candidate switch. The episode also explores state-level ballot initiatives, particularly on abortion rights. With expert commentary from hosts Xu Tao and Gabriel, this analysis offers a nuanced look at the election's outcomes and potential global consequences, inviting listener contributions for future episodes.",
+    "summary_zh": "本期「声东击西」实时解析2024年美国大选结果，聚焦特朗普压倒性胜利及其深远影响。节目分析了特朗普在摇摆州的优势以及共和党夺回参议院的意义，认为这场胜利可能预示着政治格局的新变化。主播徐涛和Gabriel深入探讨了特朗普支持者群体的反直觉特征，以及民主党中途换人对选情的影响。同时关注各州关于堕胎权等议题的公投结果。这期节目不仅提供专业解读，也邀请听众分享一线观察，共同探讨大选对世界的潜在影响。",
+    "best_quote_en": "Trump's victory appears to be more than just a personal triumph—it seems to represent a broader political zeitgeist.",
+    "best_quote_zh": "特朗普的获胜更像是一种顺应时代。"
+  },
+  {
+    "id": 166,
+    "title": "改变流行乐史的贝司线",
+    "title_zh": "改变流行乐史的贝司线",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=1368929613&radio=526995586",
+    "tags": [
+      "solve",
+      "cybersecurity",
+      "design",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "网络安全",
+      "设计创意",
+      "深度分析"
+    ],
+    "date": "2018-04-19",
+    "summary_en": "This content appears to be a login interface and music platform UI code, not the actual article about bass lines in popular music history. The provided text contains HTML templates for user authentication, comment sections, and music player interfaces, but lacks substantive content about musical history or bass lines. If this were the actual article, it would likely explore how influential bass lines have shaped popular music genres and specific songs, with examples from different eras and artists. The bass guitar's role in defining rhythms and harmonies would be a key focus, potentially including technical analysis of notable bass parts.",
+    "summary_zh": "该内容看起来是一个登录界面和音乐平台UI代码，并非关于流行乐史贝司线的实际文章。提供的文本包含用户认证、评论部分和音乐播放器界面的HTML模板，但缺乏关于音乐史或贝司线的实质性内容。如果这是实际文章，它可能会探讨贝司线如何塑造了流行音乐流派和特定歌曲，并附带不同时代和艺术家的例子。贝斯吉他在定义节奏和和声方面的作用将是关键焦点，可能包括对著名贝斯部分的技术分析。",
+    "best_quote_en": "The bass guitar's role in defining rhythms and harmonies would be a key focus",
+    "best_quote_zh": "贝斯吉他在定义节奏和和声方面的作用将是关键焦点"
+  },
+  {
+    "id": 167,
+    "title": "#323  美国大选投票为何无需身份证，舞弊有可能吗？来自美国一线计票员的观察｜2024 Election",
+    "title_zh": "美国大选投票为何无需身份证，舞弊有可能吗？来自美国一线计票员的观察｜2024 Election",
+    "source": "声东击西",
+    "link": "http://etw.fm/2130",
+    "tags": [
+      "solve",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2024-11-06",
+    "summary_en": "This episode offers a fascinating behind-the-scenes look at the US election process through the eyes of an actual ballot counter in King County, Washington. The discussion debunks common misconceptions about voter verification without ID cards, revealing the meticulous multi-step process that ensures election integrity. What's particularly compelling is the detailed breakdown of the six stages of ballot counting and the 20+ steps involved in simply removing ballots from envelopes. The episode also addresses the contentious issue of election fraud, presenting the various safeguards in place. As a listener, I was struck by how this firsthand account humanizes the often politicized election process, making it more accessible to international audiences. The inclusion of visual aids and additional resources further enhances understanding of this complex system.",
+    "summary_zh": "这期节目通过一线计票员的亲身经历，揭秘了美国选举过程的细节。没有身份证如何验证选民身份？选票统计经历了哪些程序？舞弊的可能性有多大？这些问题的回答让我对美国选举制度有了更深入的理解。特别是对选票统计的六个环节和防舞弊的监督手段的详细说明，让我意识到这个系统的复杂性和严谨性。作为听众，我最感兴趣的是这些专业知识如何帮助我们更客观地看待选举话题。",
+    "best_quote_en": "The process of verifying voter signatures alone involves 20+ steps just to remove ballots from their envelopes - each step designed to prevent errors and fraud.",
+    "best_quote_zh": "验证选民签名这一环节就有20多个步骤，每个步骤都设计用来防止错误和舞弊。"
   }
 ]
