@@ -1,123 +1,5 @@
 [
   {
-    "id": 77,
-    "title": "玫瑰人生",
-    "title_zh": "玫瑰人生",
-    "source": "有待唱片店",
-    "link": "https://music.163.com/m/program?id=2057625309&radio=526995586",
-    "tags": [
-      "inspire",
-      "music-arts",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "音乐艺术",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2018-11-03",
-    "summary_en": "This podcast episode from '有待唱片店' offers a fascinating exploration of the iconic French song 'La Vie En Rose' through 14 diverse cover versions. The original by Édith Piaf is presented alongside interpretations by artists like Louis Armstrong, Tony Bennett, and Cyndi Lauper, showcasing how the song's timeless message of love and optimism transcends cultural and generational boundaries. The episode highlights the song's enduring appeal and its ability to evoke deep emotional resonance through different musical styles and artistic perspectives. This collection serves as both a historical journey through jazz and pop music history and a celebration of the song's universal themes.",
-    "summary_zh": "这期节目通过14位音乐人的不同版本演绎，展现了法国经典歌曲《玫瑰人生》的永恒魅力。从原唱艾迪特·皮雅芙到路易斯·阿姆斯特朗等传奇歌手的翻唱，每个版本都赋予了这首歌新的生命力。节目不仅是音乐的回顾，更是对爱与希望主题的深刻诠释，展示了经典作品如何跨越时代和文化，仍能触动听众的心灵。",
-    "best_quote_en": "The song's simple yet profound lyrics and melody create a universal language of love that resonates across decades and cultures.",
-    "best_quote_zh": "这首歌简单而深刻的歌词和旋律，创造了一种跨越时代和文化的爱的普世语言。"
-  },
-  {
-    "id": 78,
-    "title": "针尖·多味听觉馆 #19：杨绛与钱钟书——这世上势均力敌的爱情",
-    "title_zh": "针尖·多味听觉馆 #19：杨绛与钱钟书——这世上势均力敌的爱情",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep19/",
-    "tags": [
-      "analyze",
-      "lifestyle",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2018-05-25",
-    "summary_en": "This podcast episode explores the extraordinary love story of Yang Jiang and Qian Zhongshu, two intellectual giants of modern China. Their relationship challenges conventional notions of love and marriage, demonstrating how mutual respect and equality can sustain a lifelong partnership. The episode raises profound questions about the nature of love, the impact of external relationships, and the inevitability of loss. Yang Jiang's poignant reflection on impermanence adds a layer of philosophical depth. The content serves as both an inspiring love story and a thoughtful meditation on human relationships, offering listeners an opportunity to reflect on their own experiences.",
-    "summary_zh": "这个播客节目讲述了杨绛与钱钟书这对学术界的伉俪如何以平等与尊重构建终生伴侣关系。节目质疑爱情与婚姻的关系，探讨第三者出现时的情感维度。杨绛",
-    "best_quote_en": "世间好物不坚牢，彩云易散琉璃碎",
-    "best_quote_zh": "世间好物不坚牢，彩云易散琉璃碎"
-  },
-  {
-    "id": 79,
-    "title": "# 把乔布斯纹在腿上 | 重播",
-    "title_zh": "把乔布斯纹在腿上 | 重播",
-    "source": "声东击西",
-    "link": "http://etw.fm/2166",
-    "tags": [
-      "solve",
-      "science",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2025-07-03",
-    "summary_en": "This podcast episode commemorates the 20th anniversary of Apple Podcasts by revisiting a 2021 discussion about Steve Jobs, sparked by a podcast host's tattoo featuring the iconic Apple founder. The conversation explores Jobs' complex legacy, from his revolutionary products to his management style. The hosts analyze his impact on technology and leadership, discussing how his vision shaped Apple and influenced generations. The episode blends personal anecdotes with professional insights, offering a multifaceted portrait of Jobs that challenges both the myth and the criticism surrounding him. It serves as both a historical reflection and a source of inspiration for current and future innovators.",
-    "summary_zh": "这期播客纪念Apple播客20周年，重播2021年关于乔布斯的讨论，源于主播腿上的乔布斯纹身。节目探讨了这位科技天才的复杂遗产，从颠覆性产品到管理风格。嘉宾从产品经理视角解析乔布斯的影响力，既有个人故事也有专业分析，既有对神话的反思也有对批评的平衡。内容既是历史回顾，也是激励当代创新者的灵感源泉。",
-    "best_quote_en": "\"Those who are crazy enough to think they can change the world are the ones who do.\"",
-    "best_quote_zh": "\"那些疯狂到以为自己能够改变世界的人，才能真正改变世界。\""
-  },
-  {
-    "id": 80,
-    "title": "迪斯科历险记",
-    "title_zh": "迪斯科历险记",
-    "source": "有待唱片店",
-    "link": "https://music.163.com/m/program?id=2057395441&radio=526995586",
-    "tags": [
-      "solve",
-      "cybersecurity",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "解决",
-      "网络安全",
-      "音乐艺术"
-    ],
-    "date": "2018-10-21",
-    "summary_en": "This appears to be a template or code snippet for a login interface, likely from a music streaming platform. The content outlines various login methods, account registration options, and password requirements, revealing the platform's security measures and user interaction design. It also includes comment sections and sharing features, suggesting a social music experience. The code's structure indicates attention to user authentication, profile management, and content engagement. The platform appears to prioritize user verification through multiple channels and maintains a comprehensive commenting system with hierarchical replies.",
-    "summary_zh": "这段内容看起来是音乐流媒体平台的登录界面模板或代码片段，包含多种登录方式、账号注册选项和密码要求，展示了平台的安全措施和用户交互设计。还包括评论区和分享功能，暗示这是一个社交化的音乐体验。代码结构表明平台注重用户认证、资料管理和内容互动。该平台似乎通过多种渠道优先确保用户验证，并维护了一个包含层级回复的全面评论系统。",
-    "best_quote_en": "通过短信验证身份",
-    "best_quote_zh": "通过短信验证身份"
-  },
-  {
-    "id": 81,
-    "title": "#Bonus  「我们真的赢了吗？」：一场从以色列内部看到的战争",
-    "title_zh": "「我们真的赢了吗？」：一场从以色列内部看到的战争",
-    "source": "声东击西",
-    "link": "http://etw.fm/2168",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-07-17",
-    "summary_en": "This podcast episode offers a unique perspective on the Israel-Iran war through the eyes of a Chinese woman living in an Israeli town. It explores the societal divisions within Israel, the impact of the conflict on daily life, and shifting perceptions of American involvement. The narrative is both personal and insightful, revealing how geopolitical events reshape individual experiences. The inclusion of a Chinese perspective adds valuable cross-cultural dimension to war reporting, highlighting universal themes of resilience and adaptation. The episode also raises important questions about national identity and the psychological toll of prolonged conflict.",
-    "summary_zh": "这期节目通过一个在中国留学生在以色列防空洞里的真实经历，揭示战争对普通人的日常生活冲击，以及社会对政治、信仰和国际关系的复杂态度。从个人视角切入，展现战争如何改变生活节奏和心理状态。",
-    "best_quote_en": "How do Israelis view this sudden war? How do they perceive their country's long-standing complex relationships with neighboring countries?",
-    "best_quote_zh": "一颗颗从敌对国飞来的导弹，如何改变和塑造他们日常生活的节奏与态度？"
-  },
-  {
     "id": 82,
     "title": "针尖·多味听觉馆 #18：中国 PLUS｜因为脱欧这件事，我在英国输了 40 磅",
     "title_zh": "针尖·多味听觉馆 #18：中国 PLUS｜因为脱欧这件事，我在英国输了 40 磅",
@@ -2348,5 +2230,117 @@
     "summary_zh": "这期节目深入剖析了美国大选中哈里斯和特朗普的经济政策倡议，揭示了看似直觉符合却可能违背常理的政策背后的复杂考量。从富人税到能源政策，从移民影响到关税负担，主播们以专业视角拆解了这些政策的真实影响。讨论不仅关注政策表面，更探究其落地困难和潜在反作用。对于关注美国政治经济的人来说，这是一场思想碰撞的盛宴，让我们看清选举背后的经济逻辑。",
     "best_quote_en": "The episode challenges listeners to look beyond the superficial appeal of campaign promises and consider the complex economic realities they represent.",
     "best_quote_zh": "这期节目让我们看清，选举中的经济政策往往充满复杂性，远非表面看起来那么简单直观。"
+  },
+  {
+    "id": 177,
+    "title": "西非赤脚歌后Cesária évora",
+    "title_zh": "西非赤脚歌后Cesária Évora",
+    "source": "有待唱片店",
+    "link": "https://music.163.com/m/program?id=1368929610&radio=526995586",
+    "tags": [
+      "solve",
+      "music-arts",
+      "cybersecurity"
+    ],
+    "tags_zh": [
+      "解决",
+      "音乐艺术",
+      "网络安全"
+    ],
+    "date": "2018-04-19",
+    "summary_en": "This content explores the life and musical legacy of Cesária Évora, the \"barefoot diva\" from Cape Verde. Known for her distinctive Morna music style, Evora's performances often reflected the struggles of her island nation's history while offering a uniquely hopeful perspective. The analysis highlights her cultural impact, the emotional depth of her music, and her enduring influence on world music. The content serves as both an educational piece on African musical traditions and an inspiring look at an artist who used her platform to advocate for social causes.",
+    "summary_zh": "这篇内容介绍了佛得角“赤脚歌后”塞萨莉娅·埃沃拉的生活与音乐遗产。她以独特的莫尔纳音乐风格闻名，演唱中融合了悲伤与希望，反映了佛得角的苦难历史。分析突出了她的文化影响力和社会倡导精神，既是非洲音乐传统的教育介绍，也是一位用艺术推动社会变革艺术家的激励故事。",
+    "best_quote_en": "Evora's song voice is round and dark, her performances are always emotionally moving, whether it's a simple folk song or a lively dance tune.",
+    "best_quote_zh": "Evora的歌声浑圆暗哑，她的演唱总是以情见长，无论是平淡的民谣还是欢快的舞曲，她总是能够演绎得亲切动人。"
+  },
+  {
+    "id": 178,
+    "title": "#319  人生不同阶段的八年，以及其中的成长体悟和反思",
+    "title_zh": "#319 人生不同阶段的八年，以及其中的成长体悟和反思",
+    "source": "声东击西",
+    "link": "http://etw.fm/2125",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2024-10-24",
+    "summary_en": "This podcast episode marks the eighth anniversary of 'Sheng Dong Ji Xi' by Sheng FM, featuring a roundtable discussion among five team members at different life stages (20s, 30s, 40s) reflecting on their past eight years and envisioning the next eight. The conversation covers personal growth, career transitions, and the evolution of the podcast itself. What makes this episode particularly valuable is its raw, introspective nature—it's not just about celebrating milestones but about the messy, beautiful process of self-discovery. The team shares candid moments of doubt, transformation, and the unexpected paths they've taken, making it a compelling study in personal and professional evolution. The episode also invites listeners to contribute their own reflections, creating a sense of community and shared journey.",
+    "summary_zh": "《声东击西》八周年特别节目，五位成员分享不同人生阶段的成长与反思，从二十岁到四十岁，八年光阴如何改变我们？未来八年又会是什么模样？这个节目不只是纪念时刻，更是一次深刻的自我探索。团队成员坦诚分享职业转变、理想与现实的碰撞，让人思考：人生的意义或许不在于答案，而在于不断追问的勇气。",
+    "best_quote_en": "The Road Not Taken - 'Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.'",
+    "best_quote_zh": "《追寻生命的意义》中提到的人生反思：过去八年最大的改变是什么？八年后你希望自己处在什么样的状态？"
+  },
+  {
+    "id": 179,
+    "title": "政记干货大排档 #36：我们为什么听民谣？",
+    "title_zh": "政记干货大排档 #36：我们为什么听民谣？",
+    "source": "政见",
+    "link": "http://cnpolitics.github.io/radio/pub/ep36/",
+    "tags": [
+      "analyze",
+      "lifestyle",
+      "psychology",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "分析",
+      "生活方式",
+      "心理学",
+      "深度分析"
+    ],
+    "date": "2017-03-28",
+    "summary_en": "This content explores the fundamental human connection to folk music, drawing parallels between ancient tribal singing and modern listening habits. By curating a playlist of contemporary Chinese folk songs and recommending books that delve into the anthropological and sociological aspects of music, it invites readers to consider why music resonates so deeply across cultures and time. The selection of songs reflects both urban angst and nostalgic longing, while the recommended readings offer deeper insights into the universal human need for musical expression.",
+    "summary_zh": "本文探讨民谣与人类深层情感的联结，从原始部落到现代都市，揭示音乐超越时空的共鸣。精选的民谣播放清单和跨文化音乐研究书籍，引导我们反思音乐在不同文明中的永恒价值。",
+    "best_quote_en": "Good folk music is essentially poetry.",
+    "best_quote_zh": "好的民谣从本质上也是诗歌。"
+  },
+  {
+    "id": 180,
+    "title": "338. 关于告别 | 第三季完结",
+    "title_zh": "338. 关于告别 | 第三季完结",
+    "source": "八分",
+    "link": "https://shop.vistopia.com.cn/article?article_id=507894",
+    "tags": [
+      "inspire",
+      "psychology",
+      "society"
+    ],
+    "tags_zh": [
+      "启发",
+      "心理学",
+      "社会议题"
+    ],
+    "date": "2021-12-24",
+    "summary_en": "This episode marks the conclusion of the third season of 《八分》, a podcast that has explored profound themes through music and discussion. The host, known as 'Dao Zhang,' addresses his departure from 'Look Ideal' (看理想) and reflects on the year 2021, prompting listeners to contemplate the nature of 'ideal.' The episode is a poignant farewell, filled with classic Christmas music that adds emotional depth to the reflective tone. The closing remarks emphasize the enduring impact of the podcast, suggesting that while the format may change, its essence will persist in the hearts of its audience. This episode serves as a touching conclusion that invites listeners to ponder their own journeys and the meaning of ideals in their lives.",
+    "summary_zh": "本期是《八分》第三季的完结篇，通过音乐与对话探讨了深刻的主题。道长回应了离开看理想的决定，并回顾了2021年的点滴，引发听众对“理想”的思考。经典圣诞音乐为反思增添了情感深度。结尾强调节目虽换形式，精神将永存。这期节目以温暖的告别邀请听众反思自我与理想的关系。",
+    "best_quote_en": "The podcast, though concluding, leaves traces in the hearts of its audience, transforming but never truly ending.",
+    "best_quote_zh": "缘起不灭，它只是会转换成另一种形式，在我们每一个曾经结缘的人心上、身上留下一些线索和痕迹。"
+  },
+  {
+    "id": 181,
+    "title": "政记干货大排档 #34：美国之后，法国大选将何去何从？",
+    "title_zh": "政记干货大排档 #34：美国之后，法国大选将何去何从？",
+    "source": "政见",
+    "link": "http://cnpolitics.github.io/radio/pub/ep34/",
+    "tags": [
+      "update",
+      "politics"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事"
+    ],
+    "date": "2017-03-02",
+    "summary_en": "This analysis examines the upcoming French elections in 2017, following the Brexit and Trump's victory in the US. It explores the unique backgrounds and campaign platforms of the French presidential candidates, offering insights into the potential outcomes and implications of this pivotal election. The piece provides a comparative perspective on how global political shifts might influence France's political landscape, making it valuable for those interested in international politics and election dynamics.",
+    "summary_zh": "本文分析2017年法国大选，在英国脱欧和特朗普当选美国总统后，法国即将迎来重要选举。文章探讨了法国总统候选人的独特背景和竞选宣言，预测了选举的可能结果及影响。通过比较全球政治格局的变化，为关注国际政治和选举动态的读者提供了有价值的视角。",
+    "best_quote_en": "Following Brexit and Trump's victory, the French elections are poised to shape the future of European politics.",
+    "best_quote_zh": "在英国脱欧和特朗普当选美国总统之后，法国大选将决定欧洲政治的未来走向。"
   }
 ]
