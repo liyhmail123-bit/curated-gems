@@ -1,75 +1,5 @@
 [
   {
-    "id": 85,
-    "title": "丹麦爵士王子的童话世界",
-    "title_zh": "丹麦爵士王子的童话世界",
-    "source": "有待唱片店",
-    "link": "https://music.163.com/m/program?id=2057583191&radio=526995586",
-    "tags": [
-      "learn",
-      "music-arts",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "音乐艺术",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2018-10-31",
-    "summary_en": "This podcast episode explores the enchanting world of Mads Mathias, a Danish jazz singer and multi-instrumentalist who has captivated audiences with his charismatic performances and vibrant personality. Praised as Denmark's top jazz artist and hailed as a future international star, Mathias draws inspiration from legends like Nat King Cole and Frank Sinatra while infusing his unique, light yet captivating voice into his original compositions. His debut album 'Free Falling' showcases his versatility, featuring collaborations with notable musicians and a seamless blend of humor, emotion, and sophisticated jazz arrangements. The episode highlights his international performances and the critical acclaim his work has received, offering listeners a glimpse into the rich tapestry of modern Danish jazz.",
-    "summary_zh": "这期节目带我们走进丹麦爵士歌手Mads Mathias的音乐童话世界。他以独特的魅力和活力十足的表演风格征服了乐迷，被誉为丹麦头号爵士男歌手。受Nat King Cole等巨星启发，Mathias在首张专辑《Free Falling》中展现了多才多艺的天赋，从幽默到深情，演绎了爵士乐的永恒魅力。",
-    "best_quote_en": "Mads Mathias' voice is unique, light, and captivating, with a talent for creating unforgettable melodies.",
-    "best_quote_zh": "Mads Mathias拥有独特而轻巧的迷人嗓音，并善于创作令人过耳难忘的精妙曲子。"
-  },
-  {
-    "id": 86,
-    "title": "#364  持续创新的国家做对了什么：2025 诺贝尔经济学奖给当下的启示和警示",
-    "title_zh": "#364  持续创新的国家做对了什么：2025 诺贝尔经济学奖给当下的启示和警示",
-    "source": "声东击西",
-    "link": "http://etw.fm/2183",
-    "tags": [
-      "update",
-      "startup-strategy",
-      "leadership",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "创业策略",
-      "领导管理",
-      "未来预测"
-    ],
-    "date": "2025-10-16",
-    "summary_en": "This episode of Voice East, West delves into the critical question of why some nations consistently outperform others in technological waves. The 2025 Nobel Prize in Economics, awarded to Joel Mokyr, Philippe Aghion, and Peter Howitt for their work on technology and sustained economic growth, provides timely insights. The discussion explores how innovation can be institutionalized, examining the interplay between institutions, culture, and policy in fostering societal creativity. The episode features interviews with Shanghai Jiao Tong University professor Huang Shaoqing and Sheng FM co-founder Xu Tao, offering both academic and practical perspectives on how to maintain creative destruction and avoid the pitfalls of stagnation. The analysis is particularly relevant in today's AI-driven economy where innovation is the key competitive advantage.",
-    "summary_zh": "本期声东击西探讨了一个关键问题：为什么有些国家能在技术浪潮中脱颖而出，而其他国家却始终落后？2025年诺贝尔经济学奖授予了研究技术创新与持续经济增长关系的三位学者，这为当下的AI重塑产业提供了重要启示。节目通过访谈上海交通大学教授黄少卿和声动活泼联合创始人徐涛，深入分析了制度、文化与政策如何共同决定一个社会的创造力。在AI时代，这一话题的重要性前所未有，值得我们深入思考。",
-    "best_quote_en": "How can the accumulation of technological progress lead to industrial revolutions?",
-    "best_quote_zh": "技术进步的积累，要如何才能质变为工业革命的发生？"
-  },
-  {
-    "id": 87,
-    "title": "针尖·多味听觉馆 #16：无论老师还是学生，都有可能成为性侵犯的受害者",
-    "title_zh": "针尖·多味听觉馆 #16：无论老师还是学生，都有可能成为性侵犯的受害者",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep16/",
-    "tags": [
-      "solve",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2018-04-10",
-    "summary_en": "This podcast episode tackles the complex issue of sexual harassment in educational settings, emphasizing that both teachers and students can be victims when 'sex' is either taboo or only discussed negatively. The discussion explores power dynamics in humor, with teachers telling inappropriate jokes being both perpetrators and victims of a system that confuses power with genuine pleasure. The episode features practical guidance on recognizing different levels of sexual harassment, responding appropriately, and implementing preventive measures in schools. Expert insights from a gender studies scholar provide a nuanced perspective on how to discuss sensitive topics and create safer educational environments. The content serves as both an educational resource and a call to action for systemic change.",
-    "summary_zh": "本期探讨校园性侵害问题，强调无论老师或学生都可能成为受害者。当性话题被压抑或仅以负面方式讨论时，所有人都陷入受害状态。节目分析权力与性的扭曲关系，提出识别、应对性骚扰的实用建议，并探讨学校防护机制。嘉宾从性别研究角度提供专业视角，引发我们对教育环境改善的思考。",
-    "best_quote_en": "When 'sex' can't be discussed or can only be discussed negatively, everyone becomes a victim",
-    "best_quote_zh": "当「性」不可说，或者只能以负面的方式去说的时候，大家都是受害者"
-  },
-  {
     "id": 88,
     "title": "#352  几个「缺氧脑袋」的香格里拉漫游丨夏日特辑·云南另一面",
     "title_zh": "#352 几个「缺氧脑袋」的香格里拉漫游丨夏日特辑·云南另一面",
@@ -2340,5 +2270,75 @@
     "summary_zh": "2024年美国副总统辩论在中东局势紧张和飓风肆虐的背景下举行，万斯和沃尔兹的交锋显得格外引人注目。与总统辩论相比，这场辩论更显传统政治辩论的特色，双方既阐述观点又保持风度。分析认为，这次副总统辩论之所以受到特别关注，是因为选战进程充满变数，且离大选仅剩一个月。万斯的技巧型辩论风格与沃尔兹的朴实无华形成鲜明对比，两人在经济、移民、堕胎权等关键议题上的表现值得深入解读。",
     "best_quote_en": "The final presidential debate of the 2024 election cycle becomes the last opportunity to sway undecided voters in this stormy political season.",
     "best_quote_zh": "2024年美国大选的最后一场辩论，将是风暴中的选战最后一段悬念的关键时刻。"
+  },
+  {
+    "id": 185,
+    "title": "#367  当意大利街角的浓缩咖啡，变成中国移民的生意",
+    "title_zh": "#367  当意大利街角的浓缩咖啡，变成中国移民的生意",
+    "source": "声东击西",
+    "link": "http://etw.fm/2186",
+    "tags": [
+      "solve",
+      "society",
+      "startup-strategy",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "创业策略",
+      "未来预测"
+    ],
+    "date": "2025-11-07",
+    "summary_en": "This episode explores the phenomenon of Chinese immigrants running authentic Italian coffee shops in Italy, uncovering the complex social and cultural dynamics at play. The discussion goes beyond mere business strategy, delving into issues of national identity, migration patterns, and cultural exchange. By examining how Chinese entrepreneurs have adapted to and transformed Italian café culture, the podcast offers insights into broader questions of cultural assimilation and the economic realities faced by immigrants. The episode features experts who provide nuanced perspectives on these topics, making it particularly valuable for those interested in migration studies, cultural anthropology, and the global movement of small businesses.",
+    "summary_zh": "这期节目通过华人在意大利开咖啡馆的现象，探讨移民、身份认同与文化流动的复杂关系。不仅是商业选择，更是社会现象的反映。专家们的讨论让我们思考：文化如何在移民中重塑，身份认同如何在异乡建立？这面镜子不仅照见移民的处境，也让我们反观自身。",
+    "best_quote_en": "The experiences of Chinese immigrants as 'others' in foreign lands can serve as a mirror to reflect on our own identities and cultural perceptions.",
+    "best_quote_zh": "华人在异乡所经历的「他者」的经历，或许也可以成为反观我们自身的一个镜像。"
+  },
+  {
+    "id": 186,
+    "title": "#313  表达的旷野和流量的轨道，互联网社区的叙事正在如何改变？",
+    "title_zh": "表达的旷野和流量的轨道，互联网社区的叙事正在如何改变？",
+    "source": "声东击西",
+    "link": "http://etw.fm/2119",
+    "tags": [
+      "solve",
+      "society",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2024-09-12",
+    "summary_en": "This podcast episode explores the evolving landscape of internet communities, focusing on how platforms and algorithms shape content creation and audience engagement. The discussion covers the shift from professional content (PGC) to user-generated content (UGC), the role of internet memes in community formation, and the interplay between platform algorithms and user behavior. The hosts and guests delve into the democratization of content creation, the value of fragmented narratives, and the future direction of online communities. The episode highlights how ordinary people now have more opportunities to express themselves and influence others, marking a significant shift in digital communication dynamics.",
+    "summary_zh": "本期节目深入探讨了互联网社区的演变趋势，聚焦平台和算法如何塑造内容创作与用户互动。讨论涵盖了从专业内容到用户生成内容的转变，互联网梗在社区形成中的作用，以及平台算法与用户行为的相互影响。嘉宾们探讨了内容创作的民主化进程，碎片化叙事的价值，以及线上社区的未来走向。节目强调了普通人获得更多表达与影响他人的机会，标志着数字沟通格局的重大变化。",
+    "best_quote_en": "In such a trend, you and I, and all the different communities, have more opportunities to see the world, express ourselves loudly to the crowd, and influence each other.",
+    "best_quote_zh": "在这样的趋势下，我与你，大大小小的不同社区，都拥有了更多看见世界，向人群大声表达，以及彼此影响的机会。"
+  },
+  {
+    "id": 187,
+    "title": "#312  精心设计的微笑进攻 vs. 暴怒防守：直击哈里斯和特朗普首场辩论 | 2024 Election",
+    "title_zh": "#312  精心设计的微笑进攻 vs. 暴怒防守：直击哈里斯和特朗普首场辩论 | 2024 Election",
+    "source": "声东击西",
+    "link": "http://etw.fm/2118",
+    "tags": [
+      "update",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2024-09-11",
+    "summary_en": "The first presidential debate between Kamala Harris and Donald Trump marked a pivotal moment in the 2024 election cycle. After a series of unexpected events including Biden's withdrawal and Trump's assassination attempt, this face-off was highly anticipated. Harris, often criticized for her unusual laugh and ambiguous policy positions, delivered a strong performance that contrasted sharply with Trump's aggressive, unfiltered approach. The debate revealed strategic shifts in both candidates' tactics - Harris employing calculated smiles and precise language while Trump relied on his signature combative style. The post-debate polls showed a clear preference for Harris among viewers, suggesting she may have gained momentum in the crucial swing states. The analysis delves into their rhetorical strategies, policy clashes, and the potential implications for the election, offering insights into how these dynamics might shape voter perceptions.",
+    "summary_zh": "拜登退选、特朗普遇袭后，哈里斯与特朗普的首场辩论成为2024大选的关键转折点。哈里斯以精心设计的微笑进攻对抗特朗普的暴怒防守，两人策略对比鲜明。辩论后民调显示63%观众支持哈里斯，这场胜利可能改变摇摆州选情。分析揭示了两人话术策略的微妙变化，从经济到移民问题的政策交锋，以及泰勒斯威夫特等名人支持对选情的影响。这场辩论不仅是个人表现的较量，更预示着美国政治格局的潜在转变。",
+    "best_quote_en": "When Trump's anger was successfully provoked by Harris",
+    "best_quote_zh": "当特朗普的怒火被哈里斯成功点燃"
   }
 ]
