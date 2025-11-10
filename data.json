@@ -1,125 +1,5 @@
 [
   {
-    "id": 93,
-    "title": "灵感之源",
-    "title_zh": "灵感之源",
-    "source": "有待唱片店",
-    "link": "https://music.163.com/m/program?id=2058388898&radio=526995586",
-    "tags": [
-      "solve",
-      "music-arts",
-      "cybersecurity",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "音乐艺术",
-      "网络安全",
-      "数据驱动"
-    ],
-    "date": "2018-12-13",
-    "summary_en": "This content appears to be a detailed interface for a music streaming platform's login, registration, and comment sections. The HTML structure suggests multiple authentication methods (phone, email, third-party platforms), password recovery options, and a sophisticated comment system with user avatars, VIP status indicators, and nested replies. The inclusion of a radio program titled '灵感之源' (Inspiration Source) with jazz classics suggests a focus on curated musical experiences. The interface design emphasizes user engagement through social features like likes, shares, and subscriptions. The content demonstrates technical sophistication in user interface design and community management for digital music platforms.",
-    "summary_zh": "这是一个音乐流媒体平台的登录、注册及评论系统界面，支持多种认证方式，评论系统功能完善，包含用户头像和VIP标识。节目《灵感之源》播放爵士经典，体现音乐精品化策略。界面设计注重用户互动，反映数字音乐平台社交化运营趋势。",
-    "best_quote_en": "本期歌单：George Benson《Just One of Those Things》, Nat King Cole《Unforgettable》, George Benson《Unforgettable》...",
-    "best_quote_zh": "本期歌单：乔治·本森《Just One of Those Things》, 纳特·金·科尔《Unforgettable》, 乔治·本森《Unforgettable》..."
-  },
-  {
-    "id": 94,
-    "title": "#Bonus  逃离德黑兰 2025：一个中国人的战火逃生记",
-    "title_zh": "#Bonus  逃离德黑兰 2025：一个中国人的战火逃生记",
-    "source": "声东击西",
-    "link": "http://etw.fm/2162",
-    "tags": [
-      "inspire",
-      "science",
-      "politics",
-      "case-study"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "政治时事",
-      "案例研究"
-    ],
-    "date": "2025-06-19",
-    "summary_en": "This gripping first-person account offers a rare, on-the-ground perspective of the escalating conflict between Iran and Israel. The narrator's detailed chronicle of fleeing Tehran provides invaluable insights into the human impact of geopolitical tensions. What stands out is the juxtaposition of ordinary life continuing amidst war, and the sudden realization of danger that triggers the escape. The narrative highlights the logistical challenges of leaving a conflict zone, with particular attention to scarce resources like fuel and the unpredictable nature of border crossings. This story serves as both a cautionary tale for those in conflict zones and a compelling case study of crisis decision-making. The most poignant moments reveal how quickly stability can unravel, and the emotional toll of sudden displacement. Beyond the personal story, it raises important questions about international relations and the safety of expatriates in volatile regions.",
-    "summary_zh": "这段亲历者的逃离记录，以鲜活的细节呈现了伊朗与以色列冲突的真实人间烟火。德黑兰的日常与战火交织，直到导弹划破夜空的瞬间，平静才被打破。逃亡路上的燃油短缺、边境警察的态度、每一颗悬着的心，都生动展现了危机决策的真实困境。这不仅是个体的生存故事，更是对国际局势的深刻反思，提醒我们和平的脆弱与人性的韧性。",
-    "best_quote_en": "This is a city where life goes on as usual despite the war clouds gathering overhead",
-    "best_quote_zh": "这是一座几乎感觉不到硝烟痕迹的城市"
-  },
-  {
-    "id": 95,
-    "title": "针尖·多味听觉馆 #13：中国 PLUS｜中国商人的「非洲梦」",
-    "title_zh": "针尖·多味听觉馆 #13：中国 PLUS｜中国商人的「非洲梦」",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep13/",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2018-03-06",
-    "summary_en": "This episode of '针尖·多味听觉馆' explores the experiences of Chinese entrepreneurs in Madagascar, offering a unique anthropological perspective on cultural exchange and business challenges. The conversation with Dr. Zhang Mingshui reveals the daily realities of Chinese immigrants, their business activities, and the complex social dynamics between Chinese merchants and local communities. The discussion touches on safety concerns, perceptions of 'Made in China' products, and the evolving identity of the Chinese diaspora in Africa. What makes this content particularly valuable is its blend of personal narratives and academic insight, providing both human interest and substantive analysis of Sino-African relations.",
-    "summary_zh": "本期节目通过人类学视角，展现中国商人在马达加斯加的生存与困惑。张明源的田野调查揭示了华人移民的真实生活，从商业活动到安全问题，再到文化认同，为我们呈现了一幅更立体的非洲华人图景。尤其值得关注的是中非之间的误解与互动，这不仅是商业故事，更是文化交流与身份认同的深刻叙事。",
-    "best_quote_en": "What makes this content particularly valuable is its blend of personal narratives and academic insight.",
-    "best_quote_zh": "这不仅是商业故事，更是文化交流与身份认同的深刻叙事。"
-  },
-  {
-    "id": 96,
-    "title": "针尖·多味听觉馆 #12：中国 PLUS｜非洲，没你想象的那样「黑」",
-    "title_zh": "针尖·多味听觉馆 #12：中国 PLUS｜非洲，没你想象的那样「黑」",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep12/",
-    "tags": [
-      "learn",
-      "science",
-      "music-arts",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "音乐艺术",
-      "数据驱动"
-    ],
-    "date": "2018-02-23",
-    "summary_en": "This podcast episode challenges Western stereotypes about Africa by offering a nuanced, on-the-ground perspective from Dr. Zhang Mingshun, who conducted field research in Madagascar. It explores the daily lives of Malagasy people and the Chinese diaspora there, revealing universal human experiences that defy simplistic narratives. The discussion also serves as a mirror for China, prompting reflection on how we perceive and engage with the African continent. This episode is part of a new series, 'China PLUS,' which aims to deepen understanding of regions with growing ties to China through youth scholars' fieldwork stories.",
-    "summary_zh": "这一期播客通过马达加斯加田野调查的张明源博士视角，打破西方对非洲的刻板印象，展现当地人与华裔的真实生活状态。内容揭示了跨文化交流中常被忽略的共性人性体验，同时将非洲比作中国的一面镜子，引发对自身认知的反思。作为新系列'中国PLUS'的开篇，节目通过青年学者的田野故事，探索与中国日益密切的地区。",
-    "best_quote_en": "In Africa, people are just like us - they have happiness, desires, complaints, illnesses, passions, conflicts, helplessness, faith, and souls.",
-    "best_quote_zh": "非洲生活的人们和我们一样，有幸福，有愿望，有抱怨，有病痛，有情欲，有冲突，有无奈，有信仰，亦有灵魂。"
-  },
-  {
-    "id": 97,
-    "title": "迷幻爵士配方",
-    "title_zh": "迷幻爵士配方",
-    "source": "有待唱片店",
-    "link": "https://music.163.com/m/program?id=2057190335&radio=526995586",
-    "tags": [
-      "solve",
-      "music-arts",
-      "cybersecurity",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "音乐艺术",
-      "网络安全",
-      "案例研究"
-    ],
-    "date": "2018-10-12",
-    "summary_en": "This content appears to be a radio show episode titled '迷幻爵士配方' (Psychedelic Jazz Recipe) from the program '【有待唱片店】' (Awaiting Record Shop). The episode explores the origins of Acid Jazz, tracing it back to a playful moment when a DJ at London's Dingwalls Club played a record at a faster speed, creating a unique sound. The host Gilles Peterson and his friend Eddie Piller then founded Acid Jazz Records in 1987, bridging traditional black music with contemporary styles. The show highlights the cultural significance of Acid Jazz as a link between traditional and modern music, emphasizing its roots in black funk and jazz. The episode features a curated playlist of 11 tracks, showcasing the genre's fusion of old and new influences. This content offers valuable insights into music history and cultural evolution, making it particularly relevant for music enthusiasts and those interested in the socio-cultural aspects of music.",
-    "summary_zh": "这期节目探讨了Acid Jazz的起源，从一个DJ在伦敦Dingwalls Club的玩笑开始，最终催生了Acid Jazz唱片公司。它探索了Acid Jazz如何成为传统黑人音乐与现代流行音乐的桥梁，具有重要的文化意义。",
-    "best_quote_en": "If that was acid house, this is acid jazz",
-    "best_quote_zh": "如果那是酸屋音乐，那这就是酸爵士"
-  },
-  {
     "id": 98,
     "title": "#348  从洛杉矶的冲突说起，美国制度还能承受多少特朗普式冲击？",
     "title_zh": "#348  从洛杉矶的冲突说起，美国制度还能承受多少特朗普式冲击？",
@@ -2340,5 +2220,125 @@
     "summary_zh": "本期深度解析民主党党代会的演变，从政见交锋到明星秀场。拜登退选哈里斯接棒的特殊背景下，今年DNC的形式主义值得深思。林垚教授从政治学视角剖析，当代选举更注重表象而非实质，网红登台和社交媒体策略成为关键。这场政治集会的变迁折射出时代审美与政治传播的深刻转型。",
     "best_quote_en": "Why has the party convention transformed from a nomination battleground to a star-studded platform?",
     "best_quote_zh": "政治集会为何从初选现场演变为政治符号？"
+  },
+  {
+    "id": 193,
+    "title": "#308 反性骚扰的最高法院之战：法律如何撼动不平等的权力结构",
+    "title_zh": "#308 反性骚扰的最高法院之战：法律如何撼动不平等的权力结构",
+    "source": "声东击西",
+    "link": "http://etw.fm/2114",
+    "tags": [
+      "solve",
+      "society",
+      "legal",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "社会议题",
+      "法律法规",
+      "案例研究"
+    ],
+    "date": "2024-08-15",
+    "summary_en": "This episode delves into the complex legal and social dimensions of sexual harassment, using the recent case of Peking University professor Wang Guiyuan as a springboard. The discussion traces the evolution of sexual harassment as a legal concept, particularly focusing on landmark US Supreme Court cases that shaped current understandings. The episode argues compellingly that sexual harassment is fundamentally about power imbalances rather than personal relationships, offering insights from legal scholar Li Mingqian's translation work on American case law. The analysis of how to define 'materially altered working conditions' and the role of Justice Ginsburg provides particularly valuable legal perspective. This is more than a legal analysis - it's a call for systemic social change, positioning the fight against sexual harassment as a multi-faceted societal project.",
+    "summary_zh": "本期节目通过王贵元案引发的思考，探讨性骚扰作为法律概念的演变过程。通过分析美国最高法院的经典案例，揭示性骚扰本质是权力结构下的不平等而非私人感情问题。李明倩老师从法律史视角，结合自身翻译经历，为我们梳理了反性骚扰法律进程的关键节点。关于如何界定性骚扰对工作环境的实质性改变，以及金斯伯格大法官的贡献，都提供了极具参考价值的分析。这不仅是法律问题，更是呼吁我们建立多层次社会治理体系的重要探讨。",
+    "best_quote_en": "Sexual harassment isn't about emotions, it's about power imbalances within structural systems",
+    "best_quote_zh": "性骚扰不是情感问题，而是权力结构下的不平等"
+  },
+  {
+    "id": 194,
+    "title": "#307 另一位「底层叙事」副总统候选人沃尔兹：哈里斯和民主党的政治考量｜ 2024 Election",
+    "title_zh": "#307 另一位「底层叙事」副总统候选人沃尔兹：哈里斯和民主党的政治考量｜ 2024 Election",
+    "source": "声东击西",
+    "link": "http://etw.fm/2113",
+    "tags": [
+      "update",
+      "politics",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2024-08-09",
+    "summary_en": "This episode of the 2024 Election series delves into Kamala Harris's selection of Minnesota Governor Tim Walz as her running mate, highlighting his underdog appeal and working-class narrative. The analysis explores how Walz's background differs from Trump's VP pick JD Vance, offering a more authentic working-class story. The discussion also examines the strategic political calculations behind the choice, including balancing strengths, appealing to swing states, and addressing potential vulnerabilities around gun policy and BLM. The episode provides a nuanced look at how the Democratic ticket aims to counter the Trump-Vance narrative while navigating the complexities of American electoral politics.",
+    "summary_zh": "本期节目深入分析哈里斯选择沃尔兹作为竞选搭档的战略考量，揭示其“底层叙事”的独特优势。对比特朗普的副总统人选万斯，沃尔兹的真实经历为民主党提供了新的政治算计工具。节目探讨了竞选搭档的平衡艺术、摇摆州的影响力以及潜在的政策弱点，展现了2024年美国大选的新悬念。",
+    "best_quote_en": "Why did the Democrats choose Walz? His personal experience has become the party's political calculation for the current election cycle.",
+    "best_quote_zh": "为什么民主党会选定沃尔兹？他的个人经历又如何成就了民主党当下的政治算计？"
+  },
+  {
+    "id": 195,
+    "title": "#306 「戒断」学校、适应职场，「打怪升级」之路怎么走",
+    "title_zh": "#306 「戒断」学校、适应职场，「打怪升级」之路怎么走",
+    "source": "声东击西",
+    "link": "http://etw.fm/2108",
+    "tags": [
+      "inspire",
+      "education",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "教育学习",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2024-08-01",
+    "summary_en": "This insightful podcast episode explores the challenging transition from student life to the professional world, addressing the psychological and practical hurdles young professionals face. The discussion with guests like Xu Tao and Ou Yang Yanqin reveals how traditional education often fails to prepare students for real-world challenges, leading to issues like learned helplessness and narrow career perceptions. The episode offers valuable perspectives on overcoming job dissatisfaction, navigating workplace relationships, and reframing failure as a natural part of growth. Particularly compelling is the examination of how societal pressures around 'respectable' careers create unnecessary burdens, and how the 'quit your job' mentality isn't always the solution. The content serves as both a guide for recent graduates and a thought-provoking analysis of modern career education.",
+    "summary_zh": "这期节目深入探讨了从学生到职场人的转型困境，揭示了传统教育对现实挑战的准备不足，以及如何突破职业迷茫和心理负担。嘉宾分享了职场新人常见的困惑与成长路径，挑战了我们对",
+    "best_quote_en": "Putting up with discomfort and embracing challenges is part of the natural process of growth",
+    "best_quote_zh": "承受不适和面对挑战是成长过程中的必然"
+  },
+  {
+    "id": 196,
+    "title": "#305 拜登退选哈里斯接棒，天降女主还是权宜之计｜2024 Election",
+    "title_zh": "#305 拜登退选哈里斯接棒，天降女主还是权宜之计｜2024 Election",
+    "source": "声东击西",
+    "link": "http://etw.fm/2107",
+    "tags": [
+      "update",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2024-07-25",
+    "summary_en": "This episode delves into the significant political shift as Biden withdraws from the 2024 U.S. presidential race, endorsing Vice President Kamala Harris to run instead. The analysis goes beyond the surface-level explanation of 'protecting democracy' and explores the intricate political maneuvering within the Democratic Party that led to this decision. The show examines Harris's background as a prosecutor, her tenure as VP, and her potential advantages in facing Trump. Particularly fascinating is the discussion around Harris's viral TikTok memes, which might resonate with younger voters. The episode provides a comprehensive look at Harris's political positions and how they might shape the election, offering both historical context and forward-looking analysis.",
+    "summary_zh": "拜登退选哈里斯接棒，这场政坛地震背后隐藏着民主党的精心运筹。从检察官到副总统，哈里斯的政治生涯将如何影响大选？TikTok上的梗图能否成为年轻选民的致胜法宝？本期节目深度解析哈里斯的政治立场与竞选策略，为观众拨开迷雾，看清美国大选的新走向。",
+    "best_quote_en": "Biden's withdrawal isn't just about age or health—it's a strategic move that reveals the Democratic Party's complex internal calculations.",
+    "best_quote_zh": "拜登退选绝非单纯因年龄或健康问题，而是民主党内部权力博弈的结果。"
+  },
+  {
+    "id": 197,
+    "title": "#304 遇袭后的特朗普与被选中的万斯：「天选之子」与「寒门逆袭」的联手造梦｜2024 Election",
+    "title_zh": "#304 遇袭后的特朗普与被选中的万斯：「天选之子」与「寒门逆袭」的联手造梦｜2024 Election",
+    "source": "声东击西",
+    "link": "http://etw.fm/2106",
+    "tags": [
+      "update",
+      "politics",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "政治时事",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2024-07-19",
+    "summary_en": "This episode of 2024 Election analysis provides a compelling examination of the political narratives shaping the Republican National Convention (RNC) following Trump's assassination attempt. The show explores how Trump's 'chosen one' narrative has been amplified by the near-fatal incident, creating a powerful martyr-like image that contrasts with his family's efforts to humanize him. Meanwhile, JD Vance's 'rags-to-riches' story is dissected, revealing the calculated political strategy behind his 'blue-collar' persona and the Silicon Valley venture capital support that facilitated his rise. The analysis extends to the broader political implications of the Trump-Vance ticket, examining how their combined narratives might resonate with different voter bases. The episode also touches on Democratic Party strategies and the latest polling data, offering a comprehensive look at the current state of the 2024 election. The discussion is enriched by visual elements from the RNC, emphasizing the carefully crafted political spectacle.",
+    "summary_zh": "本期节目深入剖析了特朗普遇袭后共和党大会的政治叙事转变。通过对特朗普「天选之子」形象的强化，以及万斯「寒门逆袭」人设的解构，揭示了精心设计的政治策略。节目不仅分析了特朗普-万斯组合的政治意义，还探讨了民主党的应对策略和最新民意动态。通过现场图片，展现了共和党大会精心策划的政治秀，为2024年大选提供了独特视角。",
+    "best_quote_en": "Trump's 'chosen one' narrative has been supercharged by the assassination attempt, creating a powerful martyr-like image that contrasts with his family's efforts to humanize him.",
+    "best_quote_zh": "特朗普的“天选之子”叙事因刺杀事件被极大强化，形成一种强大的殉道者形象，与其家人人性化的塑造形成鲜明对比。"
   }
 ]
