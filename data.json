@@ -1,121 +1,5 @@
 [
   {
-    "id": 98,
-    "title": "#348  从洛杉矶的冲突说起，美国制度还能承受多少特朗普式冲击？",
-    "title_zh": "#348  从洛杉矶的冲突说起，美国制度还能承受多少特朗普式冲击？",
-    "source": "声东击西",
-    "link": "http://etw.fm/2160",
-    "tags": [
-      "update",
-      "legal",
-      "politics",
-      "case-study"
-    ],
-    "tags_zh": [
-      "动态",
-      "法律法规",
-      "政治时事",
-      "案例研究"
-    ],
-    "date": "2025-06-12",
-    "summary_en": "This podcast episode delves into the escalating constitutional tensions between the Trump administration and state governments, using the recent Los Angeles immigration raids and subsequent National Guard deployment as a case study. The discussion, featuring constitutional law professor Huang Mingtao from Wuhan University, examines the boundaries of presidential power, the role of the judiciary as a check on executive overreach, and the broader implications for America's democratic institutions. The analysis extends to Trump's pattern of legal challenges, from Harvard's lawsuit over government overreach to media restrictions, painting a picture of an administration consistently testing institutional limits. The episode raises critical questions about the sustainability of these institutional stresses and what they reveal about the resilience of American democracy.",
-    "summary_zh": "这期节目从洛杉矶移民突袭事件切入，探讨特朗普政府与州政府之间的宪法冲突。武汉大学宪法学教授黄明涛分析了总统权力的边界、司法如何成为行政权的制衡力量，以及特朗普政府持续挑战制度底线的现象。从哈佛诉讼到媒体限制，节目揭示了美国民主制度在特朗普时代面临的深层危机，引发对制度弹性和未来走向的深刻思考。",
-    "best_quote_en": "The analysis extends to Trump's pattern of legal challenges, from Harvard's lawsuit over government overreach to media restrictions, painting a picture of an administration consistently testing institutional limits.",
-    "best_quote_zh": "从哈佛诉讼到媒体限制，节目揭示了美国民主制度在特朗普时代面临的深层危机，引发对制度弹性和未来走向的深刻思考。"
-  },
-  {
-    "id": 99,
-    "title": "针尖·多味听觉馆 #11：城市里艺术地长出了农村",
-    "title_zh": "针尖·多味听觉馆 #11：城市里艺术地长出了农村",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep11/",
-    "tags": [
-      "analyze",
-      "leadership",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "领导管理",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2018-02-04",
-    "summary_en": "This podcast episode explores the transformation of urban villages in Shenzhen, particularly the Nantou Ancient City, which has become a platform for artistic expression and urban discourse. It challenges common perceptions of urban villages as merely 'dirty, chaotic, and poor' by showcasing how they can serve as spaces for cultural exhibitions and public dialogue. The discussion with Xu Yuyao, a political science researcher, delves into the complexities of urban development and the social narratives surrounding these spaces. The episode invites listeners to reconsider the potential of urban villages as sites of artistic and cultural innovation, encouraging a more nuanced understanding of urbanization and community identity.",
-    "summary_zh": "这期播客探讨了深圳城中村的转型，特别是南头古城如何成为艺术表达和城市对话的平台。它挑战了人们对城中村的常见看法，展示了它们如何成为文化展览和公共讨论的空间。与复旦大学政治学硕士徐驭尧的对话深入探讨了城市发展的复杂性及其社会叙事。这期节目邀请听众重新审视城中村作为艺术和文化创新场所的潜力，促使人们对城市化和社区身份有更深入的理解。",
-    "best_quote_en": "City villages are not just 'dirty, chaotic, and poor' but can be spaces for cultural exhibitions and public dialogue.",
-    "best_quote_zh": "城中村不只是脏乱差的街道，拥挤的楼群，廉价的出租屋里的打工者，而是可以成为艺术设计展览的空间。"
-  },
-  {
-    "id": 100,
-    "title": "迪斯科复仇记",
-    "title_zh": "迪斯科复仇记",
-    "source": "有待唱片店",
-    "link": "https://music.163.com/m/program?id=2056723647&radio=526995586",
-    "tags": [
-      "solve",
-      "design",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "音乐艺术"
-    ],
-    "date": "2018-09-28",
-    "summary_en": "The content appears to be HTML code from a web application, likely related to a music platform's user interface for login, registration, and song management. The analysis reveals several key insights: 1) The interface supports multiple login methods including mobile, third-party platforms (WeChat, QQ, Sina Weibo), and email. 2) The registration process includes verification steps and nickname creation. 3) The code contains extensive user interaction elements like comment sections, song lists, and playlist management. 4) There's a strong focus on user engagement through features like liking, sharing, and downloading songs. The technical implementation shows attention to detail in user experience, with conditional rendering and interactive elements. However, the content lacks substantive analysis or commentary, focusing primarily on functional implementation.",
-    "summary_zh": "这段内容是一个音乐平台用户界面的HTML代码，主要涉及登录、注册和歌曲管理功能。分析发现：1) 支持多种登录方式，包括手机号、第三方平台和网易邮箱。2) 注册流程包含验证步骤和昵称设置。3) 包含丰富的用户交互功能，如评论区、歌曲列表和歌单管理。4) 通过点赞、分享、下载等功能促进用户参与。技术实现上注重用户体验，采用条件渲染和交互元素。但内容偏重功能实现，缺乏深度分析或评论。",
-    "best_quote_en": "This content appears to be HTML code from a music platform interface",
-    "best_quote_zh": "这段内容是一个音乐平台用户界面的HTML代码"
-  },
-  {
-    "id": 101,
-    "title": "#349  以色列伊朗战火背后的豪赌、担忧、博弈和进退两难",
-    "title_zh": "#349 以色列伊朗战火背后的豪赌、担忧、博弈和进退两难",
-    "source": "声东击西",
-    "link": "http://etw.fm/2161",
-    "tags": [
-      "analyze",
-      "science",
-      "marketing",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "市场营销",
-      "数据驱动"
-    ],
-    "date": "2025-06-17",
-    "summary_en": "This episode delves into the sudden escalation between Israel and Iran, analyzing the motivations behind Israel's large-scale attack codenamed 'Operation Rising Lion'. The discussion explores why this confrontation occurred now, examining Israel's strategic considerations and Iran's seemingly unprepared response. The episode also covers international reactions, particularly from Middle Eastern countries and the United States, and speculates on potential future actions from all parties. Featuring guest Wen Jing, a young scholar from Tsinghua University, the conversation provides valuable insights into the complex geopolitical dynamics at play.",
-    "summary_zh": "本期节目深入分析了以色列突然对伊朗发动大规模袭击的背后原因，探讨了以色列在“狮子崛起”行动中的战略考量，以及伊朗看似不充分的准备。节目还讨论了中东各国和美国的反应，并展望了各方可能采取的下一步行动。嘉宾文晶的田野调查经验为分析增添了宝贵视角。",
-    "best_quote_en": "Why would Israel launch such a large-scale attack against Iran at this particular moment?",
-    "best_quote_zh": "以色列为什么会在这个时间点对伊朗发动如此大规模的袭击？"
-  },
-  {
-    "id": 102,
-    "title": "针尖·多味听觉馆 #10：下雪天，杭州人的胃都被它承包了",
-    "title_zh": "针尖·多味听觉馆 #10：下雪天，杭州人的胃都被它承包了",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep10/",
-    "tags": [
-      "guide",
-      "society",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "指导",
-      "社会议题",
-      "生活方式"
-    ],
-    "date": "2018-01-31",
-    "summary_en": "This episode of 针尖·多味听觉馆 offers a delightful blend of visual storytelling and culinary exploration, centered around Hangzhou's unique winter culture. Photographer Gu Yong shares his artistic perspective while revealing the hidden stories behind local delicacies like 'Pian'er Chuan' and 'Cong Bao Hun'. The program beautifully captures the intersection of food, culture, and urban life during snow season, offering listeners both sensory experiences and cultural insights. It's a charming snapshot of Hangzhou's character that transcends mere culinary guide, inviting listeners to experience the city through new senses.",
-    "summary_zh": "本期节目以杭州冬季特色为切入点，将摄影艺术与美食文化巧妙融合，展现了杭州人独特的生活智慧。顾勇老师不仅分享了摄影经验，更揭示了本地美食背后的故事，让听众在品味美食的同时，感受城市独特的文化魅力。",
-    "best_quote_en": "The program beautifully captures the intersection of food, culture, and urban life during snow season",
-    "best_quote_zh": "节目巧妙地展现了冬季期间食物、文化与城市生活的交融"
-  },
-  {
     "id": 103,
     "title": "月之暗面",
     "title_zh": "月之暗面",
@@ -2340,5 +2224,123 @@
     "summary_zh": "本期节目深入剖析了特朗普遇袭后共和党大会的政治叙事转变。通过对特朗普「天选之子」形象的强化，以及万斯「寒门逆袭」人设的解构，揭示了精心设计的政治策略。节目不仅分析了特朗普-万斯组合的政治意义，还探讨了民主党的应对策略和最新民意动态。通过现场图片，展现了共和党大会精心策划的政治秀，为2024年大选提供了独特视角。",
     "best_quote_en": "Trump's 'chosen one' narrative has been supercharged by the assassination attempt, creating a powerful martyr-like image that contrasts with his family's efforts to humanize him.",
     "best_quote_zh": "特朗普的“天选之子”叙事因刺杀事件被极大强化，形成一种强大的殉道者形象，与其家人人性化的塑造形成鲜明对比。"
+  },
+  {
+    "id": 198,
+    "title": "#303 一家名为「隐形」的机构在做的事：让最不该「隐形」的故事被看到",
+    "title_zh": "一家名为「隐形」的机构在做的事：让最不该「隐形」的故事被看到",
+    "source": "声东击西",
+    "link": "http://etw.fm/2105",
+    "tags": [
+      "update",
+      "society",
+      "writing-content",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "动态",
+      "社会议题",
+      "写作内容",
+      "数据驱动"
+    ],
+    "date": "2024-07-16",
+    "summary_en": "The Invisible Institute, a small nonprofit investigative news organization based in Chicago, has won two Pulitzer Prizes in 2024 despite having only 13 employees. Founded by social activist James Kalven, the institute focuses on marginalized stories often overlooked by mainstream media, such as police brutality cases and missing persons in Chicago's South Side. Their work emphasizes citizen accountability and social justice, showcasing the power of journalism to drive meaningful change. The podcast episode explores their unique approach, funding sources, and the impact of their investigations on Chicago society. It also highlights the challenges of long-term investigative journalism and the importance of trust in reporting. This story serves as a compelling case study of how grassroots media can amplify unheard voices and contribute to societal progress.",
+    "summary_zh": "芝加哥的隐形研究所凭借13人团队获得2024年普利策奖，展现小而美的调查新闻价值。其创始人从社会活动家转型为记者，专注挖掘社区中被忽视的弱势群体故事。从警民冲突到失踪人口，每个案例都体现新闻的社会正义功能。本期节目深入探讨其运营模式、资金来源及对芝加哥社会的影响，为公民问责提供了实践样本。",
+    "best_quote_en": "Their vision is to 'enable citizens to hold public institutions accountable'",
+    "best_quote_zh": "他们的愿景是让公民能向公共机构问责"
+  },
+  {
+    "id": 199,
+    "title": "#302 拜登之外，谁还能与特朗普一战？ 丨 2024 Election",
+    "title_zh": "#302 拜登之外，谁还能与特朗普一战？ 丨 2024 Election",
+    "source": "声东击西",
+    "link": "http://etw.fm/2104",
+    "tags": [
+      "inspire",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2024-07-10",
+    "summary_en": "This episode of 'Sheng Dong Ji Xi' delves into the aftermath of the first 2024 US presidential debate, focusing on the intense scrutiny of President Biden's candidacy. The analysis explores Biden's efforts to regain public trust amidst growing pressure from within his party and media outlets. The discussion extends to potential Democratic alternatives like Gavin Newsom, Kamala Harris, and Michelle Obama, examining their backgrounds and political viability. The episode also highlights broader political trends, including generational shifts and party dynamics. With references to expert analyses and polling data, it provides a comprehensive look at the evolving 2024 election landscape.",
+    "summary_zh": "本期节目深入分析了2024年美国总统大选首场辩论后的政治生态。拜登面临党内和选民的强烈质疑，而潜在候选人如加州州长纽森、副总统哈里斯及前第一夫人奥巴马的胜算如何？节目还探讨了美国政治的代际变迁与党内权力博弈。通过专家分析和民调数据，揭示了2024年大选的关键趋势。",
+    "best_quote_en": "Effective leadership sometimes requires stepping aside for the greater good, much like the Founding Fathers in 'Hamilton' who chose to relinquish power.",
+    "best_quote_zh": "效仿《汉密尔顿》中的国父 —— 放弃职位或许是总统能为国家做的最好的事"
+  },
+  {
+    "id": 200,
+    "title": "#301 当快乐退场，我们如何学会拥抱自己的「负面情绪」",
+    "title_zh": "#301 当快乐退场，我们如何学会拥抱自己的「负面情绪」",
+    "source": "声东击西",
+    "link": "http://etw.fm/2103",
+    "tags": [
+      "solve",
+      "psychology",
+      "marketing",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "心理学",
+      "市场营销",
+      "未来预测"
+    ],
+    "date": "2024-07-04",
+    "summary_en": "This podcast episode explores the complex emotional journey of growing up, using Pixar's 'Inside Out 2' as a lens to discuss how negative emotions like anxiety, anger, and fear become prominent as we transition from childhood. The discussion emphasizes the importance of embracing these emotions as part of self-awareness and personal growth. The hosts and guests share personal experiences and strategies for managing these emotions, offering listeners practical insights into emotional intelligence and self-acceptance. The episode also touches on cultural expectations, particularly in East Asian families, and encourages listeners to reflect on their own emotional experiences.",
+    "summary_zh": "本期节目通过《头脑特工队2》的视角，探讨了成长过程中负面情绪的必然性。主播与嘉宾分享了个人经历，探讨如何与焦虑、愤怒等情绪和解，强调接纳负面情绪对自我认知的重要性。节目还反思了东亚家庭对情绪的文化期待，引发听众对自身情感世界的深刻思考。",
+    "best_quote_en": "When happiness takes a backseat, we must learn to embrace our different emotions to better understand and love ourselves.",
+    "best_quote_zh": "在快乐偶尔退场的时刻，不妨也学会拥抱自己的不同情绪，让它们帮助我们更好地认识自己、更好地爱自己。"
+  },
+  {
+    "id": 201,
+    "title": "#300 直击美国大选首场辩论：「张口就来」和「张口结舌」的对决 丨 2024 大选系列",
+    "title_zh": "#300 直击美国大选首场辩论：「张口就来」和「张口结舌」的对决 丨 2024 大选系列",
+    "source": "声东击西",
+    "link": "http://etw.fm/2102",
+    "tags": [
+      "solve",
+      "politics",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "政治时事",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2024-06-28",
+    "summary_en": "The analysis of the first 2024 US presidential debate between Biden and Trump offers a fascinating glimpse into the fundamental divisions in American politics. This unprecedented early debate, hosted by CNN with innovative rules, revealed stark contrasts in communication styles and policy approaches. Biden's structured arguments clashed with Trump's emotional appeals, both focusing their attacks on each other while addressing key issues like economy, immigration, and foreign policy. The debate's unique format and the candidates' strategies provide valuable insights into the election dynamics and the deeper ideological rifts shaping American political discourse. The analysis goes beyond the immediate spectacle to examine how these performances might resonate with voters and influence the election outcome.",
+    "summary_zh": "拜登与特朗普的首场辩论不仅展现了两位候选人的风格差异，更反映了美国政治在根本议题上的分歧。创新的辩论规则和早于以往的时间点使这次对决充满新意。拜登的逻辑性与特朗普的情绪共鸣形成鲜明对比，双方在经济、移民等议题上的攻防揭示了选举背后的深层政治逻辑。这场辩论不仅是选情的风向标，更折射出美国社会的焦虑与分裂。",
+    "best_quote_en": "This debate wasn't just about who won, but about understanding the fundamental divides in American politics through their communication styles and policy approaches.",
+    "best_quote_zh": "这次辩论的价值不在于谁赢了，而在于通过两人表现窥见美国政治在核心议题上的根本性分歧。"
+  },
+  {
+    "id": 202,
+    "title": "一则小公告",
+    "title_zh": "一则小公告",
+    "source": "声东击西",
+    "link": "http://etw.fm/2101",
+    "tags": [
+      "update",
+      "ai-research",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "AI研究",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2024-06-20",
+    "summary_en": "The author, Xu Tao, co-founder of Shengdong Huopao, shares an update about the delay in their usual podcast series, explaining that they've been busy with another show, 'What's Next | Tech Early Bird,' during their visit to Apple's WWDC in California. Xu Tao's experience at Apple Park, including recording in the Apple Podcasts Studio with multiple cameras, provided unique insights. The two episodes cover Apple's AI advancements, particularly 'Apple Intelligence,' and reflections from visiting the Computer History Museum in Mountain View. The content highlights the evolution of computing and AI's broader accessibility, encapsulated by Apple's phrase 'AI for the rest of us.' Xu Tao encourages listeners to check out these episodes and looks forward to future content, emphasizing the value of supporter-driven innovation in their podcast network.",
+    "summary_zh": "徐涛分享了声动活泼因录制新节目「科技早知道」而延迟更新的原因，并详述了在苹果开发者大会的特殊经历。通过Apple Park录制现场的独特体验和计算机历史博物馆的参观，他深入探讨了计算机技术的演变与苹果AI的普及理念。内容既有对科技进步的思考，也体现了声动活泼通过会员支持推动内容创新的理念。",
+    "best_quote_en": "\"AI for the rest of us\"",
+    "best_quote_zh": "\"AI for the rest of us\""
   }
 ]
