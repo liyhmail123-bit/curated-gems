@@ -1,51 +1,5 @@
 [
   {
-    "id": 103,
-    "title": "月之暗面",
-    "title_zh": "月之暗面",
-    "source": "有待唱片店",
-    "link": "https://music.163.com/m/program?id=2056634556&radio=526995586",
-    "tags": [
-      "solve",
-      "design",
-      "music-arts"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "音乐艺术"
-    ],
-    "date": "2018-09-21",
-    "summary_en": "The content appears to be a collection of user interface elements and code snippets from what seems to be a music streaming platform's login and comment sections. The title '月之暗面' (The Dark Side of the Moon) suggests a connection to Pink Floyd's iconic album, which is referenced in the description of a radio program within the content. The analysis reveals a focus on user authentication methods, comment interactions, and media playback features. The inclusion of various login options, verification processes, and user profile elements indicates a comprehensive approach to user engagement. The radio program description provides a thoughtful reflection on the cultural impact of Pink Floyd's music, highlighting its enduring influence and the creative reinterpretations it has inspired. This content offers valuable insights into the intersection of technology and music culture, particularly how digital platforms facilitate access to and engagement with artistic works.",
-    "summary_zh": "内容主要展示了音乐流媒体平台的登录和评论界面元素，以及相关代码片段。标题'月之暗面'与平克·弗洛伊德经典专辑相关，节目描述中提到爵士乐团对该专辑的重新演绎。分析显示平台提供多种登录方式、验证流程和用户互动功能，体现了对用户体验的重视。节目描述深入探讨了专辑的文化影响力，反映了数字平台如何促进艺术作品的传播和互动。",
-    "best_quote_en": "The album put rock music to an unprecedented height, exploring themes of the universe, space, time, human nature, and death, reflecting the conflicts, contradictions, greed, and madness of human civilization.",
-    "best_quote_zh": "这张专辑把摇滚乐带到了一个前所未有的高度，探讨宇宙、空间和时间，人性与死亡的主题，表现人类文明的冲突、矛盾、贪婪与疯狂。"
-  },
-  {
-    "id": 104,
-    "title": "#347  给人生留一些无所事事的时间：关于留白、探索与成长的讨论",
-    "title_zh": "#347  给人生留一些无所事事的时间：关于留白、探索与成长的讨论",
-    "source": "声东击西",
-    "link": "http://etw.fm/2159",
-    "tags": [
-      "solve",
-      "education",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2025-06-05",
-    "summary_en": "This insightful discussion challenges the modern obsession with productivity and scheduled time, particularly in childhood. The episode explores how constant structure and performance expectations rob individuals of the valuable 'white space' needed for exploration and personal growth. Through expert interviews, it reveals how unstructured time serves as both mental recovery and a foundation for broader development. The content emphasizes the importance of giving ourselves and children permission to simply exist without immediate purpose, offering a refreshing counterpoint to today's always-on culture.",
-    "summary_zh": "本期节目质疑现代社会对高效时间的过度追求，尤其是儿童时期的过度安排。通过专家访谈揭示，无目标的留白时间不仅是精力修复的必要空间，更是探索自我与世界的起点。内容强调给予孩子和自己不必证明价值的时间，为忙碌生活提供深刻反思。",
-    "best_quote_en": "It's not just about what we do with our time, but how we value the spaces between doing.",
-    "best_quote_zh": "人生中那些没有明确目标、不被用来产出的留白时间，以及安心去享受它的能力同样重要"
-  },
-  {
     "id": 105,
     "title": "针尖·多味听觉馆 #9：摄影师镜头里，你不曾见过的佛系杭州",
     "title_zh": "针尖·多味听觉馆 #9：摄影师镜头里，你不曾见过的佛系杭州",
@@ -2342,5 +2296,53 @@
     "summary_zh": "徐涛分享了声动活泼因录制新节目「科技早知道」而延迟更新的原因，并详述了在苹果开发者大会的特殊经历。通过Apple Park录制现场的独特体验和计算机历史博物馆的参观，他深入探讨了计算机技术的演变与苹果AI的普及理念。内容既有对科技进步的思考，也体现了声动活泼通过会员支持推动内容创新的理念。",
     "best_quote_en": "\"AI for the rest of us\"",
     "best_quote_zh": "\"AI for the rest of us\""
+  },
+  {
+    "id": 203,
+    "title": "#298 「既要、又要、也要」，治理电动自行车真的无解吗？",
+    "title_zh": "#298 「既要、又要、也要」，治理电动自行车真的无解吗？",
+    "source": "声东击西",
+    "link": "http://etw.fm/2099",
+    "tags": [
+      "solve",
+      "tech-trends",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "技术趋势",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2024-06-06",
+    "summary_en": "This episode of 'Sheng Dong Ji Xi' delves into the complex challenges of regulating e-bikes in China, which have become essential for the 'working class' commute. With 350 million e-bikes on the road by 2022, the podcast examines the dual nature of these vehicles: they offer efficient, affordable transportation but also present significant safety and management issues. Experts from ITDP analyze the entire lifecycle of e-bikes, from production to disposal, highlighting problems like high rates of non-compliant products, chaotic parking situations, and inadequate recycling systems. The discussion also explores the tension between safety regulations and practical needs, especially for those who rely on e-bikes for livelihood. The podcast provides a nuanced look at the regulatory dilemmas and offers potential pathways for more effective governance.",
+    "summary_zh": "声动击西第298期聚焦电动自行车治理难题，探讨这一承载工人阶级出行需求的工具面临的监管挑战。从生产到回收，分析了电动自行车全生命周期中的问题，包括样品不合格率高、停车混乱等。专家提出差异化管理思路，为治理提供了新的视角。",
+    "best_quote_en": "Electric bicycles are truly the transportation tool that carries the commuting needs of the 'working class'.",
+    "best_quote_zh": "电动自行车才是真正承载「工人阶级」出行需求的交通工具。"
+  },
+  {
+    "id": 204,
+    "title": "#295 从普利策奖透视媒体进化：下一步是什么？",
+    "title_zh": "#295 从普利策奖透视媒体进化：下一步是什么？",
+    "source": "声东击西",
+    "link": "http://etw.fm/2096",
+    "tags": [
+      "analyze",
+      "science",
+      "business-model",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "商业模式",
+      "未来预测"
+    ],
+    "date": "2024-05-16",
+    "summary_en": "This podcast episode provides a fascinating analysis of the 2024 Pulitzer Prizes, revealing how the awards reflect broader trends in journalism. It explores the increasing role of AI in news reporting, the rise of nonprofit digital media, and the impact of media on public affairs. The discussion with media experts highlights the changing landscape of journalism, including the challenges faced by local media and the innovative funding models that support investigative reporting. The episode offers valuable insights into the future of media, emphasizing the importance of public service journalism and community engagement.",
+    "summary_zh": "本期节目深入解析2024年普利策奖，揭示其背后的媒体演变趋势。探讨了AI在新闻报道中的作用、非营利性网络媒体的崛起以及媒体对公共事务的影响。与媒体专家的对话展现了新闻业的转型挑战，特别是地方媒体的困境和支持调查报道的创新融资模式。节目对未来媒体发展的展望，强调了公共服务新闻和社区参与的重要性。",
+    "best_quote_en": "How can we leverage open-source intelligence to investigate the number of bombs dropped in Gaza by Israel?",
+    "best_quote_zh": "如何利用开源情报调查以色列在加沙地带投放了多少炸弹？"
   }
 ]
