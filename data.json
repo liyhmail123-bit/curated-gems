@@ -1,121 +1,5 @@
 [
   {
-    "id": 105,
-    "title": "针尖·多味听觉馆 #9：摄影师镜头里，你不曾见过的佛系杭州",
-    "title_zh": "针尖·多味听觉馆 #9：摄影师镜头里，你不曾见过的佛系杭州",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep9/",
-    "tags": [
-      "inspire",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2018-01-06",
-    "summary_en": "This episode of '针尖·多味听觉馆' offers a unique perspective on Hangzhou through the lens of renowned photographer Gu Yong. The show explores lesser-known aspects of the city - from the stories behind Lingyin Buddhist carvings to the underwater beauty of West Lake, and even the decaying steel mills. Gu Yong's dedication to capturing Hangzhou's essence, rising at 4am to photograph the lake's morning serenity, reveals both his artistic passion and deep connection to his hometown. The episode transcends typical travel content, offering cultural insights and photographic storytelling that challenges our preconceptions of this famous Chinese city.",
-    "summary_zh": "本期节目通过著名摄影家顾勇的镜头，展现了杭州不为人知的一面。从灵隐佛像背后的故事到水下西湖的奇妙景象，再到老去的钢铁厂，顾勇用镜头记录着杭州最真实的瞬间。作为杭州人，他以惊人的毅力每天清晨四点起床拍摄西湖，这种对家乡的热爱和执着，让我们看到了杭州超越旅游胜地的另一面。",
-    "best_quote_en": "'I get up at four in the morning and go to bed at nine in the evening because I was born by West Lake and live by West Lake. As a Hangzhou native, I have a responsibility to show people the beauty of West Lake.'",
-    "best_quote_zh": "我早上四点钟起床，晚上九点钟上床，因为我长在西湖边上，生活在西湖边上，作为杭州人，我有责任让大家欣赏到西湖的美景。"
-  },
-  {
-    "id": 106,
-    "title": "#346  成年人的陪伴，是一块块彼此选择的拼图",
-    "title_zh": "#346 成年人的陪伴，是一块块彼此选择的拼图",
-    "source": "声东击西",
-    "link": "http://etw.fm/2158",
-    "tags": [
-      "solve",
-      "psychology",
-      "lifestyle",
-      "case-study"
-    ],
-    "tags_zh": [
-      "解决",
-      "心理学",
-      "生活方式",
-      "案例研究"
-    ],
-    "date": "2025-05-29",
-    "summary_en": "This podcast episode explores the profound question of how we form meaningful, non-blood-related familial bonds in adulthood. Through personal stories and discussions about the animated film 'Stitch! The Movie', the hosts reflect on the nature of chosen family - those who become important parts of our lives through shared growth and mutual respect. The conversation touches on the importance of patience, trust-building, setting boundaries, and personal growth in these relationships. It's a thought-provoking examination of what makes some connections endure while others fade, offering valuable insights for anyone seeking deeper, more meaningful relationships in adulthood.",
-    "summary_zh": "成年后，我们如何与非血缘关系的人建立深厚的情感纽带？本期节目通过《星际宝贝史迪奇》的情节展开，探讨成年人如何通过时间验证和相互成长，构建属于自己的家庭。这需要耐心、信任、尊重界限和坦诚面对错误。这段对话不仅是关于陪伴的思考，更是对现代人如何建立有意义关系的深刻探索。",
-    "best_quote_en": "The process of finding these lifelong companions requires time, patience, and the willingness to grow through both success and failure together.",
-    "best_quote_zh": "寻找这些愿意在我们人生旅程中留下来的人，需要时间，需要默默的支持，也需要学会坦诚面对错误。"
-  },
-  {
-    "id": 107,
-    "title": "针尖·多味听觉馆 #8：给我未来的孩子",
-    "title_zh": "针尖·多味听觉馆 #8：给我未来的孩子",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep8/",
-    "tags": [
-      "inspire",
-      "society",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "社会议题",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2017-12-20",
-    "summary_en": "This episode of 针尖·多味听觉馆 offers a poignant reflection on parenthood and the future through the poetic reading of '给我未来的孩子'. The content serves as a thoughtful conclusion to their children's theme season, demonstrating the power of literature to connect generations. The note clarifying the poem's authorship adds an educational layer, while the call to engage with their community highlights the interactive nature of modern podcasting. This piece invites listeners to contemplate legacy and communication across time.",
-    "summary_zh": "针尖·多味听觉馆第八期通过朗读《给我未来的孩子》结束儿童主题季，用诗歌展现了对未来与亲子关系的思考。对诗歌来源的澄清增加了知识价值，而邀请听众加入社群的互动设计体现了现代播客的特性。这期内容引发我们对传承与跨时空沟通的深刻反思。",
-    "best_quote_en": "The poem serves as a bridge between generations, carrying hopes and wisdom across time.",
-    "best_quote_zh": "这首诗是跨越时空的桥梁，承载着对未来的期许与智慧。"
-  },
-  {
-    "id": 108,
-    "title": "巧克力猫王",
-    "title_zh": "巧克力猫王",
-    "source": "有待唱片店",
-    "link": "https://music.163.com/m/program?id=2056516450&radio=526995586",
-    "tags": [
-      "learn",
-      "music-arts",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "音乐艺术",
-      "未来预测"
-    ],
-    "date": "2018-09-13",
-    "summary_en": "This music podcast episode from '有待唱片店' offers a deep dive into the history and influence of electronic music, particularly focusing on the early 1990s scene. It highlights the work of Austrian electronic duo Tosca, founded by Richard Dorfmeister and Rupert Huber, and their iconic single 'Chocolate Elvis.' The episode also explores the impact of British label Ninja Tune and its founders Jonathan More and Matt Black, who pioneered the concept of DJ Food, creating music from sampled old records. The content provides a fascinating look at how jazz, funk, and soul influenced the development of trip-hop and drum & bass, making it a valuable resource for music enthusiasts and historians alike.",
-    "summary_zh": "这期播客通过奥地利电子乐队Tosca和英国独立唱片厂牌Ninja Tune的故事，展现了90年代电子音乐的起源与发展。通过采样旧唱片创作的理念，以及爵士、灵魂乐对英国年轻音乐人的影响，揭示了Trip-Hop和Drum & Bass的诞生。是了解电子音乐历史的精彩素材。",
-    "best_quote_en": "'Chocolate Elvis' by Tosca evokes the image of a chocolate Elvis Presley statue melting as he moves, symbolizing the fluid and transformative nature of music.",
-    "best_quote_zh": "巧克力铸成的猫王雕像随着身体摆动慢慢融化，象征着音乐的流动与变化。"
-  },
-  {
-    "id": 109,
-    "title": "#Bonus  我在美国教退伍军人「手搓芯片」：一位华人老师眼中的美国芯片教育雄心",
-    "title_zh": "我在美国教退伍军人「手搓芯片」：一位华人老师眼中的美国芯片教育雄心",
-    "source": "声东击西",
-    "link": "http://etw.fm/2157",
-    "tags": [
-      "inspire",
-      "science",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "科学研究",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-05-22",
-    "summary_en": "This insightful interview with Michelle Wu, a Chinese scientist teaching chip-making to US veterans, reveals the fascinating intersection of education, national security, and workforce development. The program, funded by the CHIPS Act, compresses advanced semiconductor education into 12 weeks, targeting veterans with no prior experience. What's particularly compelling is how the program addresses both technical skills and the unique challenges veterans face in transitioning to civilian careers. The discussion also touches on political factors that could influence the program's future, offering a nuanced perspective on America's efforts to strengthen its semiconductor industry through education and workforce training.",
-    "summary_zh": "华人科学家米歇尔·吴在佐治亚理工学院开设的「手搓芯片」课程，为退伍军人提供快速掌握半导体制造技术的机会。这不仅是技术教育的创新，更折射出美国在芯片战略中的人才培养野心。通过这12周的密集训练，退伍军人能否真正实现职业转型？这一项目背后的政策动机和潜在挑战，值得我们深入思考。",
-    "best_quote_en": "The CHIPS Act is about more than just chips - it's about rebuilding America's technological leadership through education and workforce development.",
-    "best_quote_zh": "《芯片与科学法案》不仅仅是关于芯片的，更是关于通过教育和人才培养重塑美国技术领导力的战略。"
-  },
-  {
     "id": 110,
     "title": "针尖·多味听觉馆 #7：人类学家告诉你真实的儿童福利院，以及被回避的性教育",
     "title_zh": "针尖·多味听觉馆 #7：人类学家告诉你真实的儿童福利院，以及被回避的性教育",
@@ -2344,5 +2228,125 @@
     "summary_zh": "本期节目深入解析2024年普利策奖，揭示其背后的媒体演变趋势。探讨了AI在新闻报道中的作用、非营利性网络媒体的崛起以及媒体对公共事务的影响。与媒体专家的对话展现了新闻业的转型挑战，特别是地方媒体的困境和支持调查报道的创新融资模式。节目对未来媒体发展的展望，强调了公共服务新闻和社区参与的重要性。",
     "best_quote_en": "How can we leverage open-source intelligence to investigate the number of bombs dropped in Gaza by Israel?",
     "best_quote_zh": "如何利用开源情报调查以色列在加沙地带投放了多少炸弹？"
+  },
+  {
+    "id": 205,
+    "title": "#368  被速度推着走的人，怎样重新找到节奏",
+    "title_zh": "#368 被速度推着走的人，怎样重新找到节奏",
+    "source": "声东击西",
+    "link": "http://etw.fm/2187",
+    "tags": [
+      "update",
+      "science",
+      "lifestyle",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "动态",
+      "科学研究",
+      "生活方式",
+      "未来预测"
+    ],
+    "date": "2025-11-13",
+    "summary_en": "In a world that feels perpetually accelerated, this podcast episode explores how individuals can reclaim their personal rhythm and maintain inner balance. The discussion spans practical strategies for energy recovery, biological perspectives on bodily rhythms, and emotional management techniques. By examining sleep patterns, exercise routines, and even AI interactions as methods of 'recharging,' the episode offers a holistic approach to finding equilibrium. The insightful conversation with industry professionals highlights the importance of creating personal 'pivot points' in life to regain control over one's pace. This content serves as both an educational resource and a reflective guide for those feeling overwhelmed by modern life's relentless speed.",
+    "summary_zh": "在这个高速运转的世界里，我们该如何找回自己的节奏？本期节目从具体经验出发，探讨如何通过科学方法和个人实践重新把握生活节奏。从生物学视角分析能量恢复，到探讨运动和情绪管理，内容既有实用指导又有深刻思考。与行业专家的对话让我们意识到，在快节奏生活中保持平衡的重要性。",
+    "best_quote_en": "We can't change the world's speed, but we can learn to balance between engagement and disengagement to find our own comfortable rhythm.",
+    "best_quote_zh": "或许我们无法改变外界的速度，但可以学着在生活的拿起与放下之间，找到平衡，找到属于我们的自在节奏。"
+  },
+  {
+    "id": 206,
+    "title": "#299 墨西哥的「血腥大选」：黑帮暴力与大国阴影下的政治觉醒 丨 2024 大选系列",
+    "title_zh": "墨西哥的「血腥大选」：黑帮暴力与大国阴影下的政治觉醒 丨 2024 大选系列",
+    "source": "声东击西",
+    "link": "http://etw.fm/2100",
+    "tags": [
+      "solve",
+      "science",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2024-06-13",
+    "summary_en": "Mexico's 2024 presidential election revealed profound political dynamics under the shadows of organized crime and U.S. influence. The election of Mexico's first female president, Claudia Sheinbaum, despite the country's patriarchal society, highlights shifting political winds. Her leftist party's landslide victory, with a 30-point margin, contrasts with global right-wing trends and suggests deep dissatisfaction with traditional politics. The election was marred by cartel violence, with dozens of candidates assassinated, exposing the state's inability to control organized crime. This violence, combined with economic dependence on the U.S. and complex border issues, paints a picture of a nation struggling to assert its sovereignty. The podcast explores how Mexico navigates these challenges while searching for an independent political path, offering valuable insights into Latin American politics and U.S.-Mexico relations.",
+    "summary_zh": "墨西哥2024年的总统大选揭示了黑帮暴力与美国影响下的深刻政治动态。克劳迪娅·谢因鲍姆成为墨西哥首位女总统，尽管社会对女性就业和发展环境不友好，这一结果反映了政治风向的变化。左翼政党以30个百分点的优势连任，与全球右翼崛起形成对比，凸显了对传统政治的不满。选举期间黑帮暴力猖獗，数十名候选人被杀，暴露了政府无力控制犯罪的现实。墨西哥高度依赖美国经济，同时面临边境问题的压力，展现了一个发展中国家在大国阴影下寻找政治道路的挣扎。这期播客探讨了这些挑战，为理解拉美政治和美墨关系提供了深刻见解。",
+    "best_quote_en": "When we observe this unusual Mexican election, we see a developing country under the shadow of a great power, exploring its own political path.",
+    "best_quote_zh": "当我们观察这届不寻常的墨西哥大选时，会看到一个处于大国阴影中的发展中国家，在如何探索自己的政治道路。"
+  },
+  {
+    "id": 207,
+    "title": "#296 「迷失」阿布扎比：谁劫持了全球化的多元表达？",
+    "title_zh": "「迷失」阿布扎比：谁劫持了全球化的多元表达？",
+    "source": "声东击西",
+    "link": "http://etw.fm/2097",
+    "tags": [
+      "solve",
+      "design",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2024-05-23",
+    "summary_en": "This podcast episode explores the paradox of globalization through the lens of Abu Dhabi's Louvre Museum. While positioned as a symbol of global cultural exchange, the museum's curation and narrative structure reveal a dominant Western perspective, marginalizing local Middle Eastern voices. The discussion with cultural researcher Wang Tianyi raises critical questions about whose stories get told in globalized spaces and how non-Western cultures can assert their own narratives. The episode contrasts this with successful local initiatives like the House of Artisans, which authentically showcases Emirati craftsmanship. It challenges listeners to reconsider what globalization truly means when cultural institutions remain entrenched in colonial frameworks.",
+    "summary_zh": "这期节目通过阿布扎比卢浮宫的案例，揭示全球化叙事中的文化霸权问题。西方视角主导的展览安排，让我们看到「全球化」背后的权力结构。王天艺的分析引发深思：非西方国家如何讲述自己的故事？对比工匠之家的成功案例，我们看到真正的多元文化交流需要本土叙事的回归。",
+    "best_quote_en": "When we talk about globalization, whose context are we really referring to? How can non-Western nations tell their own stories?",
+    "best_quote_zh": "我们说的全球化，究竟是在哪种语境下的全球化？非西方国家该如何讲述自己的故事？"
+  },
+  {
+    "id": 208,
+    "title": "#294 「局外人」总统吉米·卡特：「失意」政治家何以启示当下的世界",
+    "title_zh": "「局外人」总统吉米·卡特：「失意」政治家何以启示当下的世界",
+    "source": "声东击西",
+    "link": "http://etw.fm/2095",
+    "tags": [
+      "analyze",
+      "leadership",
+      "science",
+      "case-study"
+    ],
+    "tags_zh": [
+      "分析",
+      "领导管理",
+      "科学研究",
+      "案例研究"
+    ],
+    "date": "2024-05-09",
+    "summary_en": "This insightful podcast episode explores the political legacy of former US President Jimmy Carter, focusing on his unique leadership style and moral idealism. As a transitional figure during a historic shift, Carter's presidency offers striking parallels to contemporary political challenges. The discussion reveals how Carter's commitment to 'doing what is difficult but right' shaped his approach to domestic and international affairs, including his pivotal role in establishing US-China relations. The analysis provides valuable perspective on political leadership, particularly how principled stands can impact both personal political careers and global dynamics. This episode serves as an excellent case study for understanding the complexities of political decision-making and the long-term consequences of leadership choices.",
+    "summary_zh": "这期节目通过探讨吉米·卡特总统的政治遗产，揭示了一位坚持理想主义的领导者如何在复杂局势中做出选择。卡特的从政经历为我们理解当代政治提供了独特视角，尤其是他在中美建交等外交上的贡献。节目不仅还原了卡特的真实形象，更揭示了政治人物如何在权力与原则之间寻找平衡。对关注政治领导力与历史影响力的人而言，这期内容颇具启发意义。",
+    "best_quote_en": "He was a president who consistently chose to do 'what is difficult but right' despite political consequences.",
+    "best_quote_zh": "他始终坚持做'难而正确之事'，即使这可能影响他的政治前途。"
+  },
+  {
+    "id": 209,
+    "title": "336. 如何建立自我，如何寻找安稳？| 宝珀理想国文学奖④《以鸟兽之名》",
+    "title_zh": "336. 如何建立自我，如何寻找安稳？| 宝珀理想国文学奖④《以鸟兽之名》",
+    "source": "八分",
+    "link": "https://shop.vistopia.com.cn/article?article_id=502744",
+    "tags": [
+      "solve",
+      "design",
+      "society",
+      "deep-dive"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "社会议题",
+      "深度分析"
+    ],
+    "date": "2021-12-10",
+    "summary_en": "This episode of 《八分》 explores the novel 《以鸟兽之名》 by Sun Pinchu, which delves into themes of self-discovery and belonging. The narrative follows the protagonist's return to their rural hometown after living in urban environments, revealing the disconnection between people and nature despite the familiarity of the landscape. The content raises profound questions about identity, the search for stability, and the illusory nature of nostalgia. The accompanying Arabic music adds a poetic dimension, emphasizing the universal human experience of seeking meaning through nature and existence. This episode invites listeners to reflect on their own journeys of self-construction and the elusive quest for inner peace.",
+    "summary_zh": "《八分》本期探讨孙频殊小说《以鸟兽之名》，讲述都市人返回乡村寻找自我与归属的故事。作品揭示人与自然的疏离，挑战了乡愁的浪漫想象。配乐阿拉伯歌曲深化了对存在意义的思考，引发听众反思自我建构与安稳的探寻。",
+    "best_quote_en": "Is it not that we have lost our way, and can we find the person we're seeking?",
+    "best_quote_zh": "是谁走失了，“我”能寻到要找的那个人吗？"
   }
 ]
