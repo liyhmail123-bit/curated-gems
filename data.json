@@ -1,53 +1,5 @@
 [
   {
-    "id": 110,
-    "title": "针尖·多味听觉馆 #7：人类学家告诉你真实的儿童福利院，以及被回避的性教育",
-    "title_zh": "针尖·多味听觉馆 #7：人类学家告诉你真实的儿童福利院，以及被回避的性教育",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep7/",
-    "tags": [
-      "analyze",
-      "society",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2017-12-06",
-    "summary_en": "This episode of Zhenjian's podcast explores the often overlooked realities of Chinese orphanages through the lens of anthropological research. Dr. Qian Linliang shares insights from her fieldwork in a Zhejiang orphanage, revealing the true conditions faced by children and caregivers, as well as the taboo subject of sex education in these institutions. The discussion challenges cultural norms around corporal punishment, examines gender differences in child development, and considers appropriate compensation for caregivers. Perhaps most compelling is the emotional bond between 'foster moms' and the children in their care, illustrated through a heartwarming story. This episode serves as both an eye-opening expose and a call for systemic improvements in China's child welfare system.",
-    "summary_zh": "本期节目通过人类学视角揭示中国儿童福利院的真实状况。钱霖亮讲师分享田野调查所见，揭开性教育等被忽视话题。讨论涉及体罚文化、性别差异、保育员待遇等敏感议题，最终以感人故事展现养育者与儿童间的特殊情感纽带。节目既是社会问题的深度剖析，也是对儿童福利体系的反思。",
-    "best_quote_en": "The emotional bond between 'foster moms' and orphanage children is a complex relationship that challenges our conventional understanding of family.",
-    "best_quote_zh": "福利院里保育员妈妈与儿童之间的情感关系，是一种挑战我们对家庭传统理解的复杂情感纽带。"
-  },
-  {
-    "id": 111,
-    "title": "#345 从零开始的第一槌：1990 年代中国艺术品拍卖市场建立背后的故事",
-    "title_zh": "#345 从零开始的第一槌：1990 年代中国艺术品拍卖市场建立背后的故事",
-    "source": "声东击西",
-    "link": "http://etw.fm/2156",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "design",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "设计创意",
-      "案例研究"
-    ],
-    "date": "2025-05-15",
-    "summary_en": "This episode of Sheng Dong Hu Tong takes us back to the early 1990s when China's art market was non-existent. The story focuses on the establishment of China Guardian Auctions, the first institution to introduce market-based art auctions to China, successfully auctioning works by Zhang Daqian and Qi Baishi. The interview with China Guardian's founder, Chen Dongsheng, reveals the challenges and strategies behind this groundbreaking initiative, including negotiating with cultural authorities and attracting Hong Kong and Taiwan buyers. The episode also connects to the current exhibition at Taikang Art Museum, celebrating 1980s and 1990s Chinese contemporary art. It's a fascinating exploration of how art became a market commodity in China and the cultural shifts that accompanied this transformation.",
-    "summary_zh": "这期节目带我们回到1990年代中国艺术品市场的起点，讲述嘉德创始人陈东升如何在政策与市场的双重挑战下，推动艺术品拍卖市场的诞生。从第一场拍卖的策划到与文物局的谈判，再到港台买家的意外支持，每个细节都揭示了中国艺术市场化进程的曲折与智慧。节目中提到的泰康美术馆展览，更让我们看到了艺术与时代变革之间的深刻联系。",
-    "best_quote_en": "The first auction was like the first hammer strike that set the entire art market in motion.",
-    "best_quote_zh": "第一场拍卖就像敲响了艺术市场的第一槌，推动了整个行业的发展。"
-  },
-  {
     "id": 112,
     "title": "针尖·多味听觉馆 #6：摄像头能帮助我们更好地预防性暴力的发生吗？",
     "title_zh": "针尖·多味听觉馆 #6：摄像头能帮助我们更好地预防性暴力的发生吗？",
@@ -2348,5 +2300,53 @@
     "summary_zh": "《八分》本期探讨孙频殊小说《以鸟兽之名》，讲述都市人返回乡村寻找自我与归属的故事。作品揭示人与自然的疏离，挑战了乡愁的浪漫想象。配乐阿拉伯歌曲深化了对存在意义的思考，引发听众反思自我建构与安稳的探寻。",
     "best_quote_en": "Is it not that we have lost our way, and can we find the person we're seeking?",
     "best_quote_zh": "是谁走失了，“我”能寻到要找的那个人吗？"
+  },
+  {
+    "id": 210,
+    "title": "#297 印度大选：一盘宗教与种姓交错的精英棋局丨2024大选系列",
+    "title_zh": "印度大选：一盘宗教与种姓交错的精英棋局丨2024大选系列",
+    "source": "声东击西",
+    "link": "http://etw.fm/2098",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2024-05-31",
+    "summary_en": "This episode of Sheng FM provides a deep dive into the complexities of India's 2024 elections, which involve 970 million voters and span seven phases. The analysis highlights India's unique political landscape, where Modi's government balances religious nationalism with economic liberalization. Expert Huang Yinghong from O.P. Jindal Global University offers insights into the interplay between religion, caste politics, and economic policies. The discussion reveals how India's political elite navigates these tensions while positioning the country as a global player. This content is particularly valuable for those interested in international politics, South Asian studies, and the intersection of religion and governance.",
+    "summary_zh": "本期节目深入解析印度2024年大选的复杂性，9.7亿选民分七阶段投票，反映了印度独特的政治生态。莫迪政府在宗教民族主义与经济自由主义间求平衡，黄迎虹教授揭示了宗教、种姓政治与经济政策的交织。精英阶层如何在全球化与本土化间游走，为关注国际政治、南亚研究及宗教治理的观众提供了独特视角。",
+    "best_quote_en": "Flouting religious issues is a path dependency in Indian politics",
+    "best_quote_zh": "炒作宗教议题是印度政治的路径依赖"
+  },
+  {
+    "id": 211,
+    "title": "#290 被推崇与被反对的自行车，以及背后的争吵与争夺",
+    "title_zh": "#290 被推崇与被反对的自行车，以及背后的争吵与争夺",
+    "source": "声东击西",
+    "link": "http://etw.fm/2091",
+    "tags": [
+      "solve",
+      "science",
+      "politics",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "政治时事",
+      "未来预测"
+    ],
+    "date": "2024-03-28",
+    "summary_en": "This episode explores the counterintuitive phenomenon of European countries opposing bicycles to protect car owners' interests, framing cycling as an elite activity. The discussion delves into the political, economic, and social dimensions of urban transportation, challenging traditional notions of road rights. Expert Liu Daizong from ITDP provides a comprehensive analysis of bicycle infrastructure's impact on cities, including traffic efficiency, environmental benefits, and economic vitality. The episode also examines the cultural shift that has turned cycling into a symbol of privilege, raising important questions about equitable urban planning and the true cost of car-centric policies.",
+    "summary_zh": "这期节目探讨了欧洲部分国家反对骑行以保护汽车主权益的矛盾现象，揭示了自行车被贴上精英标签的社会背景。交通专家刘岱宗从政治经济学视角解构了城市交通权的分配逻辑，提出以人为本的运输效率评估方法。节目深入分析了自行车对城市活力、商业繁荣和环境保护的多重价值，挑战了汽车主导的交通体系，呼吁重新思考城市空间的公平使用。",
+    "best_quote_en": "Road rights are rights, not privileges",
+    "best_quote_zh": "路权是权利，而非特权"
   }
 ]
