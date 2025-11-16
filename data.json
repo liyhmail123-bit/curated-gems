@@ -1,77 +1,5 @@
 [
   {
-    "id": 112,
-    "title": "针尖·多味听觉馆 #6：摄像头能帮助我们更好地预防性暴力的发生吗？",
-    "title_zh": "针尖·多味听觉馆 #6：摄像头能帮助我们更好地预防性暴力的发生吗？",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep6/",
-    "tags": [
-      "solve",
-      "education",
-      "ai-research",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "教育学习",
-      "AI研究",
-      "争议观点"
-    ],
-    "date": "2017-11-29",
-    "summary_en": "This podcast episode explores the complex interplay between technology and child safety, specifically examining whether surveillance cameras can effectively prevent sexual violence. The discussion extends to post-trauma psychological treatment for affected children and the critical importance of comprehensive sex education. The guests bring academic expertise and practical insights, framing the conversation around both technological solutions and educational approaches. Particularly compelling is the emphasis on empowering children with knowledge of self-protection while maintaining their emotional well-being. The episode bridges technical discussions with deeply humanistic concerns, offering valuable perspectives for educators, policymakers, and parents alike.",
-    "summary_zh": "这期播客探讨了技术与儿童安全之间的复杂关系，尤其是监控摄像头在预防性暴力中的作用。讨论延伸到受害儿童的心理创伤治疗及全面性教育的重要性。嘉宾结合学术背景和实践经验，将技术讨论与人文关怀结合，为教育工作者、政策制定者和家长提供了宝贵的视角。",
-    "best_quote_en": "\"We sincerely hope that 'such things' will never happen to any child.\"",
-    "best_quote_zh": "「希望这样的事以后不会发生在我身上。」我们衷心希望，「这样的事」不会发生在任何一个孩子身上。"
-  },
-  {
-    "id": 113,
-    "title": "灵魂歌王的音乐世界",
-    "title_zh": "灵魂歌王的音乐世界",
-    "source": "有待唱片店",
-    "link": "https://music.163.com/m/program?id=2056321370&radio=526995586",
-    "tags": [
-      "learn",
-      "science",
-      "music-arts",
-      "beginner-friendly"
-    ],
-    "tags_zh": [
-      "学习",
-      "科学研究",
-      "音乐艺术",
-      "新手友好"
-    ],
-    "date": "2018-09-01",
-    "summary_en": "This podcast episode pays tribute to Solomon Burke, the 'King of Rock'n'Soul,' who tragically passed away in 2010. Born in Philadelphia in 1940, Burke was a former preacher who blended country and gospel music to create his unique 'Country Soul' sound. His distinctive style, often compared to a pastor preaching in church, conveyed messages of love and comfort. The episode features 14 of his most iconic songs, showcasing his enduring influence on popular music. Burke's music continues to resonate, offering solace and warmth to listeners, especially during difficult times. The podcast highlights his legacy as a voice that transcended boundaries and genres, leaving an indelible mark on the music world.",
-    "summary_zh": "本期节目纪念2010年去世的灵魂乐传奇人物Solomon Burke。这位费城出生的前牧师将乡村音乐与福音音乐完美融合，创造了独特的",
-    "best_quote_en": "In every cold and dark night, he saved countless lonely souls with his voice.",
-    "best_quote_zh": "在每一个寒冷而又黑暗的夜晚拯救过无数个孤独灵魂的声音——Solomon Burke"
-  },
-  {
-    "id": 114,
-    "title": "#344 是母亲也是劳动者，美国最高法院如何回应职场中的母职惩罚",
-    "title_zh": "#344 是母亲也是劳动者，美国最高法院如何回应职场中的母职惩罚",
-    "source": "声东击西",
-    "link": "http://etw.fm/2155",
-    "tags": [
-      "solve",
-      "society",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-05-08",
-    "summary_en": "This podcast episode explores the systemic challenges mothers face in the workplace, framing it as the 'motherhood wall.' Through four landmark U.S. Supreme Court cases, it examines how motherhood can lead to workplace discrimination and the legal protections available. The discussion covers topics like pregnancy discrimination, gender equality paradoxes, and the historical case that pushed for maternity leave laws. It also touches on internal feminist disagreements and the broader societal structures that perpetuate these issues. The episode invites listeners to share their own experiences with workplace discrimination related to motherhood, fostering a dialogue about this critical issue.",
-    "summary_zh": "本期节目聚焦职场中女性因母亲身份遭遇的系统性挑战，称其为“母亲墙”。通过分析四个美国最高法院案例，揭示母职带来的职场不公及法律保障。讨论涵盖怀孕歧视、性别平等的矛盾，以及推动产假立法的历史案件。节目还探讨女权主义者内部的分歧和社会结构对母职歧视的维系，并邀请听众分享个人经历，引发对这一重要议题的深入对话。",
-    "best_quote_en": "Because becoming a mother can lead to workplace discrimination, the podcast explores how legal protections aim to balance care responsibilities with professional equality.",
-    "best_quote_zh": "成为母亲可能导致职场歧视，节目探讨法律如何在照护责任与职业平等之间寻求平衡。"
-  },
-  {
     "id": 115,
     "title": "罗密欧与朱丽叶",
     "title_zh": "罗密欧与朱丽叶",
@@ -2348,5 +2276,77 @@
     "summary_zh": "这期节目探讨了欧洲部分国家反对骑行以保护汽车主权益的矛盾现象，揭示了自行车被贴上精英标签的社会背景。交通专家刘岱宗从政治经济学视角解构了城市交通权的分配逻辑，提出以人为本的运输效率评估方法。节目深入分析了自行车对城市活力、商业繁荣和环境保护的多重价值，挑战了汽车主导的交通体系，呼吁重新思考城市空间的公平使用。",
     "best_quote_en": "Road rights are rights, not privileges",
     "best_quote_zh": "路权是权利，而非特权"
+  },
+  {
+    "id": 212,
+    "title": "#292 从实验到民生：一种疫苗如何走向全民",
+    "title_zh": "#292 从实验到民生：一种疫苗如何走向全民",
+    "source": "声东击西",
+    "link": "http://etw.fm/2093",
+    "tags": [
+      "solve",
+      "science",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2024-04-18",
+    "summary_en": "This podcast episode explores the complex journey of HPV vaccines from research to public health implementation. It highlights critical yet often overlooked facts, such as the importance of vaccinating adolescent girls and the potential benefits for boys in preventing cervical cancer. The discussion delves into why HPV vaccines remain scarce in China and what factors determine their inclusion in national immunization programs. Experts like Professor Jiao Youlin and Du Hong from the Bill & Melinda Gates Foundation analyze the scientific, policy, economic, and social considerations behind vaccine distribution. The episode also examines the global context, comparing China's situation with practices in developed countries where free HPV vaccinations are available for both genders. With insights into the delayed inclusion of hepatitis B vaccines in China's immunization schedule and the broader challenges of public health policy, this episode offers a nuanced perspective on vaccine accessibility and the intricate process of turning medical advancements into public health benefits.",
+    "summary_zh": "这期节目深入探讨了HPV疫苗从实验室到普及的复杂之路，揭示了许多容易被忽视的关键事实。专家们分析了中国疫苗供应紧张的原因，以及哪些因素决定了疫苗能否纳入国家免疫规划。对比国际经验，节目揭示了公共卫生决策中的科学、政策、经济和社会考量。特别是通过宫颈癌防控专家乔友林教授和比尔及梅琳达·盖茨基金会杜珩的视角，我们看到疫苗推广不仅是技术问题，更是涉及多方利益的系统工程。节目让我们重新思考如何让医学突破真正惠及民生，以及公共卫生政策如何影响每个人的健康未来。",
+    "best_quote_en": "Why hasn't the HPV vaccine been included in China's immunization program? What factors determine whether a vaccine is included in the national immunization schedule?",
+    "best_quote_zh": "为什么HPV疫苗没有纳入免疫规划？又是什么样的疫苗，才能被纳入国家免疫规划？"
+  },
+  {
+    "id": 213,
+    "title": "#291 被误解的沙尘暴、荒漠和真实的沙丘",
+    "title_zh": "#291 被误解的沙尘暴、荒漠和真实的沙丘",
+    "source": "声东击西",
+    "link": "http://etw.fm/2092",
+    "tags": [
+      "analyze",
+      "science",
+      "environment",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "环境科学",
+      "数据驱动"
+    ],
+    "date": "2024-04-11",
+    "summary_en": "This podcast episode challenges common misconceptions about deserts, sandstorms, and sand dunes, presenting them as essential ecological systems rather than mere environmental threats. Featuring expert Lu Qi, a researcher from the Chinese Academy of Forestry's Desertification Research Institute, the discussion reveals how sandstorms play crucial roles in ecosystem formation and nutrient distribution. The episode explores the delicate balance between conservation and human use of desert ecosystems, offering a nuanced perspective on environmental protection. With compelling field research examples and ecological insights, it transforms our understanding of these often-misunderstood landscapes.",
+    "summary_zh": "这期节目颠覆了我们对沙尘暴、荒漠和沙丘的传统认知，揭示它们作为地球不可或缺生态系统的真实面貌。通过荒漠化研究专家卢琦的第一手科考经历，我们了解到沙尘暴对生态系统的建设性作用，以及荒漠保护与人类利用之间的微妙平衡。这段旅程不仅纠正了常见的环境误解，还让我们以全新视角看待地球的沙漠生态。",
+    "best_quote_en": "Without sandstorms, there would be no Loess Plateau",
+    "best_quote_zh": "没有沙尘暴，就没有黄土高原"
+  },
+  {
+    "id": 214,
+    "title": "#289 神秘主义与帝国雄心：被东正教塑造的俄罗斯",
+    "title_zh": "#289 神秘主义与帝国雄心：被东正教塑造的俄罗斯",
+    "source": "声东击西",
+    "link": "http://etw.fm/2090",
+    "tags": [
+      "analyze",
+      "society",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "社会议题",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2024-03-21",
+    "summary_en": "This episode delves into the unique national character of Russia, shaped by its Eastern Orthodox faith, exploring how this religion has influenced its philosophy, literature, and political ambitions. The discussion traces Russia's historical roots, examining why it adopted Eastern Orthodoxy from Byzantine Greece and how this choice differentiated it from Western Christianity. The episode also analyzes the ongoing tension between church and state, Russia's self-perception as the 'Third Rome,' and its philosophical traditions that prioritize existential questions over logical debate. By understanding these historical and religious underpinnings, we gain deeper insight into contemporary Russian geopolitics and cultural identity.",
+    "summary_zh": "本期节目深入探讨了东正教如何塑造俄罗斯民族独特的气质，从历史起源、宗教选择到文化影响，揭示了俄罗斯哲学、文学与政治野心背后的深层逻辑。通过教权与王权的博弈和'第三罗马'的历史使命感，我们得以理解俄罗斯独特的世界观，这也为解读当代俄罗斯的地缘政治提供了重要视角。",
+    "best_quote_en": "Russians love to talk about life and death, their literature excels at exploring human darkness, and beneath their tough exterior lies a soul filled with sensibility and mysticism.",
+    "best_quote_zh": "俄罗斯人喜欢谈论生与死，他们的文学擅长挖掘人性的黑暗，表面强硬内里却充满感性和神秘主义的气息。"
   }
 ]
