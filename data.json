@@ -1,99 +1,5 @@
 [
   {
-    "id": 119,
-    "title": "#343  做不被风吹走的那一粒沙：在 AI 的时代找回文科教育的核心价值",
-    "title_zh": "做不被风吹走的那一粒沙：在 AI 的时代找回文科教育的核心价值",
-    "source": "声东击西",
-    "link": "http://etw.fm/2153",
-    "tags": [
-      "analyze",
-      "education",
-      "writing-content",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "教育学习",
-      "写作内容",
-      "未来预测"
-    ],
-    "date": "2025-04-24",
-    "summary_en": "This podcast episode tackles a critical question in the age of AI: what is the core value of liberal arts education when AI can summarize texts and even write novels? The discussion, featuring a veteran high school Chinese teacher and a renowned journalist, explores how to define 'liberal arts' and what humanities education should aim for in the future. It delves into how language classes can cultivate human agency and emotional intelligence that AI lacks, and how to develop the resilience to remain 'a grain of sand that won't be blown away' in the face of AI's impact on various professions. The conversation is both timely and profound, offering valuable insights for educators, students, and anyone concerned about the future of human-centric education.",
-    "summary_zh": "在AI时代，当AI能够快速总结文章、写作时，文科教育的核心价值是什么？这期节目通过资深语文教师与知名记者的对话，探讨了如何定义文科，以及未来语文教育的方向。特别是如何通过语文课唤起人的主体性，培养AI无法替代的能力。对教育者、学生以及关注人文发展的听众来说，这场讨论既及时又深刻。",
-    "best_quote_en": "How do we become 'a grain of sand that won't be blown away' in the age of AI?",
-    "best_quote_zh": "我们如何在AI时代做到不被风吹走的那一粒沙？"
-  },
-  {
-    "id": 120,
-    "title": "针尖·多味听觉馆 #4：西北偏北——跟着民国历史大家重游故地",
-    "title_zh": "针尖·多味听觉馆 #4：西北偏北——跟着民国历史大家重游故地",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep4/",
-    "tags": [
-      "solve",
-      "society",
-      "education",
-      "deep-dive"
-    ],
-    "tags_zh": [
-      "解决",
-      "社会议题",
-      "教育学习",
-      "深度分析"
-    ],
-    "date": "2017-10-23",
-    "summary_en": "This podcast episode takes listeners on a historical journey through northwest China, following the footsteps of renowned historian Gu Jiegang during his 1939 expedition. The episode explores two fascinating locations—Min County and Linxia—through the lens of Gu's field notes. It offers a unique blend of historical perspective, cultural exploration, and contemporary observations, connecting past and present through meticulous research and vivid storytelling. The discussion covers everything from traditional medicine markets to local cuisine, literary references, and ongoing urban transformation, creating a rich tapestry of northwest China's cultural heritage and modern development.",
-    "summary_zh": "这期播客带我们跟随民国历史学家顾颉刚的考察日记，重游大西北的岷县和临夏。通过历史视角与当代观察的交织，揭示了西北地区丰富的文化遗产与现代变迁。从国际药材中心到地方小吃，从文学作品中的河州到外国学者的田野笔记，再到正在改造的八坊，节目以细腻的叙事和深厚的研究，呈现了一个立体的西北故事。",
-    "best_quote_en": "The intersection of history and contemporary life in northwest China reveals both the enduring spirit of the region and the dynamic forces shaping its future.",
-    "best_quote_zh": "历史与当代生活的交织，展现了西北地区既有的文化韧性与正在塑造未来的动态力量。"
-  },
-  {
-    "id": 121,
-    "title": "#365  声东击西九周年，在创作的快乐和痛苦中反复横跳",
-    "title_zh": "声东击西九周年，在创作的快乐和痛苦中反复横跳",
-    "source": "声东击西",
-    "link": "http://etw.fm/2184",
-    "tags": [
-      "update",
-      "science",
-      "design",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "科学研究",
-      "设计创意",
-      "数据驱动"
-    ],
-    "date": "2025-10-23",
-    "summary_en": "This episode marks the ninth anniversary of '声东击西' (East Strike West), a podcast that has weathered challenges while continuing to innovate. The hosts reflect on the past year's difficulties and creative breakthroughs, sharing behind-the-scenes stories about their bonus content production and the uncertainties that come with innovation. They also discuss their existential questions about the podcast's purpose and the diverse interests that fuel their creativity, from watching historical dramas to rock climbing. The episode offers a candid look at the emotional rollercoaster of long-term content creation and the personal passions that sustain it.",
-    "summary_zh": "这期节目揭秘了「声东击西」九周年幕后的创作故事，展现了团队在持续创新中遇到的困惑与快乐。从节目制作中的曲折经历到对内容意义的深刻思考，再到攀岩、养鱼等生活方式如何成为创作的动力源泉，这期节目生动展现了一个优秀团队在创作中的坚持与探索。",
-    "best_quote_en": "We've been creating for nine years, and yet every year still brings new challenges and innovations.",
-    "best_quote_zh": "磕磕绊绊烦烦恼恼，「声东击西」已经更新了九年，正奔着第十年而去。"
-  },
-  {
-    "id": 122,
-    "title": "针尖·多味听觉馆 #3：我知道你不知道的地方——平凉",
-    "title_zh": "针尖·多味听觉馆 #3：我知道你不知道的地方——平凉",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep3/",
-    "tags": [
-      "analyze",
-      "society",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "数据驱动"
-    ],
-    "date": "2017-09-19",
-    "summary_en": "This podcast episode offers a deeply personal and cultural exploration of Pingliang, a often-overlooked city in northwest China. Through conversations between host Xiao Shui Mu and a friend known as Er Shixiong, listeners gain insights into the region's history, geography, and cultural heritage. The discussion covers family migration stories, water scarcity challenges, apple cultivation, and the historical legacy of the Western Xia Kingdom. What makes this episode particularly valuable is its ability to humanize often stereotyped regions and reveal the rich, complex narratives that exist beneath surface perceptions. The inclusion of original music by Su Miao adds emotional depth, while the promised future episodes about other underrepresented northwest cities create anticipation for further cultural discovery.",
-    "summary_zh": "这期播客以平凉为切入点，展现了一个常被忽视的西北城市的深层文化与历史。通过主播小水母与二师兄的对话，我们听到了家族迁徙、水荒记忆、苹果种植等真实故事，以及西夏王国等历史的生动讲述。节目特别的价值在于它打破了对西北地区的刻板印象，揭示了更丰富的地域叙事。苏淼的原创音乐增添了情感深度，而接下来关于岷县和临夏的专题更让人期待。",
-    "best_quote_en": "This is a region where geography and history collide in fascinating ways, creating a cultural mosaic that's often overlooked.",
-    "best_quote_zh": "这是一个地理与历史碰撞的地方，形成了常被忽视的文化拼图。"
-  },
-  {
     "id": 123,
     "title": "爱的卫星",
     "title_zh": "爱的卫星",
@@ -2352,5 +2258,101 @@
     "summary_zh": "这期节目揭示了历史上女建筑师被系统性忽视的现象，殷宝宁教授揭露了林徽因等女性面临的职业壁垒和创作归属问题。女性主义建筑史不仅是纠正历史错误，更是重塑当下设计理念。女建筑师的独特视角关注人本主义和生活细节，节目通过多位被边缘化的建筑师案例，反思维基百科等平台的性别偏见，呼吁从个人英雄叙事转向包容性的女性主义关怀。",
     "best_quote_en": "Architectural design shapes our living spaces, participates in our daily activities, and influences our understanding of life's meaning.",
     "best_quote_zh": "建筑设计塑造了我们的生活空间，参与了我们的生活活动，也影响了我们对于生活意义的思考。"
+  },
+  {
+    "id": 219,
+    "title": "#285 高铁建在哪儿：一场关于资源分配的漫长选秀",
+    "title_zh": "高铁建在哪儿：一场关于资源分配的漫长选秀",
+    "source": "声东击西",
+    "link": "http://etw.fm/2086",
+    "tags": [
+      "solve",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2024-02-21",
+    "summary_en": "This podcast episode explores the complex dynamics behind China's high-speed rail (HST) construction, framed as a prolonged competition for resource allocation between central and local governments. Through the lens of political and economic analysis, Professor Ma Xiao reveals the intricate approval processes, uncertain public mobilization, and performance-driven incentives that characterize HST development. The discussion highlights how local governments strategically promote their regions, with the stakes particularly high for third- and fourth-tier cities where HST projects can be make-or-break for regional development. The episode also touches on how HST construction reflects broader governance challenges and the political economy of infrastructure development in China.",
+    "summary_zh": "本期播客从政治学和经济学视角剖析中国高铁建设的复杂博弈，揭示审批过程、公众动员的不确定性及绩效驱动的动力。马啸教授的分析展现地方政府如何挖掘自身优势争夺高铁路线，尤其对三四线城市而言，高铁建设已成为发展生死攸关的豪赌。这场资源分配的漫长选秀，不仅反映基建决策的政治经济学逻辑，更折射当下中国地方发展路径的多样性与激烈竞争。",
+    "best_quote_en": "This is a competition to address information asymmetry, fundamentally a survival battle.",
+    "best_quote_zh": "这是一场应对信息不对称的竞争，本质上，也是一场生存之战。"
+  },
+  {
+    "id": 220,
+    "title": "#284 写计划这么多年，我们有进化吗？",
+    "title_zh": "#284 写计划这么多年，我们有进化吗？",
+    "source": "声东击西",
+    "link": "http://etw.fm/2085",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "science",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "科学研究",
+      "未来预测"
+    ],
+    "date": "2024-01-25",
+    "summary_en": "This podcast episode explores the diverse approaches to planning and the underlying philosophies that shape how people create and execute plans. The discussion highlights that there's no one-size-fits-all approach to planning, as each individual's method is influenced by their unique experiences and perspectives. The hosts and guests share personal insights on how planning helps them understand themselves better and navigate uncertainty. The episode emphasizes that the true value of planning lies not in the plans themselves, but in the self-discovery and adaptability it fosters. With 2024 bringing continued uncertainty, the podcast encourages listeners to use planning as a tool to move towards their goals while embracing the unexpected journey.",
+    "summary_zh": "这期播客探讨了人们做计划的多样化方法和背后的思考框架，强调计划没有标准答案，关键在于通过计划接近自我。在充满不确定性的2024年，与其执着于计划本身，不如将其作为探索内心愿景的工具，在跌跌撞撞中发现意料之外的风景。",
+    "best_quote_en": "In making plans, we approach ourselves and sail towards distant places; the key lies not in the methods, but in the vision of the voyager: who we are, what we want, and those bumpy experiences along the way, as well as the unexpected scenery.",
+    "best_quote_zh": "在做计划中，我们接近自己，驶向远方；关键不在于方式和手段本身，而在于航行者自身的愿景：我们是谁，我们想要的是什么，以及一路上那些跌跌撞撞的感受，和意料之外的风景。"
+  },
+  {
+    "id": 221,
+    "title": "#282 请收下这枚记录 2023 年的声音时光胶囊",
+    "title_zh": "#282 请收下这枚记录 2023 年的声音时光胶囊",
+    "source": "声东击西",
+    "link": "http://etw.fm/2083",
+    "tags": [
+      "inspire",
+      "lifestyle",
+      "ai-research",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "生活方式",
+      "AI研究",
+      "未来预测"
+    ],
+    "date": "2023-12-24",
+    "summary_en": "This podcast episode offers a reflective journey through 2023, challenging the notion that the year represented a full 'return to normalcy.' By curating significant voices from individuals to societal trends, it creates a sonic time capsule that captures emotional resonance and collective memories. The content goes beyond mere reminiscence, serving as both historical documentation and emotional companion for listeners entering 2024. The episode also highlights the podcast network's growth and innovation, funded by listener support, and teases upcoming content. It's a compelling blend of cultural documentation and media business evolution.",
+    "summary_zh": "这期节目质疑了2023年「恢复正常」的说法，通过收录个人与时代的重要声音，打造一枚情感与记忆的时光胶囊。它不仅是历史档案，更是陪伴听众走向新生活的情感伴侣。节目还展示了声动活泼通过会员支持实现的内容创新，并预告2024年的新计划，展现了播客行业的创新与商业模式的发展。",
+    "best_quote_en": "The program aims to capture 'those voices worth remembering and cherishing from individuals to the era'",
+    "best_quote_zh": "期待这期节目能够说出一部分你今年的情绪和回忆"
+  },
+  {
+    "id": 222,
+    "title": "#280 美国权力的运转，奥本海默，中东冲突和一位传记作家 | 中文版",
+    "title_zh": "#280 美国权力的运转，奥本海默，中东冲突和一位传记作家 | 中文版",
+    "source": "声东击西",
+    "link": "http://etw.fm/2082",
+    "tags": [
+      "inspire",
+      "writing-content",
+      "tech-trends",
+      "case-study"
+    ],
+    "tags_zh": [
+      "启发",
+      "写作内容",
+      "技术趋势",
+      "案例研究"
+    ],
+    "date": "2023-12-22",
+    "summary_en": "This episode explores the power of biography as a lens to understand history and power structures through the work of Kai Bird, a historian and biographer who has spent his career examining influential yet often overlooked figures in American politics and science. Bird's unique perspective, shaped by his upbringing in the Middle East, allows him to navigate complex historical narratives with cultural sensitivity. The discussion highlights figures like John McCloy, Jimmy Carter, and J. Robert Oppenheimer, demonstrating how their lives reveal broader patterns in American power dynamics. The episode also draws parallels between historical threats like nuclear weapons and contemporary challenges posed by AI, questioning humanity's ability to learn from history. Bird's work serves as a reminder of the importance of historical reflection in understanding our present and future.",
+    "summary_zh": "本期通过凯·伯德的传记写作，探讨传记如何揭示历史与权力运作的复杂性。伯德的中东成长经历赋予其独特视角，让他能深入挖掘麦克洛伊、卡特等历史人物背后的故事。从核威胁到AI挑战，人类似乎未能从历史中吸取教训，巴以冲突依然持续。传记不仅是个人故事，更是时代的镜像，提醒我们反思历史的重要性。",
+    "best_quote_en": "Humanity seems unable to learn from history as we face new threats like AI while old conflicts like those in the Middle East persist.",
+    "best_quote_zh": "人类似乎无法从历史中吸取教训，面对AI等新威胁时，像中东冲突这样的旧问题依然持续。"
   }
 ]
