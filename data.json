@@ -1,77 +1,5 @@
 [
   {
-    "id": 123,
-    "title": "爱的卫星",
-    "title_zh": "爱的卫星",
-    "source": "有待唱片店",
-    "link": "https://music.163.com/m/program?id=1370508466&radio=526995586",
-    "tags": [
-      "inspire",
-      "music-arts",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "音乐艺术",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2018-08-05",
-    "summary_en": "This music podcast episode titled 'Loving Satellite' presents a cosmic-themed playlist that beautifully blends the celestial with the romantic. The curation begins with iconic tracks like 'Femme Fatale' by The Velvet Underground and Nico, creating an immediate sense of vintage allure. The inclusion of Lou Reed's 'Satellite of Love' serves as a thematic anchor, with its poetic exploration of isolation and longing in a cosmic context. The playlist's diversity, featuring artists from REM to U2, demonstrates a thoughtful selection that transcends genres while maintaining a cohesive atmosphere. The combination of classic tracks and unique renditions, such as the piano and vocal interpretation of 'Somewhere (Dirty Blvd.)' by Lang Lang and Lisa Fischer, adds depth and surprises the listener. This episode exemplifies how music can create a bridge between the vastness of space and the intimacy of human emotion, offering both nostalgic comfort and fresh perspectives on cosmic themes in music.",
-    "summary_zh": "本期播客以'爱的卫星'为主题，精心挑选了26首关于宇宙与爱情的音乐作品。从Velvet Underground的经典到Lou Reed的《卫星之爱》，每一首歌都在探索宇宙与人类情感的独特联系。特别是郎朗与Lisa Fischer合作的《Somewhere (Dirty Blvd.)》将爵士与古典元素完美融合，为播客增添了新的维度。这份歌单不仅展现了音乐的多样性，更通过对宇宙的浪漫想象，让听众在熟悉的旋律中感受到新的启发。",
-    "best_quote_en": "'Satellite of Love' by Lou Reed - 'I watched the satellite, I watched it fall and burn up, going, say goodbye to my beloved'",
-    "best_quote_zh": "郎朗与Lisa Fischer合作的《Somewhere (Dirty Blvd.)》展现了古典与爵士的完美融合"
-  },
-  {
-    "id": 124,
-    "title": "#Bonus 说没就没的美国签证：愤怒、无助和一个华人留学生的选择",
-    "title_zh": "#Bonus 说没就没的美国签证：愤怒、无助和一个华人留学生的选择",
-    "source": "声东击西",
-    "link": "http://etw.fm/2152",
-    "tags": [
-      "inspire",
-      "education",
-      "politics",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "政治时事",
-      "未来预测"
-    ],
-    "date": "2025-04-17",
-    "summary_en": "This episode of '声动击乐' sheds light on a disturbing trend of sudden visa revocations affecting international students in the US, particularly targeting Chinese students with little to no prior infractions. The case of YC, a first-year graduate student at USC, exemplifies the broader issue of arbitrary visa cancellations without clear explanations or due process. The episode explores the emotional turmoil and existential uncertainty faced by students suddenly confronted with 'illegal overstay' status, despite clean records. It also raises important questions about the political motivations behind these actions and the systemic issues within the SEVIS tracking system. The narrative serves as both a personal story and a broader commentary on the precarious position of international students in the current political climate.",
-    "summary_zh": "这期节目揭示了美国近期针对国际学生的签证取消潮，特别是对无违法记录的中国留学生的影响。南加州大学的研一学生YC的经历生动展现了这些学生面临的突如其来的身份危机。节目探讨了缺乏正当程序的签证取消对学生人生规划的冲击，以及背后可能存在的政治动机。更值得关注的是，这反映了国际学生在当前政治环境下的脆弱地位和SEVIS系统的潜在问题。",
-    "best_quote_en": "In a state of confusion and anxiety, I had to completely rethink my future plans with no buffer period at all.",
-    "best_quote_zh": "在毫无预警的情况下突然收到合法身份被取消的通知，在一头雾水且焦虑的状态里寻求来自学校以及其他团体的帮助，同时不得不重新审视自己的未来该何去何从"
-  },
-  {
-    "id": 125,
-    "title": "针尖·多味听觉馆 #2：在大马讲华语，没你想的那么容易",
-    "title_zh": "针尖·多味听觉馆 #2：在大马讲华语，没你想的那么容易",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep2/",
-    "tags": [
-      "analyze",
-      "society",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2017-09-03",
-    "summary_en": "This episode of 针尖·多味听觉馆 delves into the complex cultural landscape of Malaysia's Chinese community, exploring the challenges and nuances of preserving Chinese language and culture in a multi-ethnic society. The podcast examines the historical context of Chinese immigration, the unique Peranakan culture, and the modern struggles of Chinese education in Malaysia. Through discussions on food culture, the popular debate show 奇葩说, and the social status of Chinese Malaysians, the hosts offer a nuanced perspective on cultural identity and preservation. The episode highlights how Malaysian Chinese maintain their cultural heritage while navigating the political and social realities of their country.",
-    "summary_zh": "这期节目深入探讨了马来西亚华人社群的复杂文化地位，揭示了在多元族群社会中保存华语和华文化的挑战与独特性。从历史移民背景到独特的娘惹文化，再到现代华文教育的困境，主持人通过美食文化、热门辩论节目以及华人的社会地位等话题，展现了文化认同与传承的微妙平衡。节目让我们思考如何在政治与社会现实中坚守文化根源。",
-    "best_quote_en": "In Malaysia, the Chinese community has a long history, from Ming and Qing dynasty immigrants to modern-day Peranakan culture, yet preserving Chinese education hasn't been easy under the 'Malay-first' national ideology.",
-    "best_quote_zh": "在大马，华人历史悠久，从明清时期下南洋的移民到现代的娘惹文化，但华文教育在‘马来人至上’的观念下并不容易。"
-  },
-  {
     "id": 126,
     "title": "#342 特朗普 2.0 时代，「西方」还存在吗？",
     "title_zh": "特朗普 2.0 时代，「西方」还存在吗？",
@@ -2354,5 +2282,77 @@
     "summary_zh": "本期通过凯·伯德的传记写作，探讨传记如何揭示历史与权力运作的复杂性。伯德的中东成长经历赋予其独特视角，让他能深入挖掘麦克洛伊、卡特等历史人物背后的故事。从核威胁到AI挑战，人类似乎未能从历史中吸取教训，巴以冲突依然持续。传记不仅是个人故事，更是时代的镜像，提醒我们反思历史的重要性。",
     "best_quote_en": "Humanity seems unable to learn from history as we face new threats like AI while old conflicts like those in the Middle East persist.",
     "best_quote_zh": "人类似乎无法从历史中吸取教训，面对AI等新威胁时，像中东冲突这样的旧问题依然持续。"
+  },
+  {
+    "id": 223,
+    "title": "#369  AI 将会演化成一种有智慧的生命吗，一名人工智能科学家的见解",
+    "title_zh": "AI 将会演化成一种有智慧的生命吗，一名人工智能科学家的见解",
+    "source": "声东击西",
+    "link": "http://etw.fm/2188",
+    "tags": [
+      "analyze",
+      "science",
+      "ai-research",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "AI研究",
+      "数据驱动"
+    ],
+    "date": "2025-11-20",
+    "summary_en": "This podcast episode explores the fascinating question of whether AI could evolve into a life form, blending perspectives from evolution, biology, and cognitive science. The discussion reveals striking similarities between AI development and biological evolution, including adaptation to environmental pressures and the emergence of unique preferences. The episode delves into AI's potential ecological niche, its impact on humanity, and how we should reconsider our own existence in light of these developments. With insights from AI researcher Song Ruihua, it offers a thought-provoking examination of AI's future that feels more realistic than science fiction.",
+    "summary_zh": "这期播客探讨了AI是否可能演化为生命体，从进化、生物学和认知科学角度剖析。AI的适应性进化与生物惊人相似，并展现出独特偏好。讨论了AI的生态位、对人类的影响及我们如何重新思考自身存在。宋睿华教授的见解让未来感更贴近现实，超越科幻想象。",
+    "best_quote_en": "AI will undergo 'selection' under environmental pressures, constantly evolving through countless tiny variations, even developing its own aesthetic and judgment logic.",
+    "best_quote_zh": "AI 在环境压力下会被「选择」，在无数微小的演变中不断进化，甚至开始展现出自己的一套品味和判断逻辑。"
+  },
+  {
+    "id": 224,
+    "title": "#283 声音实验室：送你一声穿越历史的龙吟，一份寂静和一支城市电子乐",
+    "title_zh": "#283 声音实验室：送你一声穿越历史的龙吟，一份寂静和一支城市电子乐",
+    "source": "声东击西",
+    "link": "http://etw.fm/2084",
+    "tags": [
+      "analyze",
+      "science",
+      "design",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "设计创意",
+      "未来预测"
+    ],
+    "date": "2024-01-19",
+    "summary_en": "This episode of 'Sound Lab' offers a unique auditory journey through three distinct sonic environments: Silence, Collision, and Mythical Creatures. It explores the elusive nature of true silence, the creation of urban electronic music from street sounds, and an imaginative recreation of what dragon roars might sound like based on ancient texts and research. The program represents a year of experimentation by the Sheng FM production team, showcasing their creative exploration of sound as an artistic medium. What makes this episode particularly fascinating is how it bridges ancient mythology with modern sound design, offering listeners both cultural insight and innovative auditory experiences. The team's meticulous approach to sound creation, blending historical research with contemporary techniques, makes this more than just a podcast episode—it's an immersive sonic experiment that challenges our perceptions of sound and silence.",
+    "summary_zh": "本期「声音实验室」带我们穿越三个独特的声景世界：寂静、碰撞与神奇生物。从追寻0分贝的真正安静，到用城市噪音创作独特的电子乐，再到通过古籍复原龙的吼声，这期节目展现了声动团队一年来对声音艺术的探索。最打动人的是，他们将古老神话与现代声景设计完美结合，让听众在沉浸式体验中重新思考声音与寂静的本质。这种将历史与创新融合的独特尝试，正是当代播客的独特价值所在。",
+    "best_quote_en": "We finally came close to this mythical creature that exists only in our imagination, presenting itself in the form of sound, moving its body, claws, and tail, its tentacles dancing in the storm.",
+    "best_quote_zh": "我们终于无限接近这种存在于我们想象中的未明生物，它以声音的面貌，摆动着它的身躯、利爪和长尾，触须飞动，在狂风骤雨中穿行。"
+  },
+  {
+    "id": 225,
+    "title": "#278 当一个国家抛弃自己的货币：阿根廷「全面美元化」下的绝望与豪赌",
+    "title_zh": "#278 当一个国家抛弃自己的货币：阿根廷「全面美元化」下的绝望与豪赌",
+    "source": "声东击西",
+    "link": "http://etw.fm/2079",
+    "tags": [
+      "solve",
+      "economics",
+      "politics",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "解决",
+      "经济金融",
+      "政治时事",
+      "数据驱动"
+    ],
+    "date": "2023-11-30",
+    "summary_en": "This episode of 'What's Next' delves into Argentina's economic crisis and the radical proposal of full dollarization under newly elected president Javier Milei. With inflation exceeding 100% and 40% of the population in poverty, the episode explores whether abandoning monetary sovereignty for dollarization could break Argentina's cycle of economic despair. The discussion examines both the potential benefits and significant drawbacks of this drastic measure, including loss of fiscal autonomy and dependence on US monetary policy. The panelists - including financial experts - analyze historical cases of dollarization, the political context behind Milei's election, and the broader implications for Argentina's future and international relations. The episode serves as both an economic case study and a reflection on populist responses to systemic economic failures.",
+    "summary_zh": "阿根廷通胀超100%，40%民众陷入贫困，新总统米莱的美元化提案是绝望中的豪赌？本期探讨货币主权放弃的代价与可能带来的改变，从经济学视角剖析极端政策背后的民意，为其他国家提供重要借鉴。",
+    "best_quote_en": "'Dollarization means surrendering monetary sovereignty and seigniorage, but for Argentina, it might be the only way to break free from its chronic economic cycles.'",
+    "best_quote_zh": "美元化意味着放弃货币主权和铸币税，但对阿根廷来说，这可能是打破长期经济循环的唯一出路。"
   }
 ]
