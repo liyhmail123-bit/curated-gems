@@ -1,125 +1,5 @@
 [
   {
-    "id": 126,
-    "title": "#342 特朗普 2.0 时代，「西方」还存在吗？",
-    "title_zh": "特朗普 2.0 时代，「西方」还存在吗？",
-    "source": "声东击西",
-    "link": "http://etw.fm/2151",
-    "tags": [
-      "update",
-      "politics",
-      "business-model",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "动态",
-      "政治时事",
-      "商业模式",
-      "未来预测"
-    ],
-    "date": "2025-04-11",
-    "summary_en": "This episode explores the evolving transatlantic rift between the US and Europe, particularly under the shadow of a potential Trump 2.0 presidency. Through interviews with journalists based in Europe, it examines how European attitudes toward the US have shifted, tracing the gradual erosion of the 'Western' alliance. The discussion covers economic retaliation like EU tariffs on US goods, military posturing, and the cultural shock of American policies on European soil. It also looks ahead to Europe's future defense and economic strategies in this new geopolitical landscape. The analysis provides ground-level perspectives from journalists who experience these changes both professionally and personally, offering a nuanced view of a relationship in flux.",
-    "summary_zh": "本期节目通过欧洲驻地记者的视角，剖析特朗普可能连任对欧美关系的深层影响。从关税反制到军事重整，探讨西方联盟的瓦解与重构。记者的双重身份使报道更具现实冲击力，既有政策分析，也有文化碰撞的直观感受。节目预测欧洲未来可能的应对策略，揭示一个正在重新定义的地缘政治格局。",
-    "best_quote_en": "The transatlantic bond that once seemed unbreakable is now showing cracks wider than anyone anticipated.",
-    "best_quote_zh": "曾经以为不可撼动的大西洋联盟，如今裂痕比所有人预期的都要深."
-  },
-  {
-    "id": 127,
-    "title": "针尖·多味听觉馆 #1：大马初印象：这个模范生好 fancy",
-    "title_zh": "针尖·多味听觉馆 #1：大马初印象：这个模范生好 fancy",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/mig/ep1/",
-    "tags": [
-      "analyze",
-      "science",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2017-08-30",
-    "summary_en": "This podcast episode offers a rich, multi-sensory exploration of Malaysia's cultural landscape, challenging Huntington's 'Clash of Civilizations' thesis. Through field recordings and personal narratives, it captures the vibrant interplay of Malay, Chinese, and Indian cultures in cities like George Town and Kuala Lumpur. The content thoughtfully examines Malaysia's success as a multicultural society while acknowledging underlying tensions. It serves as both an educational resource about Southeast Asian cultures and a case study in globalized multiculturalism. The episode's immersive approach makes abstract sociopolitical concepts tangible.",
-    "summary_zh": "这期播客通过声音记录和个人叙事，生动呈现马来西亚多元文化的碰撞与融合，挑战亨廷顿的文明冲突论。乔治市和吉隆坡的街头风景，成为理解马来西亚作为模范多元社会的生动案例。内容既展现了文化多样性的奇妙感受，也暗示了全球化背景下的潜在张力。既是文化教育，也是社会分析的有益尝试。",
-    "best_quote_en": "'Huntington might be moved by this scene' - reflecting on Malaysia's successful multicultural coexistence",
-    "best_quote_zh": "亨廷顿看到这一幕也许会感动"
-  },
-  {
-    "id": 128,
-    "title": "#341 特朗普 2.0 时代下，一位美国驻东亚记者的观察",
-    "title_zh": "#341 特朗普 2.0 时代下，一位美国驻东亚记者的观察",
-    "source": "声东击西",
-    "link": "http://etw.fm/2150",
-    "tags": [
-      "update",
-      "ai-research",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "动态",
-      "AI研究",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-04-03",
-    "summary_en": "This podcast episode offers a fascinating perspective on East Asia through the eyes of Anthony Kuhn, an NPR journalist who has lived and worked in the region for decades. The discussion explores how American perceptions of East Asia have evolved, particularly under Trump's presidency, and what this means for regional dynamics. Key insights include the shifting balance of power, Japan and South Korea's potential strategic realignments, and the delicate economic-security relationship between these nations and both the US and China. The analysis provides valuable context for understanding contemporary geopolitical tensions and their implications for regional stability.",
-    "summary_zh": "这期对谈通过NPR记者孔安的视角，剖析特朗普时代下东亚的地缘政治变局。从美国民众对东亚认知的演变，到日韩面对美中博弈的战略抉择，内容揭示了地区安全格局的微妙转变。特别是“安全靠美国，经济靠中国”模式的可持续性成为关键议题，引发对东亚未来走向的深刻思考。",
-    "best_quote_en": "The real turning point in US-China relations came when Trump took office and began treating China as a strategic competitor rather than a partner.",
-    "best_quote_zh": "中美关系的转折点在于特朗普上任后，开始把中国视为战略竞争对手而非合作伙伴。"
-  },
-  {
-    "id": 129,
-    "title": "通知 #多味听觉馆# 即将开张，喜欢播客的朋友请进",
-    "title_zh": "通知 #多味听觉馆# 即将开张，喜欢播客的朋友请进",
-    "source": "政见",
-    "link": "http://cnpolitics.github.io/radio/msg/msg2/",
-    "tags": [
-      "analyze",
-      "science",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2017-07-17",
-    "summary_en": "The article announces the launch of '多味听觉馆' (Tasteful Auditory Gallery), a new phase for the popular Chinese podcast '政记干货大排档' (Zhengji Podcast). After 42 episodes of sharing global academic research on Chinese politics and society, the team reflects on their journey, expressing both their commitments and uncertainties. The podcast, created by a volunteer team scattered globally, aims to break down knowledge barriers by presenting valuable academic insights in engaging audio formats. The announcement introduces three interaction channels for listener feedback and participation. The new season will feature thematic content, starting with travel experiences of team members, and exploring diverse topics like modern mental health issues, political ideologies, rural youth experiences, gender studies, and academic research methodologies. The team emphasizes their mission to create original, heartfelt, and substantive content that makes knowledge accessible and enjoyable.",
-    "summary_zh": "这篇文章宣布“多味听觉馆”的开张，标志着《政记干货大排档》播客的新阶段。经过42期节目分享全球学术界对中国政治和社会的研究，团队回顾了他们的旅程，表达了坚持与迷茫。这个由志愿者组成的全球团队致力于打破知识壁垒，将有价值的学术研究以有趣的声音形式呈现。文章介绍了三种与听众互动的渠道，并揭示了新一季的主题内容，从团队成员的旅行经历开始，探索现代人心理问题、政治主义、小城青年生活、性别研究等多元话题。团队坚持创作原创、走心、有干货的内容，让知识变得有趣。",
-    "best_quote_en": "We want to make knowledge interesting and let the world enter your life through sound. Our lives have many cracks that need to be discovered and filled, and we want to do this together with you, to see different sunlight and rainbows in the cracks.",
-    "best_quote_zh": "我们想要让知识变得有趣，让世界通过声音走进你的生活。我们的生活中有许多裂缝，需要去发现，去填补，而我们要做的，就是和你一起，在裂缝中看到不一样的阳光和彩虹。"
-  },
-  {
-    "id": 130,
-    "title": "#340 当 AI 能秒回答案，我们可以为青少年提供何种不一样的成长养料",
-    "title_zh": "#340 当 AI 能秒回答案，我们可以为青少年提供何种不一样的成长养料",
-    "source": "声东击西",
-    "link": "http://etw.fm/2149",
-    "tags": [
-      "inspire",
-      "education",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "教育学习",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2025-03-27",
-    "summary_en": "This podcast episode explores the challenges and opportunities presented by AI's rapid development in education, particularly for adolescents. The creators of 'Knock Knock 世界' discuss their motivations for developing a new podcast aimed at fostering critical thinking and curiosity in young audiences. They address the gap in deep reading among youth, the need for adaptable skills in a fast-changing world, and the importance of breaking out of AI-driven information bubbles. The episode highlights the unique approach of involving teenagers in content creation, making it both educational and engaging. The thoughtful discussion offers valuable insights for parents, educators, and anyone interested in youth development in the digital age.",
-    "summary_zh": "这期节目探讨了AI快速发展对教育尤其是青少年成长带来的挑战与机遇。创作者们分享了制作「Knock Knock 世界」新节目的初衷，旨在培养青少年批判性思维和好奇心。他们指出当代青少年深度阅读的匮乏，以及在快速变化的世界中保持核心素养的重要性。节目特别强调通过让孩子们参与内容制作来激发思考，为教育工作者和家长提供了宝贵的启示。",
-    "best_quote_en": "We need to help young people develop an open mindset and active critical thinking to face the future.",
-    "best_quote_zh": "我们需要帮助青少年培养开放的心态和积极的思辨能力，以面对未来。"
-  },
-  {
     "id": 131,
     "title": "#339 中国短剧登陆好莱坞：一位驻美记者在好莱坞短剧剧组的观察",
     "title_zh": "中国短剧登陆好莱坞：一位驻美记者在好莱坞短剧剧组的观察",
@@ -2354,5 +2234,125 @@
     "summary_zh": "阿根廷通胀超100%，40%民众陷入贫困，新总统米莱的美元化提案是绝望中的豪赌？本期探讨货币主权放弃的代价与可能带来的改变，从经济学视角剖析极端政策背后的民意，为其他国家提供重要借鉴。",
     "best_quote_en": "'Dollarization means surrendering monetary sovereignty and seigniorage, but for Argentina, it might be the only way to break free from its chronic economic cycles.'",
     "best_quote_zh": "美元化意味着放弃货币主权和铸币税，但对阿根廷来说，这可能是打破长期经济循环的唯一出路。"
+  },
+  {
+    "id": 226,
+    "title": "#281 美国权力的运转，奥本海默，中东冲突和一位传记作家｜英文版",
+    "title_zh": "美国权力的运转，奥本海默，中东冲突和一位传记作家｜英文版",
+    "source": "声东击西",
+    "link": "http://etw.fm/2081",
+    "tags": [
+      "solve",
+      "science",
+      "writing-content",
+      "case-study"
+    ],
+    "tags_zh": [
+      "解决",
+      "科学研究",
+      "写作内容",
+      "案例研究"
+    ],
+    "date": "2023-12-22",
+    "summary_en": "This podcast episode explores the power of biography as a tool for understanding history and contemporary issues. Kai Bird, a historian and biographer, shares his unique perspective shaped by growing up amidst Middle Eastern conflicts. The discussion centers on his work profiling influential but often overlooked figures like John J. McCloy and Jimmy Carter, and his collaboration on the definitive Oppenheimer biography. The conversation draws intriguing parallels between historical power structures and current technological challenges, particularly AI's transformative potential. Bird's work reveals how personal stories illuminate broader historical patterns, challenging us to learn from the past as we navigate present threats and ethical dilemmas.",
+    "summary_zh": "这期播客探讨了传记如何成为理解历史与当下问题的窗口。凯·伯德以在中东战火中长大的独特视角，揭示了麦克洛伊、卡特等幕后推动历史的人物故事。关于奥本海默的合著更展现了科学家与政治权力的交织。从核威胁到AI革命，历史似乎在重复，而我们仍需勇气反思。伯德的研究提醒我们：个人传奇往往折射时代命运，理解权力运作才能更好应对技术时代的挑战。",
+    "best_quote_en": "Humanity seems unable to learn from history as we face new threats from AI while enduring continuing conflicts like those in the Middle East.",
+    "best_quote_zh": "人类似乎无法从历史中吸取教训，当我们面对AI的新威胁时，中东冲突依旧持续。"
+  },
+  {
+    "id": 227,
+    "title": "#279 喝着「早咖啡」一起「跳进兔子洞」：声动活泼的幕后大揭秘",
+    "title_zh": "#279 喝着「早咖啡」一起「跳进兔子洞」：声动活泼的幕后大揭秘",
+    "source": "声东击西",
+    "link": "http://etw.fm/2080",
+    "tags": [
+      "inspire",
+      "science",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "启发",
+      "科学研究",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2023-12-13",
+    "summary_en": "This episode offers a rare behind-the-scenes look at the production processes of Shengdong Huopao's popular podcasts, particularly 'Early Coffee' and 'Jump into the Rabbit Hole.' The creators discuss their daily routines, the challenges of daily content creation, and the unexpected twists in interview processes. The episode also previews upcoming shows, inviting listeners to join their membership program to support continued innovation. What stands out is the transparency about the creative process and the community-building aspect through memberships, reflecting a deeper engagement with their audience beyond just content consumption.",
+    "summary_zh": "本期节目揭秘声动活泼热门播客的幕后制作过程，尤其是「早咖啡」和「跳进兔子洞」的制作团队分享了日更节目的挑战与采访过程中的波折。节目末尾预告了明年新节目的计划，并邀请听众加入会员计划支持创新。这种透明化的创作分享与通过会员制深化的社群互动，展现了声动活泼对内容与用户关系的独特理解。",
+    "best_quote_en": "'Every episode of 'Jump into the Rabbit Hole' is like jumping into a rabbit hole itself'",
+    "best_quote_zh": "每一次的节目制作过程就像是跳进兔子洞"
+  },
+  {
+    "id": 228,
+    "title": "#277 事业、家庭和自我：成为父母前，我们究竟在担忧什么？",
+    "title_zh": "#277 事业、家庭和自我：成为父母前，我们究竟在担忧什么？",
+    "source": "声东击西",
+    "link": "http://etw.fm/2078",
+    "tags": [
+      "analyze",
+      "science",
+      "society",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "分析",
+      "科学研究",
+      "社会议题",
+      "未来预测"
+    ],
+    "date": "2023-11-15",
+    "summary_en": "This episode of Bigger Than Us delves into the complex considerations surrounding parenthood, particularly from the perspective of young professionals. The discussion is framed by recent economic research highlighting how family responsibilities, especially childbearing, significantly impact women's participation in the workforce. The podcast features five colleagues from the voice media company Sheng FM, including two newlyweds and two working mothers who are also co-founders, sharing their diverse views on whether to become parents. They explore themes like self-discovery, relationships, and the profound life experience of parenthood. The conversation touches on practical concerns like societal support systems and the psychological preparation needed before becoming a parent. The episode also highlights how technological advancements have alleviated some of the physical burdens of childbirth. With its open and honest dialogue, this podcast offers valuable insights into the modern dilemmas surrounding parenthood, making it particularly relevant for young adults grappling with similar decisions.",
+    "summary_zh": "本期节目通过声动活泼团队成员的真实对话，探讨成为父母这一生命重大决定背后的复杂思考。从经济学角度分析生育对女性职业发展的影响，到不同人生阶段对育儿的多元看法，节目展现了当代年轻人在事业与家庭平衡中的真实困惑。嘉宾们分享了关于自我认知、家庭关系和育儿准备的深刻见解，尤其强调社会支持体系的重要性。在科技进步减轻生育痛苦的同时，节目也引发对更广泛社会问题的思考。这段对话不仅帮助个人理解自己的选择，也反映了当代社会对育儿观的深刻变革。",
+    "best_quote_en": "Becoming a parent requires a healthy system of support; you can't fight this battle alone.",
+    "best_quote_zh": "成为父母需要一个健康的支持体系，不能一个人战斗。"
+  },
+  {
+    "id": 229,
+    "title": "#276 七周年摸鱼不成，大家一起听听选题会吧！",
+    "title_zh": "#276 七周年摸鱼不成，大家一起听听选题会吧！",
+    "source": "声东击西",
+    "link": "http://etw.fm/2077",
+    "tags": [
+      "solve",
+      "design",
+      "writing-content",
+      "future-prediction"
+    ],
+    "tags_zh": [
+      "解决",
+      "设计创意",
+      "写作内容",
+      "未来预测"
+    ],
+    "date": "2023-11-08",
+    "summary_en": "The seventh anniversary episode of 'Voice East Strike West' takes an innovative approach by inviting listeners into their editorial meeting process. The discussion reveals intriguing unproduced topics like why European cities are removing bike lanes and the political dynamics behind high-speed rail construction. This behind-the-scenes look offers valuable insight into content creation while sparking conversations about urban planning and transportation policy. The episode cleverly blends introspection with audience engagement, creating a unique connection between creators and listeners.",
+    "summary_zh": "《声东击西》七周年特辑别开生面，首次揭秘选题会流程。从欧洲自行车道争议到高铁修建背后的政治博弈，揭示未播出的精彩故事。这种开放透明的节目形式不仅展示了内容创作的幕后过程，更引发了关于城市规划和交通政策的深度思考。这种创新的互动方式拉近了创作者与听众之间的距离，让七年相伴的情感更显珍贵。",
+    "best_quote_en": "Why would European cities that promote low-carbon transportation remove bike lanes?",
+    "best_quote_zh": "推崇低碳出行的欧洲城市，为什么要剔除自行车道？"
+  },
+  {
+    "id": 230,
+    "title": "#275 从「纽约时报」的失误说起：巴以冲突报道为何迷雾重重？",
+    "title_zh": "#275 从「纽约时报」的失误说起：巴以冲突报道为何迷雾重重？",
+    "source": "声东击西",
+    "link": "http://etw.fm/2076",
+    "tags": [
+      "analyze",
+      "writing-content",
+      "science",
+      "data-driven"
+    ],
+    "tags_zh": [
+      "分析",
+      "写作内容",
+      "科学研究",
+      "数据驱动"
+    ],
+    "date": "2023-11-01",
+    "summary_en": "This episode critically examines media reporting challenges through the lens of the New York Times' controversial coverage of the Gaza hospital explosion. It explores the complexities of war reporting, the impact of social media on news dissemination, and the erosion of media credibility in the algorithmic age. Through expert interviews, the podcast dissects the difficulties of verifying open-source intelligence and the delicate balance between journalistic responsibility and public skepticism. The discussion extends to broader questions about media bias and the geopolitical dimensions of conflict reporting, offering valuable insights into modern journalism's struggles and the evolving nature of truth in digital media landscapes.",
+    "summary_zh": "本期节目以《纽约时报》巴勒斯坦医院爆炸报道的争议为切入点，深入探讨战争报道的挑战性。在社交媒体放大效应和算法驱动的流量逻辑下，传统媒体如何保持公信力？专家们分析开源情报的验证难题，以及公众日益增长的怀疑态度。这场讨论不仅关乎媒体的职业操守，更触及地缘政治与新闻叙事之间的复杂关系，为我们理解当代新闻生态提供了宝贵视角。",
+    "best_quote_en": "How can traditional media maintain credibility when news is increasingly tied to algorithms and traffic metrics?",
+    "best_quote_zh": "当新闻与算法和流量绑定时，公信力该向何处去寻？"
   }
 ]
